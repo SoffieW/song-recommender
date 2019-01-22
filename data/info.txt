@@ -1,0 +1,5 @@
+data.tsv - contains play history data for 100 unique users
+normalised_data.tsv - contains an additional column: normalised_pc (normalised playcount)
+
+subset_data.tsv - Number of unique tracks = 320, Number of unique users = 23
+meta.tsv - Contains the musicbrainz metadata for the 320 unique tracks in subset_data.tsv

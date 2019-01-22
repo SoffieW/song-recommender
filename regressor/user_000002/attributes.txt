@@ -1,0 +1,8 @@
+title - Name of the track
+artist_name - Name of track artist
+album - Most popular release title
+date - Year of release
+country - Country where the artist is from or a group formed
+track_genres - track specific tags contain genres
+artist_genres - artist specific tags contain genres
+bpm - beats per minute indicates tempo of track

@@ -1,0 +1,501 @@
+user_id	track_id	track_name	artist_id	artist_name	playcount
+user_000002	21d1285f-4221-410f-9faf-c06e30f1438e	Cannonball	2119beb8-6ac5-4f21-82a4-b831c90c0024	Damien Rice	139
+user_000002	eca73dae-0841-4150-9839-08923eb26fcf	Nacht	315fa94f-3bb5-43db-a28e-406a83e9805c	Kettcar	124
+user_000002	a5741d3d-c925-4070-8a83-910d23eb33d4	I Will Follow You Into The Dark	0039c7ae-e1a7-4a7d-9b49-0cbc716821a6	Death Cab For Cutie	124
+user_000002	f4ea7daf-9ff4-4d66-8db1-555fa8dacfe2	Walk Away	1582a5b8-538e-45e7-9ae4-4099439a0e79	Ben Harper	115
+user_000002	b71e3be1-0e8e-4ad9-b00b-b6868065c70d	48 Stunden	315fa94f-3bb5-43db-a28e-406a83e9805c	Kettcar	113
+user_000002	c1106ff7-440e-4745-80d7-91ccdea93d4f	I Get Along	82b304c0-7da4-45d3-896a-0767c7ae1141	The Libertines	103
+user_000002	08535ef6-a26c-4ca2-a9e0-cc40117cdb21	The Good Old Days	82b304c0-7da4-45d3-896a-0767c7ae1141	The Libertines	102
+user_000002	610263b6-6fd7-4e9c-b385-87ca51f7d377	Play Crack The Sky	9311e2bc-bb3f-44cf-90d8-b1fe6912b60b	Brand New	98
+user_000002	54802efb-fd1c-4613-957b-6f1be649390e	Fuck Forever	8e1e03fe-ebbc-467a-b541-857144db10fb	Babyshambles	96
+user_000002	cc656aed-6304-42c9-89b8-9f26113d5b14	Balu	315fa94f-3bb5-43db-a28e-406a83e9805c	Kettcar	94
+user_000002	7bceb1ae-fb8e-48dd-a8e2-7ff6207b75db	What Katie Did	82b304c0-7da4-45d3-896a-0767c7ae1141	The Libertines	90
+user_000002	43483231-f75d-410e-8482-2b6ad7a8d237	Albion	8e1e03fe-ebbc-467a-b541-857144db10fb	Babyshambles	89
+user_000002	a11e3dfc-2a53-412a-92b4-1cb6403a5a7d	I Just Don'T Think I'Ll Ever Get Over You	864d7069-57dc-45f6-b408-875b35106dd3	Colin Hay	88
+user_000002	b351955e-83f8-4236-98b7-9912761ef2e4	Killamangiro	8e1e03fe-ebbc-467a-b541-857144db10fb	Babyshambles	87
+user_000002	c9b89088-01cd-4d98-a1f4-3e4a00519320	Seaside	f82f3a3e-29c2-42ca-b589-bc5dc210fa9e	The Kooks	87
+user_000002	a0ab9c5c-2885-4610-9661-95591404b1fd	The 32Nd Of December	8e1e03fe-ebbc-467a-b541-857144db10fb	Babyshambles	86
+user_000002	ae27255c-14c6-425e-9bc6-a1372704790d	Always Love	b9a2a9a6-7a40-48a6-bcb1-8eff5b89ad5b	Nada Surf	86
+user_000002	7489cc34-25de-4fc9-b3da-38e69eeeefe0	Pipe Down	8e1e03fe-ebbc-467a-b541-857144db10fb	Babyshambles	86
+user_000002	6bf8dd88-a0fa-4d19-9bc5-ee0b765e22c1	Another Lonely Day	1582a5b8-538e-45e7-9ae4-4099439a0e79	Ben Harper	84
+user_000002	61f5584f-4052-4149-a4b5-07d6404cd871	La Belle Et La Bête	8e1e03fe-ebbc-467a-b541-857144db10fb	Babyshambles	83
+user_000002	4e1192bb-b2ad-459d-a0f7-c648c18d3695	Back From The Dead	8e1e03fe-ebbc-467a-b541-857144db10fb	Babyshambles	82
+user_000002	b3e1f079-bc12-430a-af79-db659db2fcd8	Eve, The Apple Of My Eye	3660a894-2cf6-4f6b-b995-c967da3c78c9	Bell X1	82
+user_000002	dc4e82f0-0299-450c-b9d3-b45126086b84	Außer Dir	b9b1efa6-8e01-4726-a9d5-0f96f5fd23d9	Judith Holofernes	81
+user_000002	b58da454-99af-40d5-8c3f-141eea03df92	Music When The Lights Go Out	82b304c0-7da4-45d3-896a-0767c7ae1141	The Libertines	81
+user_000002	6ae770aa-c87b-4e88-8713-6d8903940e24	Sticks & Stones	8e1e03fe-ebbc-467a-b541-857144db10fb	Babyshambles	81
+user_000002	ed33e6d4-d416-481b-a7f7-f65effab6598	8 Dead Boys	8e1e03fe-ebbc-467a-b541-857144db10fb	Babyshambles	79
+user_000002	3a10bb3d-5e96-402e-a5ca-b3ee202c5a9d	The Saga	82b304c0-7da4-45d3-896a-0767c7ae1141	The Libertines	78
+user_000002	1d0778cb-7c0a-4ee1-bda1-ac5a2609a0b6	Tomblands	82b304c0-7da4-45d3-896a-0767c7ae1141	The Libertines	78
+user_000002	c257113a-c792-4f8d-b18f-2bf1fe8f863f	Hide And Seek	328d146c-79f1-4eb6-9e40-8ee5710c14e5	Imogen Heap	77
+user_000002	5abe6ada-a404-4371-a787-17b38399275e	What A Waster	82b304c0-7da4-45d3-896a-0767c7ae1141	The Libertines	77
+user_000002	0c1eb2b0-78f0-4b2a-961e-96a925240245	Fidelity	fbb375f9-48bb-4635-824e-4120273b3ba7	Regina Spektor	76
+user_000002	fc2b5679-9647-46c3-ba71-176f6b08890a	Agua De Beber	bd3deba0-d5f7-4c67-b840-36ce967b035b	Sophie Milman	76
+user_000002	f67d3be4-71c1-4d3f-be21-a9c3e0741492	In Love With A Feeling	8e1e03fe-ebbc-467a-b541-857144db10fb	Babyshambles	75
+user_000002	1133b71f-171a-4872-bbee-c0054bfa8332	Apply Some Pressure	92e634a7-6023-4be8-be15-ebba822f5b34	Maxïmo Park	75
+user_000002	ee39e8ae-e267-448f-a60a-9e0ee358c0a4	Such Great Heights	c3f28da8-662d-4f09-bdc7-3084bf685930	Iron & Wine	75
+user_000002	1e2c0452-6303-4874-8fca-46e37008935b	Waiting On An Angel	b07016ee-5de9-4419-8205-0490d95dc638	Ben Harper	74
+user_000002	b9d9ef41-584d-46c5-a2ec-09a66a66527e	I Can'T Give You Anything But Love, Baby	bd3deba0-d5f7-4c67-b840-36ce967b035b	Sophie Milman	74
+user_000002	a30e93a7-455f-470c-afb2-3bdb785cb6d4	What Became Of The Likely Lads	82b304c0-7da4-45d3-896a-0767c7ae1141	The Libertines	74
+user_000002	33e6108f-c3c9-47b7-a406-54c63e20f1fe	Last Post On The Bugle	82b304c0-7da4-45d3-896a-0767c7ae1141	The Libertines	73
+user_000002	c8986ea9-752d-46d6-b7fe-f71e28c168f2	Arbeit Macht Frei	82b304c0-7da4-45d3-896a-0767c7ae1141	The Libertines	73
+user_000002	715bc984-343b-480b-89cf-e5ea6335318f	Loyalty Song	8e1e03fe-ebbc-467a-b541-857144db10fb	Babyshambles	72
+user_000002	1a116383-3c67-4224-bee3-e4ea445493b9	Keine Lieder Über Liebe (Acoustic)	448d90cf-3e1f-465e-976d-6b2f3d8b686d	Hansen Band	71
+user_000002	2ab38bd9-067f-470d-a294-e85a95db9892	What Katy Did Next	8e1e03fe-ebbc-467a-b541-857144db10fb	Babyshambles	70
+user_000002	4152c5db-f363-4d6c-b42a-94a9c25869e4	Crosses	cd8c5019-5d75-4d5c-bc28-e1e26a7dd5c8	José González	68
+user_000002	7dfb9638-53ad-4bb5-8daa-f25b770aec90	Narcissist	82b304c0-7da4-45d3-896a-0767c7ae1141	The Libertines	68
+user_000002	c6105fe9-6521-4c16-9e5f-15e48d9193e2	Wonderwall (Acoustic Version)	39ab1aed-75e0-4140-bd47-540276886b60	Oasis	67
+user_000002	92857c80-9dba-4ee4-b8d3-a242419168f4	Road To Ruin	82b304c0-7da4-45d3-896a-0767c7ae1141	The Libertines	67
+user_000002	fea6a8b2-3629-4724-907e-8c033bd4ea2f	The Scientist (Acoustic)	cc197bad-dc9c-440d-a5b5-d52ba2e14234	Coldplay	66
+user_000002	1acb6e99-17d3-4285-9c97-67a6b90c68e8	The Ha Ha Wall	82b304c0-7da4-45d3-896a-0767c7ae1141	The Libertines	66
+user_000002	ebd3516d-162a-4c8e-9158-21a0a0044b57	Campaign Of Hate	82b304c0-7da4-45d3-896a-0767c7ae1141	The Libertines	66
+user_000002	f044be73-4c1f-41a3-b088-1b3e6f950792	My Darling Clementine	94f6def3-dbfe-403b-bb40-d324c8c13fbb	Peter Doherty	65
+user_000002	558248b0-7d1a-413e-b717-52e137e5e76b	The Boy Looked At Johnny	82b304c0-7da4-45d3-896a-0767c7ae1141	The Libertines	65
+user_000002	ed7a2902-a614-4b31-a053-f07914e30ebd	Boys In The Band	82b304c0-7da4-45d3-896a-0767c7ae1141	The Libertines	65
+user_000002	3762681b-9da6-4c85-88b5-82cd7d7be617	Cheers Darlin'	2119beb8-6ac5-4f21-82a4-b831c90c0024	Damien Rice	64
+user_000002	cbaa9769-1b86-47eb-ba21-420731af6ab8	Someone Like You	a41ac10f-0a56-4672-9161-b83f9b223559	Van Morrison	64
+user_000002	8eb586ab-c6a8-4b12-988e-240be7d5038b	Begging	82b304c0-7da4-45d3-896a-0767c7ae1141	The Libertines	64
+user_000002	1224f24e-ed2b-48cc-9241-42906a1fb602	My Heart Belongs To Daddy	bd3deba0-d5f7-4c67-b840-36ce967b035b	Sophie Milman	64
+user_000002	3236be90-b56b-4d7a-99c3-ced3f62a101e	Going Missing	92e634a7-6023-4be8-be15-ebba822f5b34	Maxïmo Park	63
+user_000002	ecfcdb9c-7000-46bc-8b8a-77ccfd887d78	The Only Living Boy In New York	5d02f264-e225-41ff-83f7-d9b1f0b1874a	Simon & Garfunkel	62
+user_000002	dc81a9be-56b1-462b-a314-36672784fe94	Pentonville	8e1e03fe-ebbc-467a-b541-857144db10fb	Babyshambles	62
+user_000002	a2c10d1a-4eed-4309-927d-c5656e314321	I Feel Pretty	bd3deba0-d5f7-4c67-b840-36ce967b035b	Sophie Milman	62
+user_000002	fb6cbaac-6d50-4fcb-b476-57f1caeeb2ed	She Moves In Her Own Way	f82f3a3e-29c2-42ca-b589-bc5dc210fa9e	The Kooks	62
+user_000002	3fed8ca5-a81b-407d-b52c-ad43d08b2c8d	Colorblind	a0327dc2-dc76-44d5-aec6-47cd2dff1469	Counting Crows	62
+user_000002	bfd0b8bd-5569-478b-adb2-2571280c2229	Signal And Sign	92e634a7-6023-4be8-be15-ebba822f5b34	Maxïmo Park	61
+user_000002	de7e824e-2a71-409e-b85a-f56645dbbaaa	Merry Go Round	8e1e03fe-ebbc-467a-b541-857144db10fb	Babyshambles	61
+user_000002	5dc515d8-3ea3-464b-9ec0-c7674b07f063	The Enemy	648615ca-ca74-460d-928a-2bae67ae6d14	Dirty Pretty Things	61
+user_000002	e96a88f3-13b3-4fec-a357-34fb18274007	Shoreline	3eb72791-6322-466b-87d3-24d74901eb2d	Anna Ternheim	60
+user_000002	aa4dd4a5-b0b5-41b1-abd0-c16d1673c108	Up The Morning	8e1e03fe-ebbc-467a-b541-857144db10fb	Babyshambles	60
+user_000002	ca7bf6af-0a50-4597-9037-3df39de2529a	Both Sides Now	a6de8ef9-b1a1-4756-97aa-481bbb8a4069	Joni Mitchell	60
+user_000002	aa2024ba-a5c1-4691-974b-809d79833af7	By My Side	1582a5b8-538e-45e7-9ae4-4099439a0e79	Ben Harper	60
+user_000002	27b965a1-0861-4b6a-94c2-13008859177b	The Man Who Would Be King	82b304c0-7da4-45d3-896a-0767c7ae1141	The Libertines	60
+user_000002	f5626dd0-0207-45cb-9ad5-e38ca91f4767	Bang Bang You'Re Dead	648615ca-ca74-460d-928a-2bae67ae6d14	Dirty Pretty Things	60
+user_000002	9a7a99c9-cda6-4424-a304-edc05451d5ce	Horrorshow	82b304c0-7da4-45d3-896a-0767c7ae1141	The Libertines	60
+user_000002	767bf6e1-d5ec-41bb-b721-20b601d4e3db	Guilty	bd3deba0-d5f7-4c67-b840-36ce967b035b	Sophie Milman	60
+user_000002	c9f6ee14-1566-49b1-bd4b-9364313e5b7d	Your Body Is A Wonderland	144ef525-85e9-40c3-8335-02c32d0861f3	John Mayer	59
+user_000002	145c81dc-52e9-4a73-9e36-dc77cdf06c30	The Coast Is Always Changing	92e634a7-6023-4be8-be15-ebba822f5b34	Maxïmo Park	58
+user_000002	a15ef930-44eb-48d2-9368-257b3b6acb4d	Don'T Be Shy	82b304c0-7da4-45d3-896a-0767c7ae1141	The Libertines	58
+user_000002	2cbca6ef-6f62-47d9-b2eb-1fdcb76e5790	Vertigo	82b304c0-7da4-45d3-896a-0767c7ae1141	The Libertines	58
+user_000002	f05a995c-9cdd-404f-91f8-0658044be619	When The Sun Goes Down	ada7a83c-e3e1-40f1-93f9-3e73dbc9298a	Arctic Monkeys	58
+user_000002	a93cf964-91d0-4053-a908-a7eeddae4d30	Blood Thirsty Bastards	648615ca-ca74-460d-928a-2bae67ae6d14	Dirty Pretty Things	56
+user_000002	5aa154c3-8938-4311-b39c-879201b86864	Flames	79e98efd-4515-412a-af83-df381f5badd6	Vast	56
+user_000002	8c5ebbdb-e78f-43c3-b33d-6eaa149c4867	Tell The King	82b304c0-7da4-45d3-896a-0767c7ae1141	The Libertines	56
+user_000002	f2bac73d-2ab8-41b9-a811-cad5c3deabbb	Time For Heroes	82b304c0-7da4-45d3-896a-0767c7ae1141	The Libertines	56
+user_000002	02a38ede-bc4e-4ced-aa2b-45bb5401aa64	Gabriel	0d4bc6e5-2a3e-4fdf-8bbf-59ad0bc374d7	Lamb	56
+user_000002	8cddcbd9-b2d5-4a97-95e1-d072a7b48413	Graffiti	92e634a7-6023-4be8-be15-ebba822f5b34	Maxïmo Park	56
+user_000002	9135ce5a-8ad0-4748-b62f-4fff581605f3	Gin & Milk	648615ca-ca74-460d-928a-2bae67ae6d14	Dirty Pretty Things	56
+user_000002	857eb012-b16e-42ab-8e9b-f6c47e4228af	Don'T Look Back Into The Sun	82b304c0-7da4-45d3-896a-0767c7ae1141	The Libertines	56
+user_000002	ac5f2356-58c0-4180-86ac-1d9b5a6b9490	Volle Distanz	315fa94f-3bb5-43db-a28e-406a83e9805c	Kettcar	55
+user_000002	b98ecf78-fd30-4c8e-aabd-a66dee68ad97	Hope There'S Someone	90cc2464-234e-4da0-b39b-576f36e633bc	Antony And The Johnsons	55
+user_000002	20919a48-4ad5-409c-b639-8db7ca9f9e7a	Fix You	cc197bad-dc9c-440d-a5b5-d52ba2e14234	Coldplay	55
+user_000002	fad65bd4-ac37-4644-8ca5-e5440973fa3b	Das Beste	34d42823-6b56-4861-a675-1565bf40d557	Silbermond	55
+user_000002	fc12d4a4-5585-45ab-a019-97cd08b05e4c	Death On The Stairs	82b304c0-7da4-45d3-896a-0767c7ae1141	The Libertines	54
+user_000002	11319d73-ba05-4f21-bc90-43ba4455f331	Change	1129817c-488a-4096-80c1-77fc1b107c93	Tracy Chapman	53
+user_000002	644c2275-39e8-4deb-b6db-455a128d7196	Breathing	04591295-6d94-45cb-b6c7-1ae17c6f380e	Lifehouse	53
+user_000002	aee2ba1c-b6b0-4228-87b2-793b9097f81b	Car (Acoustic)	9311e2bc-bb3f-44cf-90d8-b1fe6912b60b	Brand New	53
+user_000002	a38c28ee-4430-4429-b3e7-e7920895b2d2	Come Away With Me	985c709c-7771-4de3-9024-7bda29ebe3f9	Norah Jones	52
+user_000002	4187ddb6-f415-4688-b6f5-4e3f47f05299	Einer	315fa94f-3bb5-43db-a28e-406a83e9805c	Kettcar	52
+user_000002	ab335d3b-bac6-40bc-8f84-5b08274446cf	I Want You To Stay	92e634a7-6023-4be8-be15-ebba822f5b34	Maxïmo Park	52
+user_000002	24c663b5-372c-40bf-9f03-3f7ca98e495e	Stockhausen, Bill Gates Und Ich	315fa94f-3bb5-43db-a28e-406a83e9805c	Kettcar	52
+user_000002	6a1216b8-afe3-439b-8bc6-78ec85122f1b	Emily	150e799b-3244-45d9-a6cb-5a3e8c33d430	Adam Green	51
+user_000002	2ca0c5ad-dfe3-4ab5-84df-7b6b667f5f03	Tränengas Im High-End-Leben	315fa94f-3bb5-43db-a28e-406a83e9805c	Kettcar	51
+user_000002	251fcee0-42b4-4a0f-b1d9-24a98a3d2a36	La Vie En Rose	bd3deba0-d5f7-4c67-b840-36ce967b035b	Sophie Milman	51
+user_000002	a2fc8349-3f4e-4837-82aa-c5681427126e	12:51	f181961b-20f7-459e-89de-920ef03c7ed0	The Strokes	51
+user_000002	5aef800b-c221-4e90-bf95-2e974c450ad5	Henrietta	f4ad883e-9a92-45ed-a540-a49c2d1c36dd	The Fratellis	51
+user_000002	3d19ebb2-4c27-40c0-8aec-d76accd8db7e	Die Wahrheit Ist, Man Hat Uns Nichts Getan	315fa94f-3bb5-43db-a28e-406a83e9805c	Kettcar	51
+user_000002	069ef17f-100c-4f8a-a698-d5f1959212db	Anders Als Gedacht	315fa94f-3bb5-43db-a28e-406a83e9805c	Kettcar	51
+user_000002	7b63999f-0a4d-4b23-bdf9-57667a604b10	Up The Bracket	82b304c0-7da4-45d3-896a-0767c7ae1141	The Libertines	51
+user_000002	751af075-be76-46aa-a21f-200d9541651b	Hear You Me	bbc5b66b-d037-4f26-aecf-0b129e7f876a	Jimmy Eat World	50
+user_000002	c9ba3295-bc18-454e-b6a6-bc3e2e2d243b	She'S Only Happy In The Sun	1582a5b8-538e-45e7-9ae4-4099439a0e79	Ben Harper	50
+user_000002	2c86180c-f106-401e-a219-91d3198d8b86	You Fucking Love It	648615ca-ca74-460d-928a-2bae67ae6d14	Dirty Pretty Things	50
+user_000002	147ad117-4415-4e22-8da3-97dec1a14b19	Turn Me On	985c709c-7771-4de3-9024-7bda29ebe3f9	Norah Jones	50
+user_000002	2b85d387-7c21-45e4-be13-fb1a512e6362	Limassol	92e634a7-6023-4be8-be15-ebba822f5b34	Maxïmo Park	49
+user_000002	da1308d1-6037-4ba1-b6fc-a643a4201140	Hallelujah	e6e879c0-3d56-4f12-b3c5-3ce459661a8e	Jeff Buckley	49
+user_000002	d836830d-fb62-41b1-bc2a-fc899d1c99cc	New Slang	6c8b9855-ba8b-48f9-ac1d-42167f7f7b18	The Shins	49
+user_000002	4a7e708f-aa3f-4cd8-90fb-d6c3d397b0cc	Volcano	2119beb8-6ac5-4f21-82a4-b831c90c0024	Damien Rice	49
+user_000002	fcac08d6-58e2-4d09-8cf5-1e5fda1d0818	Comptine D'Un Autre Été	12d432a3-feb0-49b1-a107-d20751880764	Yann Tiersen	49
+user_000002	a39af727-e448-4555-9733-a6a627abb67f	Handyfeuerzeug Gratis Dazu	315fa94f-3bb5-43db-a28e-406a83e9805c	Kettcar	48
+user_000002	cdc45ec3-3255-49b9-ba03-f33a32566497	The Blower'S Daughter	2119beb8-6ac5-4f21-82a4-b831c90c0024	Damien Rice	48
+user_000002	04246cb0-62ff-47c9-b517-584405f4d085	Fair	848a122b-9dcc-4ff7-91b8-e4f37b8f1147	Remy Zero	48
+user_000002	1cd5b763-611d-4d3b-9c46-07a0485bd310	Curtain Call	94f6def3-dbfe-403b-bb40-d324c8c13fbb	Peter Doherty	48
+user_000002	39396160-132d-4ef4-b4f8-6a0a62e4d8a5	Blue In The Face	69421e11-e4c3-4854-951b-ceab4972e38e	Alkaline Trio	48
+user_000002	069de52c-40d9-440f-bdee-1ada773fe501	Deadwood	648615ca-ca74-460d-928a-2bae67ae6d14	Dirty Pretty Things	48
+user_000002	d65da140-7aa9-4de8-b0b3-d918cf34ce03	Postcard Of A Painting	92e634a7-6023-4be8-be15-ebba822f5b34	Maxïmo Park	47
+user_000002	ca603f45-2f86-4867-ab14-e41faef78f3d	Mayday	82b304c0-7da4-45d3-896a-0767c7ae1141	The Libertines	47
+user_000002	ce73bc05-b026-4a1e-8217-4807ab5afbe2	Die Ausfahrt Zum Haus Deiner Eltern	315fa94f-3bb5-43db-a28e-406a83e9805c	Kettcar	47
+user_000002	067265e0-200c-428a-9cbe-2210951b7724	Fake Tales Of San Francisco	ada7a83c-e3e1-40f1-93f9-3e73dbc9298a	Arctic Monkeys	47
+user_000002	f9c7f192-dda8-4d3a-a66c-78f7498ad8ed	A Certain Romance	ada7a83c-e3e1-40f1-93f9-3e73dbc9298a	Arctic Monkeys	47
+user_000002	9aa9edb6-822f-4437-b60a-5b34fa7d5f9c	Eddie'S Gun	f82f3a3e-29c2-42ca-b589-bc5dc210fa9e	The Kooks	47
+user_000002	7a435d54-4a56-4f7c-9d75-c7715da98d99	East Of Eden	94f6def3-dbfe-403b-bb40-d324c8c13fbb	Peter Doherty	46
+user_000002	a1fa0432-22be-4ce4-b5fa-a3f0a46cff68	Every Day I Love You Less And Less	90218af4-4d58-4821-8d41-2ee295ebbe21	Kaiser Chiefs	46
+user_000002	54b0838a-71e5-4115-b668-3f9bdabc0cd5	The Night I Lost My Head	92e634a7-6023-4be8-be15-ebba822f5b34	Maxïmo Park	46
+user_000002	dd3838a4-7411-439c-8edb-27f0a52eb52c	Sad Song (Acoustic)	39ab1aed-75e0-4140-bd47-540276886b60	Oasis	45
+user_000002	73f09343-9204-4d4c-8b00-786fa13c4417	In Every Sunflower	3660a894-2cf6-4f6b-b995-c967da3c78c9	Bell X1	45
+user_000002	b50318df-f7ce-4a30-9612-d990757ee58c	Nightswimming	ea4dfa26-f633-4da6-a52a-f49ea4897b58	R.E.M.	45
+user_000002	76f9c469-9ea2-489c-97f5-ef3bdf492495	Radio America	82b304c0-7da4-45d3-896a-0767c7ae1141	The Libertines	45
+user_000002	8f035dba-703c-4ed5-89fa-7b23f283d6fe	The Gentry Cove	648615ca-ca74-460d-928a-2bae67ae6d14	Dirty Pretty Things	45
+user_000002	764ff999-2e37-4ba4-8609-ef864aab9088	Kiss You Better	92e634a7-6023-4be8-be15-ebba822f5b34	Maxïmo Park	45
+user_000002	433459ba-0d7c-4018-9ba9-dba6b7f5433d	Deiche	315fa94f-3bb5-43db-a28e-406a83e9805c	Kettcar	45
+user_000002	c17a7c21-cc2c-49db-a3ee-21a341dff73b	Doctors And Dealers	648615ca-ca74-460d-928a-2bae67ae6d14	Dirty Pretty Things	44
+user_000002	12ca19a8-ad13-4e2d-8441-02a8317f705d	Tick Of Time	f82f3a3e-29c2-42ca-b589-bc5dc210fa9e	The Kooks	44
+user_000002	5923b845-4cd7-4ef0-a5f3-e5548e51f322	Naïve	f82f3a3e-29c2-42ca-b589-bc5dc210fa9e	The Kooks	44
+user_000002	e8f0dbf7-cc39-453e-8dcd-2ec07c3884ae	When The Night Feels My Song	e0036453-ce34-4095-af40-8c70ee07cef1	Bedouin Soundclash	43
+user_000002	da120962-6354-427f-9419-69dfd86cc366	Let Go	d614b0ad-fe3a-4927-b413-48cb831a814b	Frou Frou	43
+user_000002	874578ab-7cdf-4fcd-8949-056e2dc9fb40	Trouble Sleeping	75de3363-412c-4f17-ae66-9f4c0cd7629f	The Perishers	43
+user_000002	c7fca436-e8ea-4f0f-a3a9-8dcbc9fa427d	Now I'M All Over The Shop	92e634a7-6023-4be8-be15-ebba822f5b34	Maxïmo Park	43
+user_000002	bf1336fd-a601-44f2-ba40-7b7b22ee533a	Once, A Glimpse	92e634a7-6023-4be8-be15-ebba822f5b34	Maxïmo Park	43
+user_000002	36ff2363-250f-47db-90c1-8319ede69193	Older Chests	2119beb8-6ac5-4f21-82a4-b831c90c0024	Damien Rice	43
+user_000002	a7ddd6a7-9d3e-4679-88d2-a69e119b067e	Money Left To Burn	315fa94f-3bb5-43db-a28e-406a83e9805c	Kettcar	43
+user_000002	7be00e24-d336-4437-921b-e1f4e899a8a8	Acrobat	92e634a7-6023-4be8-be15-ebba822f5b34	Maxïmo Park	42
+user_000002	45ceedea-22ae-4b37-abe0-a89c8ca5b181	Beauty In The Breakdown (Acoustic)	9b0f668d-971e-47ef-b93e-abd8bf54d7f2	The Scene Aesthetic	42
+user_000002	3e03f6e5-670b-4efb-b174-fc8ad825223d	Last Of The Small Town Playboys	648615ca-ca74-460d-928a-2bae67ae6d14	Dirty Pretty Things	42
+user_000002	f097d95b-adc2-4166-b829-73d92d633e78	Ooh La	f82f3a3e-29c2-42ca-b589-bc5dc210fa9e	The Kooks	42
+user_000002	5484f369-b860-4703-bc44-152ba9c82ff6	You Don'T Love Me	f82f3a3e-29c2-42ca-b589-bc5dc210fa9e	The Kooks	42
+user_000002	824ec953-d221-4488-8c11-aff83ee7646e	Is This It	f181961b-20f7-459e-89de-920ef03c7ed0	The Strokes	42
+user_000002	b2477c9c-4e25-4393-ac63-0b633fb9e6a2	Can'T Stand Me Now	82b304c0-7da4-45d3-896a-0767c7ae1141	The Libertines	42
+user_000002	0fcdfdd0-2a73-4a3f-b5bf-2d9cd496578f	Mad World	3d65bead-6eae-4012-8665-d5f593ea4a62	Gary Jules	42
+user_000002	0e6871fc-d16f-4cc8-86fc-c8d368f906d4	In The Waiting Line	c23b637b-97c6-41eb-8ef6-6c724efc80a8	Zero 7	42
+user_000002	de0235f3-b988-4d7a-8629-87f5736aec6d	Marching Bands Of Manhattan	0039c7ae-e1a7-4a7d-9b49-0cbc716821a6	Death Cab For Cutie	42
+user_000002	88a09f24-bda0-417f-9f21-fe15f662fdec	Twilight	03ad1736-b7c9-412a-b442-82536d63a5c4	Elliott Smith	42
+user_000002	0feac0a0-7534-47ef-8c58-0971d862e7e8	Shelter	e0036453-ce34-4095-af40-8c70ee07cef1	Bedouin Soundclash	41
+user_000002	444f190d-0845-4b60-8552-f6517209e4a2	Wondering	648615ca-ca74-460d-928a-2bae67ae6d14	Dirty Pretty Things	41
+user_000002	910a40bb-3b77-48cb-b978-77eae3d0398f	What'S Up	efef848b-63e4-4323-8ef7-69a48fbdd51d	4 Non Blondes	41
+user_000002	07f2a776-c8e3-4707-9092-dc3af27b3c63	Sofa Song	f82f3a3e-29c2-42ca-b589-bc5dc210fa9e	The Kooks	41
+user_000002	063a34ab-60eb-483c-9c65-83ce7a364612	Friends Of Mine	150e799b-3244-45d9-a6cb-5a3e8c33d430	Adam Green	41
+user_000002	38b4a351-e5dd-4ad4-ad1f-16f73d49609d	The Sea And The Rhythm	c3f28da8-662d-4f09-bdc7-3084bf685930	Iron & Wine	41
+user_000002	619510e7-33b5-4539-b215-02c105bc2f02	I Believe (When I Fall In Love It Will Be Forever)	1ee18fb3-18a6-4c7f-8ba0-bc41cdd0462e	Stevie Wonder	41
+user_000002	6b07df10-3691-43f2-b61e-cca1aa997dd9	To Let Myself Go	d735497b-25f9-4503-8fb5-f50150730c18	Ane Brun	40
+user_000002	9bc0265b-e35f-4d23-8a14-3f6fe8051522	Summer Skin	0039c7ae-e1a7-4a7d-9b49-0cbc716821a6	Death Cab For Cutie	40
+user_000002	f927a04a-b0b3-4f93-acc4-6fc5dbcd80df	Better	fbb375f9-48bb-4635-824e-4120273b3ba7	Regina Spektor	40
+user_000002	86e4b882-bebc-41bb-b09b-8906d98f9e93	Wäre Er Echt	315fa94f-3bb5-43db-a28e-406a83e9805c	Kettcar	40
+user_000002	972dcfef-87c4-4ac7-b187-5e8e938af925	See The World	f82f3a3e-29c2-42ca-b589-bc5dc210fa9e	The Kooks	40
+user_000002	9ec54109-f091-4419-8e1e-41ea01da01b7	Little House Of Savages	b7834ebd-64ae-46c3-a930-2d3a52ee743a	The Walkmen	40
+user_000002	a78cbf79-4000-46e5-80f5-2685ca2ab84f	Angel	ce58d854-7430-4231-aa44-97f0144b3372	Sarah Mclachlan	40
+user_000002	ff88a6b2-40b7-4a96-af67-8000dcc8e40a	Konstantine	8dacf242-9bf7-44f5-b2eb-18305b904551	Something Corporate	40
+user_000002	0db16230-fd63-4618-86aa-0ff47323c0cc	If You Love A Woman	648615ca-ca74-460d-928a-2bae67ae6d14	Dirty Pretty Things	40
+user_000002	3b4f84ae-31f8-4ee4-9413-b4316ef506f4	Die Nacht	908fedf4-548a-430f-b806-38fca9507dc4	Wir Sind Helden	39
+user_000002	d76ff375-9517-4535-adae-34a312742c44	Flathead	f4ad883e-9a92-45ed-a540-a49c2d1c36dd	The Fratellis	39
+user_000002	94bd71f5-5596-48ff-b8f1-78b4f5adf55e	It Ain'T Me Babe	4e997ba1-12b7-4333-a3f9-9efd3e91c812	Joaquin Phoenix & Reese Witherspoon	39
+user_000002	daf8a678-71e4-450f-8ce9-6bc286530f72	Landungsbrücken Raus	315fa94f-3bb5-43db-a28e-406a83e9805c	Kettcar	39
+user_000002	67f3edb0-df9b-4dd1-bf96-35293ffa7b57	Automatic Stop	f181961b-20f7-459e-89de-920ef03c7ed0	The Strokes	39
+user_000002	e85800e3-60c1-47e1-867d-3db8f12efeb3	Hooray For The 21St Century	94f6def3-dbfe-403b-bb40-d324c8c13fbb	Peter Doherty	39
+user_000002	ba522c4c-7255-4710-a0b4-e77311f49d62	The General	c4237bd8-b11a-4f22-b0b7-29beca7daab9	Dispatch	39
+user_000002	f86c011c-0e63-4800-a512-0bae038da3c5	A Girl Like You	3533dea4-218c-4fc9-ab6e-2e3dc0ffde6e	Pete Yorn	39
+user_000002	5f813f3b-a811-431f-b014-be55902ba600	It Might As Well Be Spring	bd3deba0-d5f7-4c67-b840-36ce967b035b	Sophie Milman	39
+user_000002	4311aa69-4a38-482a-8d2e-46e43e74b4af	Born To Be A Dancer	90218af4-4d58-4821-8d41-2ee295ebbe21	Kaiser Chiefs	39
+user_000002	e0c81899-a69b-42e7-bc57-1edd2f30562a	Like Eating Glass	8c538f11-c141-4588-8ecb-931083524186	Bloc Party	38
+user_000002	11a6e419-fd85-4ef8-8072-0cd93da26e78	Amie	2119beb8-6ac5-4f21-82a4-b831c90c0024	Damien Rice	38
+user_000002	ed3bfe5e-0d3b-4fdf-8729-374a9126a14e	Fall At Your Feet	ebee61b4-bbdd-4087-9bcb-d5aa099088ec	James Blunt	38
+user_000002	8af6ca06-7be6-42da-8555-779755be9692	Freunde Bleiben	35098f2d-e803-4bc6-bd0e-09c57468977b	Revolverheld	38
+user_000002	e37370d8-ef2d-48e3-ae6f-6197b884692c	All Systems Red (Acoustic Version)	5e372a49-5672-4fb8-ba14-18c90780c4f9	Calexico	38
+user_000002	c144b698-5a44-4f4d-b0ff-9a2148a68713	Cut The Rope	ea854cc1-13fc-4fd0-86a5-d2c7dba06764	Mando Diao	38
+user_000002	25a16613-2c2c-41af-8400-34416a886d93	Camilo	e3003c05-9b18-415b-b4dc-2f2369eafb56	State Radio	38
+user_000002	6f0001b4-9754-463d-a479-2c5e08975a8d	Albion	94f6def3-dbfe-403b-bb40-d324c8c13fbb	Peter Doherty	38
+user_000002	4e17b118-70a6-4c1f-b326-b4ce91fd3fad	Soul Meets Body	0039c7ae-e1a7-4a7d-9b49-0cbc716821a6	Death Cab For Cutie	38
+user_000002	0181b0f1-93c1-4495-b5fa-52b6549c9e96	Because Of You	d339efbb-77b9-4147-ba9e-59f2f24550b2	Kelly Clarkson	38
+user_000002	fa0826a9-b8e2-4692-88e4-50b32ad3eb71	Balkon Gegenüber	315fa94f-3bb5-43db-a28e-406a83e9805c	Kettcar	37
+user_000002	a1eed2cc-cafc-4148-8b2d-2b882fd06961	I Miss You	0743b15a-3c32-48c8-ad58-cb325350befa	Blink-182	37
+user_000002	e36646d7-dcbf-4b49-b8cf-a6fd5bcd480e	Someday	f181961b-20f7-459e-89de-920ef03c7ed0	The Strokes	37
+user_000002	b182001f-cbab-4da8-ad63-4dbd23ddad09	Hands Clean (Acoustic)	4bdcee62-4902-4773-8cd1-e252e2e31225	Alanis Morissette	37
+user_000002	19467c4c-51bc-4524-9202-888a90af0c43	Du Erkennst Mich Nicht Wieder	908fedf4-548a-430f-b806-38fca9507dc4	Wir Sind Helden	37
+user_000002	9339c0fc-8bc1-400d-b6b9-6cc795a1ba81	Auf Meinen Schultern	a18015b2-6584-4110-9f7f-23c95b2b066c	Tomte	37
+user_000002	91e56006-feb3-47df-90cf-af2fa48abdb8	Die Welt Steht Still	35098f2d-e803-4bc6-bd0e-09c57468977b	Revolverheld	37
+user_000002	bc76d06b-1700-46a5-896d-26ed725f5778	Losing My Way	596ffa74-3d08-44ef-b113-765d43d12738	Justin Timberlake	37
+user_000002	db16d0b3-b8ce-4aa8-a11a-e4d53cc7f8a6	Such Great Heights	299278d3-25dd-4f30-bae4-5b571c28034d	The Postal Service	37
+user_000002	10e70c5b-3e8d-4c49-b3fa-2f404e0dc834	Someday You Will Be Loved	0039c7ae-e1a7-4a7d-9b49-0cbc716821a6	Death Cab For Cutie	36
+user_000002	b8f60872-de2b-4838-bdfa-b8914a026862	Jenseits Der Bikinilinie	315fa94f-3bb5-43db-a28e-406a83e9805c	Kettcar	36
+user_000002	286ce2f7-f352-4a48-9b1d-e1e2a5b22221	Delicate	2119beb8-6ac5-4f21-82a4-b831c90c0024	Damien Rice	36
+user_000002	2f8d3022-73a4-49b4-8553-3cc3d2f8192c	Carolina	150e799b-3244-45d9-a6cb-5a3e8c33d430	Adam Green	36
+user_000002	92630cdf-80c9-40be-aacb-870f8addaa29	Fever	bd3deba0-d5f7-4c67-b840-36ce967b035b	Sophie Milman	36
+user_000002	c9d79c33-9d8f-42f7-8e64-370f4b6d85a2	Christmas	f66b685d-9abe-4be6-8e59-9a7486be1964	Leona Naess	36
+user_000002	760828c4-c062-4667-94c6-0d358c1c768c	River	a6de8ef9-b1a1-4756-97aa-481bbb8a4069	Joni Mitchell	36
+user_000002	797c91cc-224a-4174-bb73-502e830629a8	I Still Haven'T Found What I'M Looking For	a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432	U2	36
+user_000002	4a932e32-a6d8-4756-887d-d6567a5b8fa8	If The Brakeman Turns My Way	78f797e3-4913-4026-aad0-1cd858bd735b	Bright Eyes	35
+user_000002	39442bc5-989f-4a79-bc68-e3f339f3108d	Old Man	75167b8b-44e4-407b-9d35-effe87b223cf	Neil Young	35
+user_000002	fcdae7a3-6ed3-42f4-8a74-feab0461e1db	What If	ceb05831-03e8-4605-904d-894ee0492d00	Kate Winslet	35
+user_000002	7c544629-8ce3-4b2e-8460-51c72d6f3722	Run	a66999a7-ae5c-460e-ba94-1a01143ae847	Snow Patrol	35
+user_000002	a2592dd8-2288-491d-acf9-a39c77c63420	Jackie Big Tits	f82f3a3e-29c2-42ca-b589-bc5dc210fa9e	The Kooks	35
+user_000002	c45e44f5-9afb-44a7-8f91-64d9bf6e9261	I Fought The Law	8f92558c-2baa-4758-8c38-615519e9deda	The Clash	35
+user_000002	30932267-0395-42b8-a659-c18155804232	Skag & Bone Man	82b304c0-7da4-45d3-896a-0767c7ae1141	The Libertines	35
+user_000002	31ef97d0-1ce6-4dda-a835-081ca0c73aa5	Winding Road	938dc8cb-576e-43c4-b97b-312d374ddd10	Bonnie Somerville	34
+user_000002	24f2e054-65d8-4c15-a987-27fe8d31e219	Running Out Of Time	0e0dd9da-5878-4c46-9a9a-6df43abb5c96	Hot Hot Heat	34
+user_000002	a3da6fb4-7e7f-4a43-af1b-e961f1650150	Country Road	150e799b-3244-45d9-a6cb-5a3e8c33d430	Adam Green	34
+user_000002	592b4970-2c3a-40aa-aac9-0bc30c538fcd	Write You A Song	49576e42-fbbd-4d73-968d-93c8dcf7f065	Plain White T'S	34
+user_000002	6d45aa0b-20ce-46b9-b738-78c75cfa1178	What Gives?	9386b36e-87f3-4716-a219-79a07a4e29cc	We Are Scientists	34
+user_000002	bf5bc577-b0b1-4575-99d5-bdde81691c1c	Wildwood Flower	2316a4da-365a-4e46-85bf-febc6537cce9	Reese Witherspoon	34
+user_000002	1745ee3b-c1f9-4858-ab4a-2c1e61fb5b0f	The Calendar Hung Itself	78f797e3-4913-4026-aad0-1cd858bd735b	Bright Eyes	34
+user_000002	bb643c1c-6519-436b-b32f-e3ff786928ee	Love Fool	3e55d51d-687f-4a9d-af96-2fabccf802e5	The Cardigans	34
+user_000002	ef02facb-2c6c-4b96-a2fc-c09e0c780d23	Fatally Yours	69421e11-e4c3-4854-951b-ceab4972e38e	Alkaline Trio	34
+user_000002	27218e48-5af0-4507-81bd-368e594e4ab5	You	f4a31f0a-51dd-4fa7-986d-3095c40c5ed9	Evanescence	34
+user_000002	72cd6bf6-d8ec-471c-84fa-c92b6647b8cf	Smile Like You Mean It	95e1ead9-4d31-4808-a7ac-32c3614c116b	The Killers	33
+user_000002	003aaec8-1187-43b6-bd7c-0702d847a8d9	The Start Of Something	c163f6f1-84c0-48fa-81c5-8129739b6c3c	Voxtrot	33
+user_000002	c990e49e-ee53-4405-a9c4-d5ff483144e0	Existentialism On Prom Night	ffe16bba-4d84-409b-8f22-5242c60b930f	Straylight Run	33
+user_000002	b0e2ac62-c60a-4610-8a70-8fc9959937ca	Hints	cd8c5019-5d75-4d5c-bc28-e1e26a7dd5c8	José González	33
+user_000002	1b641146-d122-4324-ba57-a039f47a188d	Move On	4efa55ba-93cf-497f-baf3-2ca9da7e193e	Jet	33
+user_000002	6a6e5342-975e-4f2b-9760-c3487c31ec42	Superman (It'S Not Easy)	23eeaeaf-423d-4859-8c91-2175ece74287	Five For Fighting	33
+user_000002	5c23cd6d-a3a7-4e4e-8057-cd445023d769	The Man I Love	bd3deba0-d5f7-4c67-b840-36ce967b035b	Sophie Milman	33
+user_000002	ac1ae5ed-02e2-4eba-ad2d-e861a6bf04b2	London Calling	8f92558c-2baa-4758-8c38-615519e9deda	The Clash	33
+user_000002	a0c9e65e-12f9-4a43-89bb-751a4a5bd06c	Ohne Dich	36f00900-d9c9-485f-a347-a8476793a8f7	Glashaus	33
+user_000002	e6894336-1f11-4c88-9985-7207ed6f007b	He Will Fall	94f6def3-dbfe-403b-bb40-d324c8c13fbb	Peter Doherty	33
+user_000002	5c5cae19-b26c-4542-907a-9c15b51ab6a6	How To Save A Life	2ddd167f-5b8a-4372-b350-6ad50493bac0	The Fray	33
+user_000002	31164705-5d91-4a1f-8d97-b958d2552208	Teddy Boys	150e799b-3244-45d9-a6cb-5a3e8c33d430	Adam Green	33
+user_000002	c27118bf-544c-4ab1-bd77-684ec1828bf9	Living In Jungles	e0036453-ce34-4095-af40-8c70ee07cef1	Bedouin Soundclash	33
+user_000002	4c4846cd-48c7-492c-a508-30dd8c0e8170	Im Taxi Weinen	315fa94f-3bb5-43db-a28e-406a83e9805c	Kettcar	33
+user_000002	8af76382-3647-4b2a-aa9b-471ac2f82c83	Chelsea Dagger	5ccb7bf1-4e5d-44fe-94fe-a15eeffa2335	The Fratellis	32
+user_000002	574e407c-ad6e-446c-b87f-4b781569fccd	Your Heart Is An Empty Room	0039c7ae-e1a7-4a7d-9b49-0cbc716821a6	Death Cab For Cutie	32
+user_000002	16e117e4-6ba1-4ad7-aabd-1bdbf469b89f	Staralfur	f6f2326f-6b25-4170-b89d-e235b25508e8	Sigur Rós	32
+user_000002	73ab107e-5af3-466d-b813-e5cb375ff511	This Modern Love	8c538f11-c141-4588-8ecb-931083524186	Bloc Party	32
+user_000002	4c3966c9-605b-4170-8700-ed14d1cccd06	Baby, Don'T You Break My Heart Slow	31e82ae9-f414-4a68-a0bf-d2719368166d	Vonda Shepard	32
+user_000002	456b4942-d2c5-46b4-9802-c6eef3dccb66	Lattenmessen	315fa94f-3bb5-43db-a28e-406a83e9805c	Kettcar	32
+user_000002	76cdf238-fa93-49a8-a256-fd8cda83338b	Take It Or Leave It	f181961b-20f7-459e-89de-920ef03c7ed0	The Strokes	32
+user_000002	315a301e-e764-4adf-91c6-e90a22320106	Positive Tension	8c538f11-c141-4588-8ecb-931083524186	Bloc Party	32
+user_000002	e3bdffd6-8d62-40ab-bc1d-97157ec98379	The Perfect Ending	ffe16bba-4d84-409b-8f22-5242c60b930f	Straylight Run	32
+user_000002	c988fa34-8382-43f3-87af-49dc94018c1e	Last Nite	f181961b-20f7-459e-89de-920ef03c7ed0	The Strokes	32
+user_000002	1e8857d3-55ad-417c-8370-ff3e45bd2255	I Predict A Riot	90218af4-4d58-4821-8d41-2ee295ebbe21	Kaiser Chiefs	32
+user_000002	0152d7d6-cf87-411a-88a2-a175d782ac47	Whistle For The Choir	5ccb7bf1-4e5d-44fe-94fe-a15eeffa2335	The Fratellis	32
+user_000002	dd90a006-f57d-4940-a7a9-6fe376a8c6c5	Who'S Got The Crack	6830e150-6233-4255-ab97-6e2e38759637	The Moldy Peaches	32
+user_000002	c956c074-927f-422d-a4d9-6bfa42762e8c	Why Won'T You Give Me Your Love?	6290b769-173d-49d1-990e-660a4e333877	The Zutons	32
+user_000002	7b42de04-3b54-4f0c-bd7b-b2884211fc4f	We Are The Pipettes (Xfm Session)	503877b0-4e1b-452b-851c-5e3f478d3714	The Pipettes	32
+user_000002	0d6d7b66-69b2-47aa-a78c-aaf35e5a629d	Sing	22a40b75-affc-4e69-8884-266d087e4751	Travis	31
+user_000002	1001f481-e93e-4107-b640-cf289a122335	Banquet	8c538f11-c141-4588-8ecb-931083524186	Bloc Party	31
+user_000002	39858e64-4549-4b2c-b99d-843357857f71	I Remember	2119beb8-6ac5-4f21-82a4-b831c90c0024	Damien Rice	31
+user_000002	37305f45-e017-431b-92a0-3c100eb59074	Asleep	40f5d9e4-2de7-4f2d-ad41-e31a9a9fea27	The Smiths	31
+user_000002	5029b685-fa52-47e6-a7d4-a6f063689a95	Hard To Be A Girl	150e799b-3244-45d9-a6cb-5a3e8c33d430	Adam Green	31
+user_000002	67044b0a-b5b6-4107-9467-15f925bd449c	There Is A Light / 32Nd Of December	94f6def3-dbfe-403b-bb40-d324c8c13fbb	Peter Doherty	31
+user_000002	69e7f926-1fc5-42cd-a00c-b048e536506e	I Wanna Die	150e799b-3244-45d9-a6cb-5a3e8c33d430	Adam Green	31
+user_000002	1ae99a79-12ba-40e0-bb65-209d0a6ca2d6	The Day After Tomorrow	3bd91c1d-495e-444e-bd94-19007c47cac2	Saybia	31
+user_000002	da2c48eb-09af-4d74-96df-20b077c1c79f	Ain'T No Sunshine	fd1a2d9d-9bb6-44de-83a3-41560658aba9	Bill Withers	31
+user_000002	6a4cbfba-764e-4bf4-9c83-383508261509	So Here We Are	8c538f11-c141-4588-8ecb-931083524186	Bloc Party	31
+user_000002	84499655-0f82-4346-9ecd-1f253f838165	Zu Spät	f2fb0ff0-5679-42ec-a55c-15109ce6e320	Die Ärzte	31
+user_000002	5ad10d77-123d-4768-83b5-76f483596107	Oh My God	90218af4-4d58-4821-8d41-2ee295ebbe21	Kaiser Chiefs	31
+user_000002	dbdf2b22-5f2f-4ba3-9d68-1137fd6c96ff	Learning To Fly	5ca3f318-d028-4151-ac73-78e2b2d6cdcc	Tom Petty	31
+user_000002	6c17b840-2107-45ac-bb2a-318a0328e9fd	Back From The Dead	94f6def3-dbfe-403b-bb40-d324c8c13fbb	Peter Doherty	31
+user_000002	d29ded88-b315-4ac0-84d8-64136bc6b7c4	Champagne Supernova	d4a9be59-13e5-481b-8c68-833c5c1fd458	Matt Pond Pa	31
+user_000002	6b862186-12aa-42ed-aad4-5568c8dea405	Barbara Ann	ebfc1398-8d96-47e3-82c3-f782abcdb13d	The Beach Boys	30
+user_000002	03902941-c292-4044-87b9-b23d87d8cdbb	Modern Way	90218af4-4d58-4821-8d41-2ee295ebbe21	Kaiser Chiefs	30
+user_000002	30be0eea-865f-479d-8c8a-414ce8356ea7	Bigger Boys And Stolen Sweethearts	ada7a83c-e3e1-40f1-93f9-3e73dbc9298a	Arctic Monkeys	30
+user_000002	017714f9-4ccb-4377-b02e-9e0a0d9e826f	Weinst Du	426b4cc4-63a8-4ff5-ad45-1fbb67baf6c6	Echt	30
+user_000002	113c7583-fdb0-4c0d-b970-dac8ee32aae4	Choke On A Cock	150e799b-3244-45d9-a6cb-5a3e8c33d430	Adam Green	30
+user_000002	2aac4ad0-e778-49c1-aab8-9684c1b2cd2c	On The Radio	fbb375f9-48bb-4635-824e-4120273b3ba7	Regina Spektor	30
+user_000002	9a72adb5-3dad-430e-b436-5a484df359d1	Eastern Glow	ffb18e19-64a4-4a65-b4ce-979e00c3c69d	The Album Leaf	30
+user_000002	e68182c7-b665-4b3c-a1d2-23db01ddeac7	Switching Off	3cb3928a-526c-4a3d-93c5-53315fa9bde0	Elbow	30
+user_000002	a00b74eb-9e34-4d65-a355-b34e0c7dceff	Eskimo	2119beb8-6ac5-4f21-82a4-b831c90c0024	Damien Rice	30
+user_000002	4120ba2d-33cc-4868-a34a-7bf15ddd11c6	Plans	8c538f11-c141-4588-8ecb-931083524186	Bloc Party	30
+user_000002	2a22f22e-d408-42f1-b932-ba9fbabed5ee	You Have Killed Me	013fa897-86db-41d3-8e9f-386c8a34f4e6	Morrissey	30
+user_000002	7dae28bd-f615-4288-a271-3563a5e88416	Endlich Nichtschwimmer	e8533fd3-4e66-4ad5-8fe5-12a916f9c4a1	Dendemann	30
+user_000002	cd7b8819-2854-4459-a23d-ba3bf08d1b13	Different Names For The Same Thing	0039c7ae-e1a7-4a7d-9b49-0cbc716821a6	Death Cab For Cutie	30
+user_000002	8b461a8f-8a5b-498e-82c1-3a0e13196d26	Dead Scene	a7582431-779a-4434-a3ac-f7b5b4ea01fe	The Sunshine Underground	30
+user_000002	7fae3438-49e2-4bd9-8e43-669333d95b85	Put You In Your Place	a7582431-779a-4434-a3ac-f7b5b4ea01fe	The Sunshine Underground	30
+user_000002	a6dffce0-dcee-4872-9756-1569cd99600a	Stand By Me	39ab1aed-75e0-4140-bd47-540276886b60	Oasis	30
+user_000002	5ce2cef0-e070-429b-9f98-7f06c9ea57b9	Helicopter	8c538f11-c141-4588-8ecb-931083524186	Bloc Party	30
+user_000002	2b7aaf14-e362-48bf-b419-0250454e4c70	Caring Is Creepy	6c8b9855-ba8b-48f9-ac1d-42167f7f7b18	The Shins	29
+user_000002	7c2833ae-a554-4c5f-8bcb-5015aaede9de	Goodnight Goodnight	0e0dd9da-5878-4c46-9a9a-6df43abb5c96	Hot Hot Heat	29
+user_000002	b60addad-94d2-4bf4-9440-dfc8a6928d9b	Needle In The Hay	03ad1736-b7c9-412a-b442-82536d63a5c4	Elliott Smith	29
+user_000002	34033cb9-7f2f-4b07-92a5-954f923ba419	Nobody Move, Nobody Get Hurt	9386b36e-87f3-4716-a219-79a07a4e29cc	We Are Scientists	29
+user_000002	06828f15-228c-4ee9-ab2a-7374e1838dea	Wenn Das Liebe Ist	36f00900-d9c9-485f-a347-a8476793a8f7	Glashaus	29
+user_000002	48ca62b7-3fa2-4343-9c92-97d47a70b0b3	Can'T Stand Me Now	94f6def3-dbfe-403b-bb40-d324c8c13fbb	Peter Doherty	29
+user_000002	8daf916e-87dc-48e6-8cee-ff769d4163ce	Doginabag	f4ad883e-9a92-45ed-a540-a49c2d1c36dd	The Fratellis	29
+user_000002	5005049a-6634-482e-8ad6-31c610af30d0	Salty Candy	150e799b-3244-45d9-a6cb-5a3e8c33d430	Adam Green	29
+user_000002	df4d427b-c49d-4fb9-8a49-26058f50831d	Cuntry Boys & City Girls	f4ad883e-9a92-45ed-a540-a49c2d1c36dd	The Fratellis	29
+user_000002	e3b7cd96-c41d-497a-b401-dc7494f638db	The Middle	bbc5b66b-d037-4f26-aecf-0b129e7f876a	Jimmy Eat World	29
+user_000002	7b8ebab3-7c8e-4430-8fc2-c55218916fb3	Time Awaits	f82f3a3e-29c2-42ca-b589-bc5dc210fa9e	The Kooks	29
+user_000002	e2ea567d-8fdb-4262-a4c6-4ee79154cbb3	Head Over Feet	4bdcee62-4902-4773-8cd1-e252e2e31225	Alanis Morissette	29
+user_000002	e0524388-a2a0-49a3-a9d6-665b8f5fd6f6	What'S My Age Again?	0743b15a-3c32-48c8-ad58-cb325350befa	Blink-182	29
+user_000002	398dcdf0-7e74-48c7-8501-2ecea7e34a4f	The Ballad Of Grimaldi	94f6def3-dbfe-403b-bb40-d324c8c13fbb	Peter Doherty	29
+user_000002	b56fd496-a65a-4468-8e26-7e8e11a637b1	Sunrise, Sunset	78f797e3-4913-4026-aad0-1cd858bd735b	Bright Eyes	29
+user_000002	7ee10fcf-4481-4080-86cd-6056c1341657	Blue Light	8c538f11-c141-4588-8ecb-931083524186	Bloc Party	29
+user_000002	9679531a-364e-48ee-ba58-d5d3ab66b05b	Ringing Bells	ea854cc1-13fc-4fd0-86a5-d2c7dba06764	Mando Diao	29
+user_000002	c6d8b610-a3cd-4f88-a075-7d5a1c5aa4a2	Upside Down	ff6e677f-91dd-4986-a174-8db0474b1799	Jack Johnson	29
+user_000002	232675a1-ff19-4e92-89aa-4777be7320dd	Jessica	150e799b-3244-45d9-a6cb-5a3e8c33d430	Adam Green	29
+user_000002	95ad89be-5346-4425-b829-523c3a1389be	If God Will Send His Angels	a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432	U2	29
+user_000002	9734e309-1efb-40b5-8c72-a6d4eb804e2d	Shadow Of A Man	e0036453-ce34-4095-af40-8c70ee07cef1	Bedouin Soundclash	29
+user_000002	3e2402a4-7803-4ea4-9683-bf1304f9dcf5	Don'T Look Back In Anger	39ab1aed-75e0-4140-bd47-540276886b60	Oasis	29
+user_000002	03be25f5-53a3-44c1-ab6f-5bf4590be886	Overkill (Acoustic Version)	864d7069-57dc-45f6-b408-875b35106dd3	Colin Hay	29
+user_000002	8160fc0c-673d-4180-9196-9ce103961c55	1/2 Lovesong	f2fb0ff0-5679-42ec-a55c-15109ce6e320	Die Ärzte	29
+user_000002	97c708de-c01c-4dd7-b780-95ec1d432ee5	Luno	8c538f11-c141-4588-8ecb-931083524186	Bloc Party	29
+user_000002	68b40c8a-24fc-45a6-9a14-7ad587f7b886	Lonelily	2119beb8-6ac5-4f21-82a4-b831c90c0024	Damien Rice	29
+user_000002	a9f6ea4c-06a9-46a4-9a67-667617b0fe6a	A Lack Of Color	0039c7ae-e1a7-4a7d-9b49-0cbc716821a6	Death Cab For Cutie	29
+user_000002	9ac54c84-79b2-4a79-aae1-74a7e8d20074	Wie Es Geht	f2fb0ff0-5679-42ec-a55c-15109ce6e320	Die Ärzte	29
+user_000002	3b855869-b82b-4b98-91d8-d5e1e0704cc7	I Bet You Look Good On The Dancefloor	ada7a83c-e3e1-40f1-93f9-3e73dbc9298a	Arctic Monkeys	29
+user_000002	ab98a79e-b935-41fe-8328-ec72d055e414	Let'S Stay Together	fb7272ba-f130-4f0a-934d-6eeea4c18c9a	Al Green	29
+user_000002	9337e753-4951-43a5-b908-3ed75353331b	Goodnight And Go	328d146c-79f1-4eb6-9e40-8ee5710c14e5	Imogen Heap	29
+user_000002	1601909d-f5ff-46fb-b2ac-01d484dfe540	Juicebox	f181961b-20f7-459e-89de-920ef03c7ed0	The Strokes	29
+user_000002	b6703492-53b7-45ee-9dd0-39d510a42e75	Ich Danke Der Academy	315fa94f-3bb5-43db-a28e-406a83e9805c	Kettcar	28
+user_000002	d115fad4-6a32-404c-989c-161f3d06cb81	Space Invaders	ada7a83c-e3e1-40f1-93f9-3e73dbc9298a	Arctic Monkeys	28
+user_000002	5fc9122a-3db6-4218-a27f-f30f51faa016	My Favourite Game	3e55d51d-687f-4a9d-af96-2fabccf802e5	The Cardigans	28
+user_000002	b266e2ce-bf84-41df-b3b8-2bea6fc92863	Jeb Rand	e0036453-ce34-4095-af40-8c70ee07cef1	Bedouin Soundclash	28
+user_000002	b4189a1e-6e0f-4e9d-8779-06c0d02ed2ab	The Prince'S Bed	150e799b-3244-45d9-a6cb-5a3e8c33d430	Adam Green	28
+user_000002	ffbe2def-35c2-4d26-b8a7-2afdeaf60fb3	Don'T Know Why	985c709c-7771-4de3-9024-7bda29ebe3f9	Norah Jones	28
+user_000002	99781493-3e50-454a-98d1-ee6cad7ece8d	Making A Memory	49576e42-fbbd-4d73-968d-93c8dcf7f065	Plain White T'S	28
+user_000002	702fedbd-761d-46e1-ac0d-80ad99ec7894	Cold Water	2119beb8-6ac5-4f21-82a4-b831c90c0024	Damien Rice	28
+user_000002	191bd112-871c-4286-b5af-6d309b4e4ea0	Matchbox	f82f3a3e-29c2-42ca-b589-bc5dc210fa9e	The Kooks	28
+user_000002	eeb72e5a-cedf-4704-a890-9df99595cf05	Undun	bd3deba0-d5f7-4c67-b840-36ce967b035b	Sophie Milman	28
+user_000002	dc245436-aacf-432a-8f8f-6cf50951f710	Na Na Na Na Naa	90218af4-4d58-4821-8d41-2ee295ebbe21	Kaiser Chiefs	28
+user_000002	e69b4ab1-6504-470b-b667-ef0621c64934	Say Hello To Mr. D (To Mr. S)	cfa7c6b1-bbb3-4f9a-a636-cbfafb9b4bcf	Esbjörn Svensson Trio	28
+user_000002	7ee34091-453e-4bd5-a4bd-3c7cbe27bb96	I Can Hear Your Voice	582a0d2d-068b-4122-9a92-0e835ae02169	The Accidental	28
+user_000002	0d069749-6d54-438f-b1dd-12c9be97416f	For The Girl	f4ad883e-9a92-45ed-a540-a49c2d1c36dd	The Fratellis	28
+user_000002	88e58552-86fe-4156-aa63-08f62bac2498	Stix And Stones	94f6def3-dbfe-403b-bb40-d324c8c13fbb	Peter Doherty	27
+user_000002	698fc12f-0a6f-4fe2-ad7f-8fd3f0c25306	Compliments	8c538f11-c141-4588-8ecb-931083524186	Bloc Party	27
+user_000002	3cce9afb-9065-4c76-8b09-85bd58364803	Silent Night	2119beb8-6ac5-4f21-82a4-b831c90c0024	Damien Rice	27
+user_000002	c534831f-bf2e-41aa-a92c-9a550c68b4d3	There She Goes (A.L.H.)	94f6def3-dbfe-403b-bb40-d324c8c13fbb	Peter Doherty	27
+user_000002	4fa18265-ba68-40af-9590-62c6cb84ad55	Decent Days And Nights	0cf9d983-aecf-4d57-9e94-fde2beac014f	The Futureheads	27
+user_000002	14cf0b90-5596-465c-a8da-8b4c7e9e0599	You Owe Me An Iou	0e0dd9da-5878-4c46-9a9a-6df43abb5c96	Hot Hot Heat	27
+user_000002	c6096347-7b7d-44de-a8dd-2e1a4c0e447e	Look What You'Ve Done	4efa55ba-93cf-497f-baf3-2ca9da7e193e	Jet	27
+user_000002	9c9e7d1f-eeb6-47d2-a923-93aa6c3c3758	Hot Knives	78f797e3-4913-4026-aad0-1cd858bd735b	Bright Eyes	27
+user_000002	cac734ff-63e1-425a-9c47-e342f322c517	Check Mal Die Rhetorik Ab	e8533fd3-4e66-4ad5-8fe5-12a916f9c4a1	Dendemann	27
+user_000002	f860d3c9-f974-4933-9d01-49af1053e31f	Criminal	e0036453-ce34-4095-af40-8c70ee07cef1	Bedouin Soundclash	27
+user_000002	f8edb1ca-d2d5-499e-b913-61cb7268116f	Das Erste Mal	e8533fd3-4e66-4ad5-8fe5-12a916f9c4a1	Dendemann	27
+user_000002	91d793e3-a2a5-4c81-ba69-e3df1ac4b708	Out Of Reach	d55fe7ec-3c7f-44e7-b9cc-b025c4351f70	Gabrielle	27
+user_000002	dca40cfa-1ea9-4152-ad6b-af8e3cfe0cd1	Intro	3eab4de9-a578-4327-8909-f90ffc1b8ae5	Blumentopf	27
+user_000002	56a5fa80-b2fa-42a3-bae4-1c8ce3d6964c	Gyasi Went Home	e0036453-ce34-4095-af40-8c70ee07cef1	Bedouin Soundclash	27
+user_000002	39cd3893-ab38-4b45-adcc-49d9431825b9	Where Is The Line?	fd429857-5ace-4609-ae54-1502c3bdac11	Billy Talent	27
+user_000002	956b6886-cc88-4202-9f85-43ea1109f98e	Make A Plan To Love Me	78f797e3-4913-4026-aad0-1cd858bd735b	Bright Eyes	27
+user_000002	fa1975d6-6c21-4294-adea-f999f589f744	Blue Light (Engineers 'Anti-Gravity' Mix)	8c538f11-c141-4588-8ecb-931083524186	Bloc Party	27
+user_000002	784bdba8-67ea-429e-af66-0c6ff684e171	Burn One Down	1582a5b8-538e-45e7-9ae4-4099439a0e79	Ben Harper	27
+user_000002	64aabb43-4127-4c04-a001-6cc2c15386c2	Dancing Shoes	ada7a83c-e3e1-40f1-93f9-3e73dbc9298a	Arctic Monkeys	27
+user_000002	da146d89-2b66-475c-a3aa-43c262a0c133	The Delaney	82b304c0-7da4-45d3-896a-0767c7ae1141	The Libertines	27
+user_000002	6bfd2a3c-9345-4a41-97fd-b4e9e685a82a	Chasing Cars (Edit)	a66999a7-ae5c-460e-ba94-1a01143ae847	Snow Patrol	27
+user_000002	5926110f-2c25-4750-ad7f-ca422870b5a4	Fun, Fun, Fun	ebfc1398-8d96-47e3-82c3-f782abcdb13d	The Beach Boys	27
+user_000002	0658ea3d-c621-4542-bd92-91ee2448f1fe	Cigarette Smoke	ada7a83c-e3e1-40f1-93f9-3e73dbc9298a	Arctic Monkeys	27
+user_000002	a633da25-6fa1-4440-83c3-67ee63d93855	So Long, You Fool	bd3deba0-d5f7-4c67-b840-36ce967b035b	Sophie Milman	27
+user_000002	69c0b06a-0fe5-4cab-8b64-97a7cddb8e95	Truly Madly Deeply	a871fd87-50f7-4032-b06d-da56779edcce	Savage Garden	27
+user_000002	d08b4726-62dd-4ba1-b5d4-dabe4fe7ad86	Blue Turning Gray	4b2d6a23-034d-4a29-9bb9-d2462796da4e	Clap Your Hands Say Yeah	26
+user_000002	c98bd54c-454e-4ad1-aa19-90eed19d07e7	Hey There Delilah	49576e42-fbbd-4d73-968d-93c8dcf7f065	Plain White T'S	26
+user_000002	bddbf812-5947-47e9-b18a-e244c3335ee0	Out Loud	c4237bd8-b11a-4f22-b0b7-29beca7daab9	Dispatch	26
+user_000002	f2a2d04a-c3b6-4793-a349-7483c6500f72	Lady Don'T Fall Backwards / Bollywood To Battersea	94f6def3-dbfe-403b-bb40-d324c8c13fbb	Peter Doherty	26
+user_000002	f069a3bd-fa5a-4ec7-88c4-88a6afcd1b06	Orange Sky	750e9439-2e5d-4afd-92cc-d23183cd7606	Alexi Murdoch	26
+user_000002	0dfa7f10-7b71-4ec4-8855-1d62de7ebd0a	Classic Cars	78f797e3-4913-4026-aad0-1cd858bd735b	Bright Eyes	26
+user_000002	f09e64d8-3c48-4d0a-a0dc-b4163a14e7f7	Soul Singer In A Session Band	78f797e3-4913-4026-aad0-1cd858bd735b	Bright Eyes	26
+user_000002	f21490b1-a32d-41a8-a49f-08270fae13df	She'S Hearing Voices	8c538f11-c141-4588-8ecb-931083524186	Bloc Party	26
+user_000002	4e52292a-adf1-475c-9746-b9a3fba7bc1d	Haligh, Haligh, A Lie, Haligh	78f797e3-4913-4026-aad0-1cd858bd735b	Bright Eyes	26
+user_000002	52e05349-98e6-4ae7-bb6f-eb96cba9b44e	Our Velocity	92e634a7-6023-4be8-be15-ebba822f5b34	Maxïmo Park	26
+user_000002	ed5de3b6-0230-4d2a-b9ab-7497a4520f7d	Raindrops Keep Falling On My Head	42a19448-ff60-4fd2-9d10-959bf2000729	B.J. Thomas	26
+user_000002	a3687989-f42a-45f5-b92d-4a23521d6d64	12:59 Lullaby	e0036453-ce34-4095-af40-8c70ee07cef1	Bedouin Soundclash	26
+user_000002	8a06ed34-7d56-4e92-8951-e55102d3c79e	Alive (Acoustic)	f362fdd1-3ddd-4c4e-9629-ef170b08d093	Edwin Mccain	26
+user_000002	f66549b7-fc4b-4c09-8e76-da476dcf764a	Pain	bbc5b66b-d037-4f26-aecf-0b129e7f876a	Jimmy Eat World	26
+user_000002	5a8892d9-eec0-4af6-a8a7-560c94e9eda6	Talk Of The Town	ff6e677f-91dd-4986-a174-8db0474b1799	Jack Johnson	26
+user_000002	a594b2c7-5e4f-4e81-9cda-91bab05da25e	Tiny Vessels	0039c7ae-e1a7-4a7d-9b49-0cbc716821a6	Death Cab For Cutie	26
+user_000002	4a1a16d0-3bb2-46bb-83f6-3d7f75de054b	Don'T Panic	cc197bad-dc9c-440d-a5b5-d52ba2e14234	Coldplay	26
+user_000002	dcdb1d72-1162-48c3-bb73-1074385991fc	Miss Misery	03ad1736-b7c9-412a-b442-82536d63a5c4	Elliott Smith	26
+user_000002	d6e3c03f-4f69-4682-8268-0b1751fe1c79	Blackbird	ce58d854-7430-4231-aa44-97f0144b3372	Sarah Mclachlan	26
+user_000002	77f004af-aecc-471c-ae46-30c6b82e3840	Nichts In Der Welt	f2fb0ff0-5679-42ec-a55c-15109ce6e320	Die Ärzte	26
+user_000002	a769a644-db50-42a1-876f-e2a988b706f0	Rudie Can'T Fail	8f92558c-2baa-4758-8c38-615519e9deda	The Clash	26
+user_000002	29526146-0a0f-4b58-b3a7-611f53409e06	Pioneers	8c538f11-c141-4588-8ecb-931083524186	Bloc Party	26
+user_000002	13a14c66-a8cf-4fe2-b888-928a9508588d	Eli, Eli (A Walk To Caesarea)	bd3deba0-d5f7-4c67-b840-36ce967b035b	Sophie Milman	26
+user_000002	5739db14-3b37-4e33-af55-994e8a4e2197	Over And Over Again (Lost And Found)	4b2d6a23-034d-4a29-9bb9-d2462796da4e	Clap Your Hands Say Yeah	26
+user_000002	e5b360dc-faee-46d6-983d-92750b257f7f	Lust Of The Libertines	8e1e03fe-ebbc-467a-b541-857144db10fb	Babyshambles	26
+user_000002	b67d5181-c4b7-4f38-81ab-ffe50065f0e5	Oh Dear	977b779f-72fa-4117-995b-97af75d9c73f	Sophie Zelmani	25
+user_000002	660b471a-00f7-4ecb-ac60-26ab4f90930b	Summer In The City	fbb375f9-48bb-4635-824e-4120273b3ba7	Regina Spektor	25
+user_000002	30c58760-937e-40dc-8a17-78be5d657b08	Details Of The War	4b2d6a23-034d-4a29-9bb9-d2462796da4e	Clap Your Hands Say Yeah	25
+user_000002	e3ad2574-785f-434f-a2cf-0d16e4a6b1fd	Island Of The Honest Man	0e0dd9da-5878-4c46-9a9a-6df43abb5c96	Hot Hot Heat	25
+user_000002	962021a8-65ae-4191-a0ab-59f16716087f	Got Ma Nuts From A Hippy	f4ad883e-9a92-45ed-a540-a49c2d1c36dd	The Fratellis	25
+user_000002	5920d4fa-8d18-4370-a001-a3efbb1e50ec	Stickin' To The Floor	ada7a83c-e3e1-40f1-93f9-3e73dbc9298a	Arctic Monkeys	25
+user_000002	a5af6731-3798-4840-9e7a-8d81b071b82b	Popstar	b9b1efa6-8e01-4726-a9d5-0f96f5fd23d9	Judith Holofernes	25
+user_000002	6b9a509f-6907-4a6e-9345-2f12da09ba4b	With Or Without You	a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432	U2	25
+user_000002	132e6f32-7e37-4e6b-bd39-27005f131def	Going Home	977b779f-72fa-4117-995b-97af75d9c73f	Sophie Zelmani	25
+user_000002	332e37f1-fa55-43ed-89fc-f2da08da8dbd	Musical Ladders	150e799b-3244-45d9-a6cb-5a3e8c33d430	Adam Green	25
+user_000002	eb400249-9db0-4189-9721-e89cfb74b81b	Fallen Leaves	fd429857-5ace-4609-ae54-1502c3bdac11	Billy Talent	25
+user_000002	276ccc59-119f-4e61-90e8-be32ab4f79fa	Crooked Teeth	0039c7ae-e1a7-4a7d-9b49-0cbc716821a6	Death Cab For Cutie	25
+user_000002	0ba3b0f6-b700-40b2-8ec1-777ba95195d5	Caroline, Yes	90218af4-4d58-4821-8d41-2ee295ebbe21	Kaiser Chiefs	25
+user_000002	75847f2a-ffef-4ff8-a8c6-fc44b4d993c5	Revolt Iii	c2764f38-febf-4e47-a0d7-687980aabf38	Kent	25
+user_000002	76bbc96a-ef7c-4bd4-afba-4f4eb3c611c3	Why Do Lovers?	2d1d8985-47bc-4244-8cc3-577584e411f6	Richard Ashcroft	25
+user_000002	e2b8971e-4a9e-4804-a469-94355dcd82c2	Murder On The Midnight Wire	e0036453-ce34-4095-af40-8c70ee07cef1	Bedouin Soundclash	25
+user_000002	8f4d901f-c775-4afc-9066-977468543550	Samson	fbb375f9-48bb-4635-824e-4120273b3ba7	Regina Spektor	25
+user_000002	8ec90eca-3f1e-4c7c-befa-042161c97782	Please Please Please	25a757f1-9fbe-4c52-be2e-1a5294fb25b9	Shout Out Louds	25
+user_000002	78902bb0-b1c8-418a-b375-1846503fa745	Confusion	6290b769-173d-49d1-990e-660a4e333877	The Zutons	25
+user_000002	a23f1d6c-0558-4e7f-9993-b150b5090e24	Back Home To Me	bd3deba0-d5f7-4c67-b840-36ce967b035b	Sophie Milman	25
+user_000002	52d9540a-abd2-4d71-ba9d-0e36bd40b347	A Temporary Dive	d735497b-25f9-4503-8fb5-f50150730c18	Ane Brun	25
+user_000002	63776324-a7a4-4b87-9f0a-ee9fbf100129	Lady	fbb375f9-48bb-4635-824e-4120273b3ba7	Regina Spektor	25
+user_000002	05d0eb4a-2e21-4c86-b1e9-e0cfea313bd1	Is This Love	4b2d6a23-034d-4a29-9bb9-d2462796da4e	Clap Your Hands Say Yeah	25
+user_000002	640307fe-f7ea-4a15-948b-bef93474fc2a	Right Me Up	e3003c05-9b18-415b-b4dc-2f2369eafb56	State Radio	25
+user_000002	3ef4b6d2-86d4-4111-aa99-69997d434350	Waterloo Sunset	03ad1736-b7c9-412a-b442-82536d63a5c4	Elliott Smith	25
+user_000002	96779df5-15dc-4fa2-9496-7c9878786a5c	All I Need	cb67438a-7f50-4f2b-a6f1-2bb2729fd538	Air	25
+user_000002	cd475ebb-573f-4ada-8257-bb3cb050ccab	Somewhere Over The Rainbow / What A Wonderful World	e7ae37b1-624f-47b9-bf4f-53b52ef19528	Israel KamakawiwoʻOle	24
+user_000002	cb0475dc-df0f-4ff3-9ac2-c7ae3c0f55cb	Shame On You	0e0dd9da-5878-4c46-9a9a-6df43abb5c96	Hot Hot Heat	24
+user_000002	bd761000-0879-4a51-9f69-26faece186e2	The World Has Turned And Left Me Here	6fe07aa5-fec0-4eca-a456-f29bff451b04	Weezer	24
+user_000002	94c7a587-1b06-4ca6-a488-37c1363ffe8c	All The Small Things	0743b15a-3c32-48c8-ad58-cb325350befa	Blink-182	24
+user_000002	21b3ecff-3d84-4fe2-805d-e29c2d7083b1	Strawberry Fields Forever	1582a5b8-538e-45e7-9ae4-4099439a0e79	Ben Harper	24
+user_000002	c2f0f864-d785-4683-871f-5358b7e5eb76	Commercial Breakdown	a7582431-779a-4434-a3ac-f7b5b4ea01fe	The Sunshine Underground	24
+user_000002	d0beaf74-cd7e-4eba-a080-e6df007fe7fb	Frozen In Time	150e799b-3244-45d9-a6cb-5a3e8c33d430	Adam Green	24
+user_000002	1b47f9d5-0d42-440d-87ed-a029cab86b18	Dirty Dancehall	6290b769-173d-49d1-990e-660a4e333877	The Zutons	24
+user_000002	b122c523-43cd-4e92-a7d1-6ad9739cf74b	Lousy Reputation	9386b36e-87f3-4716-a219-79a07a4e29cc	We Are Scientists	24
+user_000002	bd657747-9164-4549-a851-c4b09b100efe	Something Pretty	cd85a41e-3d85-4d14-ab4b-f35894664730	Patrick Park	24
+user_000002	12012e99-6ea7-4eb4-98e9-978c4d644ed5	Alms	0cf9d983-aecf-4d57-9e94-fde2beac014f	The Futureheads	24
+user_000002	b2a43863-0b86-4960-8674-17b7ced83ee4	Bright Young Thing	a0498514-c21c-4e85-8dbf-a1b92374a06b	Albert Hammond, Jr.	24
+user_000002	b2e13747-cb50-4dea-9b24-a867a9cece41	The Great Escape	9386b36e-87f3-4716-a219-79a07a4e29cc	We Are Scientists	24
+user_000002	8c12824c-b13a-4a9c-96b3-817bc33f42dc	Memory Lane	03ad1736-b7c9-412a-b442-82536d63a5c4	Elliott Smith	24
+user_000002	2aed99a0-2ac9-4825-90ea-7d7ad85bc65c	Stable Song	0039c7ae-e1a7-4a7d-9b49-0cbc716821a6	Death Cab For Cutie	24
+user_000002	4a83c502-431d-485f-8005-50184651b79c	Diamonds On The Inside	1582a5b8-538e-45e7-9ae4-4099439a0e79	Ben Harper	24
+user_000002	eeff360b-a788-4d46-8fdc-5c3ca3e9d0d0	Hoppipolla	f6f2326f-6b25-4170-b89d-e235b25508e8	Sigur Rós	24
+user_000002	3e1a3503-4d1b-4d4e-8357-fff197ba9b6c	The Man Who Came To Stay	8e1e03fe-ebbc-467a-b541-857144db10fb	Babyshambles	24
+user_000002	5fec78e0-7c89-4bc0-9714-2315ea7d78fa	Money Worries (Feat. Vernon Maytone)	e0036453-ce34-4095-af40-8c70ee07cef1	Bedouin Soundclash	24
+user_000002	633169d0-3f32-4440-9920-bddbcd34a60b	Price Of Gas	8c538f11-c141-4588-8ecb-931083524186	Bloc Party	24
+user_000002	e955d818-82db-4f42-a7c3-b1e5bd0b35b2	What Sarah Said	0039c7ae-e1a7-4a7d-9b49-0cbc716821a6	Death Cab For Cutie	24
+user_000002	3972462f-8230-4317-9b99-511802604cc6	Got No Love	f82f3a3e-29c2-42ca-b589-bc5dc210fa9e	The Kooks	24
+user_000002	5a662664-99bf-46dd-bef3-d7939886883f	Heavy Metal	4b2d6a23-034d-4a29-9bb9-d2462796da4e	Clap Your Hands Say Yeah	24
+user_000002	65593874-83a3-417a-9e25-89934cddcbd7	On The Table	44f0cb8f-0a56-43fe-b361-294c94c4a67d	A.C. Newman	24
+user_000002	f7c0e75b-65b9-4019-88aa-5a0dd6dc0464	Judy (Acoustic Version)	503877b0-4e1b-452b-851c-5e3f478d3714	The Pipettes	24
+user_000002	fe3d41f6-f304-430c-a21e-40f5b34c9088	Can'T Lose	9386b36e-87f3-4716-a219-79a07a4e29cc	We Are Scientists	24
+user_000002	669ef62b-8a3c-4dd0-948f-cc6e15091def	Pretty (Ugly Before)	03ad1736-b7c9-412a-b442-82536d63a5c4	Elliott Smith	24
+user_000002	5890ffa1-6894-4027-990b-840e02e3821f	Middleman	78f797e3-4913-4026-aad0-1cd858bd735b	Bright Eyes	24
+user_000002	4cd20d45-7b20-42f7-a9e8-eddddda4452f	Zuton Fever	6290b769-173d-49d1-990e-660a4e333877	The Zutons	24
+user_000002	3bcd1d78-be4a-4730-ac78-fccf53eddd50	Brothers On A Hotel Bed	0039c7ae-e1a7-4a7d-9b49-0cbc716821a6	Death Cab For Cutie	24
+user_000002	49b8db1b-8920-4bb6-b364-e956dd1f3bd9	Go Sadness	25a757f1-9fbe-4c52-be2e-1a5294fb25b9	Shout Out Louds	24
+user_000002	30ff25a6-9340-40ea-9317-081db61d94ba	Wrong Turn	ff6e677f-91dd-4986-a174-8db0474b1799	Jack Johnson	24
+user_000002	ffc9d3fd-8153-4ccf-b6e9-06d9f5df72b2	The Skin Of My Yellow Country Teeth	4b2d6a23-034d-4a29-9bb9-d2462796da4e	Clap Your Hands Say Yeah	24
+user_000002	56adcc13-8257-4741-aadf-f9ed2a1cbab8	Eternity (Full Length)	db4624cf-0e44-481e-a9dc-2142b833ec2f	Robbie Williams	24
+user_000002	fc10772b-ea16-4218-a2e8-0edc9cfb094d	Gimme Some Salt	4b2d6a23-034d-4a29-9bb9-d2462796da4e	Clap Your Hands Say Yeah	24
+user_000002	697ecde2-84e6-4125-9316-2bcc6584a888	Sandblasted And Set Free	92e634a7-6023-4be8-be15-ebba822f5b34	Maxïmo Park	24
+user_000002	f4e25493-e6c0-457c-85cf-144035ddeec2	Barely Legal	f181961b-20f7-459e-89de-920ef03c7ed0	The Strokes	24
+user_000002	59089222-1d55-45ff-b194-055780853a74	From The Ritz To The Rubble	ada7a83c-e3e1-40f1-93f9-3e73dbc9298a	Arctic Monkeys	23
+user_000002	43e221da-08a3-4443-b3cd-f566322a65c1	Let The Cool Goddess Rust Away	4b2d6a23-034d-4a29-9bb9-d2462796da4e	Clap Your Hands Say Yeah	23
+user_000002	78f45efe-1208-4ed2-9b72-c71d485678f4	Middle Of Nowhere	0e0dd9da-5878-4c46-9a9a-6df43abb5c96	Hot Hot Heat	23
+user_000002	d2f824e7-6dcb-4e41-acb0-2431dda0b523	No Jokes - Fact	0e0dd9da-5878-4c46-9a9a-6df43abb5c96	Hot Hot Heat	23
+user_000002	7820fc35-ee24-4b33-948d-ad3f9fe9eb6a	Carnival Kids	0cf9d983-aecf-4d57-9e94-fde2beac014f	The Futureheads	23
+user_000002	91f65be8-1d26-44bf-b9f4-eabc48187cb8	The Whole World Is Our Playground	94f6def3-dbfe-403b-bb40-d324c8c13fbb	Peter Doherty	23
+user_000002	aa3dcd63-9e66-47ba-8f31-064cfb2fd8ad	Jingle Jangle	0e0dd9da-5878-4c46-9a9a-6df43abb5c96	Hot Hot Heat	23
+user_000002	5b20a7d0-adce-461b-852b-1e622bb25b2a	Time After Time	7bd9e20e-74b9-446a-a2ed-a223f82a36e7	Cyndi Lauper	23
+user_000002	940594ae-aa65-4af2-aafa-328698522050	Walls Fall Down	e0036453-ce34-4095-af40-8c70ee07cef1	Bedouin Soundclash	23
+user_000002	5deceea2-3e7b-4441-9c02-233053f81671	You Are	6fda00c2-449a-4bf4-838f-038d41a07c73	Atomic Kitten	23
+user_000002	90a1beeb-713b-4a63-974c-5d6248f472e9	Into Dust	c48d4327-8122-4286-af66-05e1ee6ac4d8	Mazzy Star	23
+user_000002	569be9f6-792b-412d-b0ac-3fa14d13a5fc	The King Is Dead	c2764f38-febf-4e47-a0d7-687980aabf38	Kent	23
+user_000002	7ac12265-58ff-4e18-bf18-8b21cb2707ca	St. Patrick'S Day	144ef525-85e9-40c3-8335-02c32d0861f3	John Mayer	23
+user_000002	64167fd9-f309-41d2-a638-a20fb91cca7e	Utan Dina Andetag	c2764f38-febf-4e47-a0d7-687980aabf38	Kent	23
+user_000002	a366d941-8e96-4367-8257-31f396b73733	This Scene Is Dead	9386b36e-87f3-4716-a219-79a07a4e29cc	We Are Scientists	23
+user_000002	97c08574-69c6-4942-bb2b-ef770d42f41d	Nosebleed	92e634a7-6023-4be8-be15-ebba822f5b34	Maxïmo Park	23
+user_000002	ee3874f3-7360-415f-a399-e7260c433fcd	I Want You	f82f3a3e-29c2-42ca-b589-bc5dc210fa9e	The Kooks	23
+user_000002	9cee164d-db69-4adc-8654-f1913d4e4734	Hooray For The 21St Century (Demo)	82b304c0-7da4-45d3-896a-0767c7ae1141	The Libertines	23
+user_000002	694bc2b0-0085-4cb6-81dc-920560d6e9f3	Cash Cow	9386b36e-87f3-4716-a219-79a07a4e29cc	We Are Scientists	23
+user_000002	9c119f38-bc42-4b2f-b595-b5f739cb91d5	Clap Your Hands!	4b2d6a23-034d-4a29-9bb9-d2462796da4e	Clap Your Hands Say Yeah	23
+user_000002	3c994773-9daa-45a9-a414-bfc9594c3b54	Kevlar Soul	c2764f38-febf-4e47-a0d7-687980aabf38	Kent	23
+user_000002	c8f98476-1fb0-442d-8e3a-cdcf6fc64ea1	Surfin' Usa	ebfc1398-8d96-47e3-82c3-f782abcdb13d	The Beach Boys	23
+user_000002	cb2a0d28-3dba-40d3-bf9b-1edb05c9f3da	I'Ll See Your Heart & Raise You Mine	3660a894-2cf6-4f6b-b995-c967da3c78c9	Bell X1	23
+user_000002	ec5da3f1-0d7a-4230-84da-7c11b2837580	No Buses	ada7a83c-e3e1-40f1-93f9-3e73dbc9298a	Arctic Monkeys	23
+user_000002	6a87cc85-b397-4756-ab25-3c50981cfcd0	Mission	c4237bd8-b11a-4f22-b0b7-29beca7daab9	Dispatch	23
+user_000002	9a3d0b7d-ee2e-4892-acc4-fcc5afd48e28	Oxygen	efc8a006-d0c6-4a9b-8cb1-91ca770fa2b9	Colbie Caillat	23
+user_000002	eaed268d-8e6a-4350-9850-dd5e854f17e2	The Weight	22a40b75-affc-4e69-8884-266d087e4751	Travis	23
+user_000002	9a02869a-250c-43a8-aa22-b7999711f15c	Conversation Diva	94f6def3-dbfe-403b-bb40-d324c8c13fbb	Peter Doherty	23
+user_000002	6631640e-b5d7-4a47-8741-2fc7ceb58a16	Hand In Hand	a9b88ebb-83aa-4ef7-b674-fabeb572c14e	Beatsteaks	23
+user_000002	65515baf-4f97-4120-9ffe-159ed5a31d87	Broken	ff6e677f-91dd-4986-a174-8db0474b1799	Jack Johnson	23
+user_000002	ea42a36a-ced7-4326-a7d3-c91456b49d0b	Snow ((Hey Oh))	8bfac288-ccc5-448d-9573-c33ea2aa5c30	Red Hot Chili Peppers	23
+user_000002	d53c69bd-dcc8-4089-8aee-35cdefef7591	3,000 Miles	1129817c-488a-4096-80c1-77fc1b107c93	Tracy Chapman	23
+user_000002	17015b27-b983-4568-bd1c-20dab609d687	Fuck Forever (Clean)	8e1e03fe-ebbc-467a-b541-857144db10fb	Babyshambles	23
+user_000002	c0c761b3-a108-445c-ae73-98ed78ee2cf0	Something In The Air Between Us	bd3deba0-d5f7-4c67-b840-36ce967b035b	Sophie Milman	23
+user_000002	9e4f492f-2b77-4bc7-b104-3326d5ee54c1	Bubbly	efc8a006-d0c6-4a9b-8cb1-91ca770fa2b9	Colbie Caillat	23
+user_000002	fd320fd7-c9de-43c4-9d39-2716940ac9d5	People Watching	ff6e677f-91dd-4986-a174-8db0474b1799	Jack Johnson	23
+user_000002	0f01dba0-d19d-4597-8d57-aedab08a2ea6	White Light White Heat	94b0fb9d-a066-4823-b2ec-af1d324bcfcf	The Velvet Underground	23
+user_000002	1fb202de-7b6c-4e11-81c1-73623e6480d6	The Sharing Song	ff6e677f-91dd-4986-a174-8db0474b1799	Jack Johnson	23
+user_000002	54152ede-6c98-42fe-a312-b9bcfef027b9	Mardy Bum	ada7a83c-e3e1-40f1-93f9-3e73dbc9298a	Arctic Monkeys	23
+user_000002	d698a5d6-4dcb-4f89-8efe-5a097279e0dc	Sleep Better	3533dea4-218c-4fc9-ab6e-2e3dc0ffde6e	Pete Yorn	23
+user_000002	2f6c61c4-d477-4dc7-96f4-cce130611dda	Cleanse Song	78f797e3-4913-4026-aad0-1cd858bd735b	Bright Eyes	23
+user_000002	dcc9b343-1d95-4d97-86b0-89dc09a2ed92	Somebody That I Used To Know	03ad1736-b7c9-412a-b442-82536d63a5c4	Elliott Smith	23
+user_000002	8365f7b1-2417-4a2c-bcca-5d59d81c2b6c	The Lady Is A Tramp	197450cd-0124-4164-b723-3c22dd16494d	Frank Sinatra	23
+user_000002	7deeab91-d53e-4b4c-9037-cc82810547fa	Novotel	150e799b-3244-45d9-a6cb-5a3e8c33d430	Adam Green	23
+user_000002	f83001ee-f2d5-4708-a0c8-ed901442377b	The Ha Ha Wall	94f6def3-dbfe-403b-bb40-d324c8c13fbb	Peter Doherty	22
+user_000002	21bd2851-63a2-455b-800b-ea1aa4900a99	This Is The Life	6aa40207-fec8-43a7-991d-b872a42def05	Amy Macdonald	22
+user_000002	d64ef5ef-2a86-48fc-b515-842ce4caa035	Ole Black 'N' Blue Eyes	f4ad883e-9a92-45ed-a540-a49c2d1c36dd	The Fratellis	22
+user_000002	fe53af4c-c4d9-451a-8488-bd98329894dc	Drag	847e8284-8582-4b0e-9c26-b042a4f49e57	Placebo	22
+user_000002	5361ae14-bbb4-4cd9-a3bb-338c1dba8002	You Got Me All Wrong	49ab9550-0ff4-4f70-86db-daa5b8f8df3f	Dios (Malos)	22
+user_000002	885ec45d-8394-43d0-a402-80cd58503f7c	Sunshine And Clouds (And Everything Proud)	4b2d6a23-034d-4a29-9bb9-d2462796da4e	Clap Your Hands Say Yeah	22
+user_000002	c34a642d-75bf-4b37-96b9-ff68c6d04dcb	Bang Bang	c4237bd8-b11a-4f22-b0b7-29beca7daab9	Dispatch	22

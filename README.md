@@ -35,7 +35,7 @@ If you want to try a different user from the dataset, please do the following:
 * If everything went well, you should be able to successfully run the ML scripts!
 
 ## Machine Learning Scripts
-The three algorithms being investigated are Ridge Regressor, Decision Tree Regressor and Nearest Neighbours Regressor. Currently only Ridge and Decision Tree have been done.  
+The three algorithms being investigated are Ridge Regressor, Decision Tree Regressor and Nearest Neighbours Regressor.   
 
 The scripts for the ML models are in regressor/models   
 
@@ -47,7 +47,7 @@ To run Decision Tree Regressor script:
 ```python DTR.py {user_id}```  
 The feature importances are printed in descending order
 
-To run K Nearest Neighbours script:
+To run K Nearest Neighbours script:   
 ```python KNN.py {user_id}```  
 
 Please ensure you run the scripts within the 'models' directory.   

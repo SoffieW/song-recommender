@@ -1,21 +1,39 @@
-import numpy as np
+import sys
 import os
+import numpy as np
 import pandas as pd
 from collections import OrderedDict
 from operator import itemgetter
-from sklearn.model_selection import cross_val_score
-from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score, make_scorer
+from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
 from sklearn.preprocessing import LabelEncoder, MultiLabelBinarizer
-from sklearn.linear_model import LinearRegression, RidgeCV
+from sklearn.linear_model import RidgeCV
 import matplotlib.pyplot as plt
 from functions import importMappedData, mbzMeta
 
-files = os.listdir('.')
+def printUsage():
+	print("Usage: python Ridge.py {user_id}")
+	
+	
+try:
+	user = sys.argv[1]
+except IndexError as err:
+	printUsage()
+	sys.exit(1)
+	
+# Check folder exists for this user
+found = False
+files = os.listdir('../')
 for filename in files:
-	if 'user_' in filename:
-		user = filename[:11]
+	if user == filename:
+		print("Found " + user + "'s data folder.")
+		user_folder = '../'+user
+		found = True
+		break
 
-print("User: " + user)
+if(found == False):
+	print("No data folder found for this user.")
+	sys.exit(1)
+	
 
 def mean_absolute_percentage_error(y_true, y_pred): 
     y_true, y_pred = np.array(y_true), np.array(y_pred)
@@ -24,7 +42,7 @@ def mean_absolute_percentage_error(y_true, y_pred):
 # SET UP DATA
 
 # Include the metadata for every song
-data = mbzMeta(importMappedData())
+data = mbzMeta(user,importMappedData(user_folder+'/mapped_data.tsv'))
 
 # Rename country column to 'cntry' - because 'country' is a genre!
 data = data.rename(columns={ 'country':'cntry' })
@@ -137,5 +155,5 @@ print("R2 score: " + str(score))
 mse = mean_squared_error(actual,predicted)
 print("Mean squared error: " + str(mse))
 
-compareDF.to_csv('../plot/Ridge/'+user+'_results.tsv',sep='\t',index=False)
+compareDF.to_csv('../results/Ridge/'+user+'_results.tsv',sep='\t',index=False)
 

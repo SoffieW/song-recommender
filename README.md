@@ -37,19 +37,26 @@ If you want to try a different user from the dataset, please do the following:
 ## Machine Learning Scripts
 The three algorithms being investigated are Ridge Regressor, Decision Tree Regressor and Nearest Neighbours Regressor. Currently only Ridge and Decision Tree have been done.  
 
+The scripts for the ML models are in regressor/models   
+
 To run the Ridge Regressor script:    
-```python Ridge.py``` 
+```python Ridge.py {user_id}``` 
 The feature coefficients are printed in descending order 
 
 To run Decision Tree Regressor script:  
-```python DTR.py```  
+```python DTR.py {user_id}```  
 The feature importances are printed in descending order
+
+To run K Nearest Neighbours script:
+```python KNN.py {user_id}```  
+
+Please ensure you run the scripts within the 'models' directory.   
 
 Running each script builds a model using the specified algorithm from the sklearn library. Cross validation is performed and the estimator with the best parameters is selected as the optimal model; this is then used on the test set to produce predictions which are evaluated using R2, MAE, MSE statistical tests.   
 
-A .tsv file will be generated in plot/[algorithm_name]/ directory for the user, which contains Actual and Predicted run times.  
+A .tsv file will be generated in results/[algorithm_name]/ directory for the user, which contains Actual and Predicted run times.  
 
-In the plot/[algorithm_name]/ directory, run ```python accuracy_scatter.py``` to generate a .png to display results of actual vs predicted values for that algorithm. The graph generated shows all the user's results. 
+In the 'results' directory, run ```python accuracy_scatter.py {algorithm_name}``` to generate a .png to display results of actual vs predicted values for that algorithm. The graph generated shows all the user's results and will be in the directory for that model in 'results'. 
 
 
 

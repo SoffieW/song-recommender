@@ -1,6 +1,7 @@
 import matplotlib.pyplot as plt 
 import pandas as pd
 import sys
+import os
 from functions import importMappedData, trackMeta, mbzMeta, getUsers
 from collections import OrderedDict, Counter
 from operator import itemgetter

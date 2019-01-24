@@ -9,7 +9,7 @@ from sklearn.preprocessing import LabelEncoder, MultiLabelBinarizer
 from sklearn.model_selection import GridSearchCV
 from sklearn.neighbors import KNeighborsRegressor
 import matplotlib.pyplot as plt
-from functions import importMappedData, mbzMeta
+from model_data import importMappedData, mbzMeta
 
 
 def printUsage():

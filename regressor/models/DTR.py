@@ -8,7 +8,7 @@ from sklearn.model_selection import GridSearchCV
 from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
 from sklearn.preprocessing import LabelEncoder, MultiLabelBinarizer
 from sklearn.tree import DecisionTreeRegressor
-from functions import importMappedData, mbzMeta
+from model_data import importMappedData, mbzMeta
 
 
 def printUsage():

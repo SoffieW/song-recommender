@@ -24,15 +24,19 @@ Python versions 2.7 and up can be used for running the scripts.
 ## Users
 There are 3 users extracted from the above dataset to try and build ML models for - user_000001, user_000002 and user_000003.  
 If you want to try a different user from the dataset, please do the following:  
-* Make a copy of one of the existing user's directory and name it the user_id of the user you wish to extract. Note this user must be in 'data.tsv'. 
-* If there are any .tsv files in the new directory, remove them by running ```rm *.tsv```
-* run ```python extract.py [user_id]``` e.g. if your user is user_000004 you would run ```python extract.py user_000004```. This generates a .tsv file with only data for that user e.g. user_000004_data.tsv and 500 of their top tracks. If you'd like to increase/decrease number of tracks, you can do so in the script file but if there are too many tracks, it'll take too long to retrieve metadata (in a later step)
-* now run: ```python run_functions.py [user_id]_data.tsv``` 
-* This performs operations on the user data file to generate normalised play count
-* Run ```python mbzmeta.py [user_id]_data.tsv```  
-* This gets the metadata for each song from the musicbrainz database *Note: musicbrainzngs package needs to be installed for this*
-* For 500 songs, this takes approximately 15 minutes. The file generated is meta.tsv.
-* If everything went well, you should be able to successfully run the ML scripts!
+* run ```python extract.py {user_id} {number_of_songs}```
+* where user_id is the user id of the user you wish to extract (must be in data/data.tsv)
+* and number_of_songs is the max number of songs to keep (these are the user's top songs)
+* A directory will be created for the user, with the user_id being the name of the new directory. In there you will now find 'mapped_data.tsv'
+
+## Analysis
+The 3 analysis scripts are:
+* songsPerCountry.py
+* songsPerGenre.py
+* songsPerYear.py
+
+You can run them from the regressor/ directory e.g.
+```python songsPerCountry.py user_000001``` will run the script for user_000001    
 
 ## Machine Learning Scripts
 The three algorithms being investigated are Ridge Regressor, Decision Tree Regressor and Nearest Neighbours Regressor.   

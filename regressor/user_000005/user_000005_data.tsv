@@ -1,0 +1,501 @@
+user_id	track_id	track_name	artist_id	artist_name	playcount
+user_000005	96779df5-15dc-4fa2-9496-7c9878786a5c	All I Need	cb67438a-7f50-4f2b-a6f1-2bb2729fd538	Air	221
+user_000005	1722af9b-cc0c-4dde-b6c8-edb10a35e4bd	In My Arms	a066b730-3809-4b39-a091-2297d40b51db	Mylo	207
+user_000005	9110db5e-a1c8-44f9-b57f-deb9705bc3af	The World Is Mine (Album Version)	302bd7b9-d012-4360-897a-93b00c855680	David Guetta	191
+user_000005	86428c5b-21b4-4cf8-8fa2-e1ea3a74ce5e	What Else Is There	1c70a3fc-fa3c-4be1-8b55-c3192db8a884	Röyksopp	147
+user_000005	579dac4e-abc2-4ffb-b85a-4c22f4f7ac47	You Make It Easy	cb67438a-7f50-4f2b-a6f1-2bb2729fd538	Air	146
+user_000005	f6a2b3e0-5df0-45d0-a34d-603336c55b54	Tracking Treasure Down	7fedce48-0f20-442d-80fe-324c61339fc3	Gabriel & Dresden	137
+user_000005	75a79609-a78c-496b-a420-f51342407817	Toop Toop	256160e8-37fd-4f8c-a3ef-530ebbaa4b3d	Cassius	137
+user_000005	09cb1175-4f16-4e0e-b389-4b1b37d9118f	Run	cb67438a-7f50-4f2b-a6f1-2bb2729fd538	Air	134
+user_000005	8a1adef3-8270-444f-9e59-17ef82a1647d	Dance I Said (Soulcast Remix)	ce4677c1-13e4-450c-9022-161f0438c80e	Erick Morillo & P. Diddy	134
+user_000005	e9ba89bd-ab94-465a-8c6f-9d37b4b5d2cd	Heartbeats	cd8c5019-5d75-4d5c-bc28-e1e26a7dd5c8	José González	128
+user_000005	f3fb6ec6-46b2-412d-9ab3-956c1a5cf89f	Kelly Watch The Stars	cb67438a-7f50-4f2b-a6f1-2bb2729fd538	Air	124
+user_000005	8069f55f-6a4c-405b-89b9-83c21b71189e	The Sound Of Violence	256160e8-37fd-4f8c-a3ef-530ebbaa4b3d	Cassius	121
+user_000005	9dc94a9d-67f8-4fa7-921b-1dccb2d18b80	No More Conversations	c0bbc0ad-9fee-42fe-9419-89a72881afde	Freeform Five	120
+user_000005	1f21c40d-6e29-4c67-a5c9-fa50aa59b3e7	Remember	cb67438a-7f50-4f2b-a6f1-2bb2729fd538	Air	116
+user_000005	864c7424-c9ab-481e-a9c0-ad986e646c67	La Femme D'Argent	cb67438a-7f50-4f2b-a6f1-2bb2729fd538	Air	116
+user_000005	8967ca1e-3e0c-4e41-81f6-08757fae829d	Talisman	cb67438a-7f50-4f2b-a6f1-2bb2729fd538	Air	114
+user_000005	9818875b-a98e-4e82-bd4a-83c0594f333b	Playground Love	cb67438a-7f50-4f2b-a6f1-2bb2729fd538	Air	110
+user_000005	63d8081c-740a-4d20-a1f1-1f907d58ecdf	Mike Mills	cb67438a-7f50-4f2b-a6f1-2bb2729fd538	Air	110
+user_000005	41eae3be-85be-4176-b6d4-f8d13215254e	A Star Is Born	60752459-01cb-48ed-9ac4-09d8e2b6aa37	Chocolate Puma	106
+user_000005	90428bbb-be79-4f71-a2f3-e43b7f529084	Alpha Beta Gaga	cb67438a-7f50-4f2b-a6f1-2bb2729fd538	Air	104
+user_000005	bb7dcc7a-0b4e-413f-89a3-c3e4ba2d7ff3	We Are All Made Of Stars	8970d868-0723-483b-a75b-51088913d3d4	Moby	102
+user_000005	6895a632-315e-420b-a95f-961554c4e7cf	Just A Little More Love (Elektro Edit)	302bd7b9-d012-4360-897a-93b00c855680	David Guetta	95
+user_000005	738920d3-c6e6-41c7-b504-57761bb625fd	Sexy Boy	cb67438a-7f50-4f2b-a6f1-2bb2729fd538	Air	95
+user_000005	a54de956-3d99-4a91-be34-96a75a8b64b3	Get Together	79239441-bfd5-4981-a70c-55c3f15c1287	Madonna	94
+user_000005	4fb05a9e-4317-4312-9fbf-42026de706b5	Always And Forever	60752459-01cb-48ed-9ac4-09d8e2b6aa37	Chocolate Puma	91
+user_000005	71d028b7-7efa-433a-9c7f-c3a168919ea8	Paris Four Hundred	a066b730-3809-4b39-a091-2297d40b51db	Mylo	91
+user_000005	c7858e32-c23a-44de-aa82-4fa8672cb8f2	Always And Forever (Till West And Dj Delicious Remix)	60752459-01cb-48ed-9ac4-09d8e2b6aa37	Chocolate Puma	90
+user_000005	b3674581-30c9-4954-8002-e13c6f7416b1	Thrill Me	e96ab876-83bc-4f5d-98da-91dc8589acbc	Junior Jack	84
+user_000005	702f5e21-c59b-4ea1-9a8b-c2140e8d7a95	Muscle Cars	a066b730-3809-4b39-a091-2297d40b51db	Mylo	83
+user_000005	f703d7dd-ba12-48dc-a54b-cb0d71a3910e	Venus	cb67438a-7f50-4f2b-a6f1-2bb2729fd538	Air	83
+user_000005	ad7eba21-e6e7-40ce-9a35-cd066cfe92db	Walking Away (Tocadisco Remix)	6fe91ae9-8ddb-47b0-a2d7-252833ce5500	The Egg	83
+user_000005	3e6d15da-59ca-4ac2-a8c8-54a6cdf388d4	Lift Me Up	8970d868-0723-483b-a75b-51088913d3d4	Moby	81
+user_000005	39089be8-7ad6-4baf-812d-bc1cc3d8f80f	Love Don'T Let Me Go (House Remix)	302bd7b9-d012-4360-897a-93b00c855680	David Guetta	80
+user_000005	a5113759-23e2-4c1b-9603-8caa4e1cac3a	Distortion	302bd7b9-d012-4360-897a-93b00c855680	David Guetta	80
+user_000005	443973f0-57be-491b-8746-e8da4b24adaf	Heart Beats	06db73fd-57e2-4a6f-bcd3-699fb7bb7af4	Martin Solveig	79
+user_000005	a5be59c7-939d-4165-a9b2-3ccf20159ce9	I Wanna Be You	60752459-01cb-48ed-9ac4-09d8e2b6aa37	Chocolate Puma	79
+user_000005	1e3668b5-3053-40f7-8bda-0ba987b37cbe	Porcelain	8970d868-0723-483b-a75b-51088913d3d4	Moby	78
+user_000005	7d5f70ba-504d-4dba-81d8-320d458d461d	Sometimes	0d8303d1-6653-43f1-a0ef-2fcd3835529f	Deux	76
+user_000005	a6f039df-62ca-4e81-a41c-bb1b2a207e59	Body Language	664a8867-2e24-4d05-9bae-de5f7b16f17b	M.A.N.D.Y. Vs. Booka Shade	76
+user_000005	9255cb10-65aa-4672-875d-229d85b7c22b	Keep On Running (Sterac Electronics Remix)	480c8278-9245-45fc-8add-cfd521ba88e4	Sweet Coffee	75
+user_000005	b1cfa88d-7678-4936-9db9-a1d97aba225f	Sorry (Man With Guitar Mix)	79239441-bfd5-4981-a70c-55c3f15c1287	Madonna	75
+user_000005	833769db-6c5b-4a08-82ff-4fb0ab6ab1dc	Cherry Blossom Girl	cb67438a-7f50-4f2b-a6f1-2bb2729fd538	Air	74
+user_000005	d1e26783-2143-428b-b772-9df3f8fd464d	Dice	d4692ccc-92bf-4909-9224-fb3d4c12bc24	Finley Quaye & William Orbit	74
+user_000005	a5d5e5df-83c6-4f71-9bdf-a7e409ab4e0c	Sunshine	a1b4189d-652c-4ca3-9b87-e10c6402e664	Tomaz Vs. Filterheadz	74
+user_000005	e8f15a81-0bca-4e26-8a25-c70f627e4410	I Wish U Would	5fd0fb7f-542c-4c4b-bbd9-d1fa74a9a083	Martijn Ten Velden	74
+user_000005	e0c1f9c9-ea36-40ea-b7fa-45f957301c56	Rocker (Dub Mix)	8a246333-858f-4d89-bd07-b759e7d060e9	Alter Ego	72
+user_000005	d697e790-4493-4070-9b05-168c6d2eb91a	Brother Louie	98913495-8867-43b3-aa8d-db88ee4d4cdc	Modern Talking	72
+user_000005	934da324-a9df-4364-abf6-3e6d552c6836	Dancing In The Dark	9781e8b3-84c8-4a4a-8006-9e8dffb0271e	4Tune 500	72
+user_000005	66772f7b-4fde-44ef-af80-235112bdf136	From Disco To Disco	31610cea-5863-4439-9dad-b2826624107d	Whirlpool Productions	71
+user_000005	64e628b5-6a26-4fe8-8d0e-d8103ee14e20	If You Give Me Love	ed13185d-a540-4ab4-ab04-0033c1e0d1b0	Crydajam	71
+user_000005	407fbf24-5824-455b-be2a-1e8b52ae7167	Shake It (No Te Muevas Tanto)	1c20e0a2-9bca-4dce-9ebd-87362b9409da	Lee-Cabrera	69
+user_000005	57b6b04a-c8c8-4521-aa88-07b9396ae1e0	Ghetto Blaster	0b7ae645-e585-448c-8dbe-23af59b0977a	Twin Pitch	69
+user_000005	456147d7-c7b4-4d6c-9ab5-a0487db280b9	Feeling For You	256160e8-37fd-4f8c-a3ef-530ebbaa4b3d	Cassius	69
+user_000005	216091b4-21e5-4bd2-91a3-22a110d2795a	Eple	1c70a3fc-fa3c-4be1-8b55-c3192db8a884	Röyksopp	68
+user_000005	3c1611a6-9ea6-410b-b013-711c6e8d3c1a	I Thought That (Dj Prom Mix)	e77341ad-c430-48c0-8f4f-6e27fc17dbe6	The Migrants By Play Paul	67
+user_000005	80009318-960e-495b-a8c4-9810643b2824	Let Go	7fedce48-0f20-442d-80fe-324c61339fc3	Gabriel & Dresden	67
+user_000005	ab8d4dec-ea98-4d84-b78a-9bd54850bec0	Fuckin Track	cd63cb9a-c5ac-42e6-9848-64a2e3a69fee	Da Fresh	67
+user_000005	c178bb4e-26b9-4ed4-a0c8-9aff561ef239	Rudebox	db4624cf-0e44-481e-a9dc-2142b833ec2f	Robbie Williams	66
+user_000005	ba818da9-95b8-4f63-a0f4-9b84f0c5652d	Bye Bye Superman (Dancefloor Killa Remix)	f49071de-43ff-49c0-9229-6238c91b1044	Geyster	65
+user_000005	ccb3f033-6a1d-4349-bbdc-371e2ecf8eef	Electromagnetic	c0bbc0ad-9fee-42fe-9419-89a72881afde	Freeform Five	63
+user_000005	86681d1b-e989-4fc0-9b19-e88fb9d96524	Go	8970d868-0723-483b-a75b-51088913d3d4	Moby	63
+user_000005	ca300a53-1537-4a1b-a4bd-350f5cb44c6d	Jump (Radio Edit)	79239441-bfd5-4981-a70c-55c3f15c1287	Madonna	62
+user_000005	4d3d8d93-d184-4e43-80f4-743dc7c790da	Alright	f9d74311-5baa-4ae8-a616-20968afce54f	Red Carpet	62
+user_000005	c7ed3ab3-cb10-42d7-a149-ceb1082aa659	Stock Exchange	bc7ec666-4700-4f48-a797-5c607f84a890	Miss Kittin & The Hacker	62
+user_000005	1f474984-694c-40e6-af56-7cac4b425951	Who Need Sleep Tonight	f9ab44f1-7b19-4ecb-830c-403abcf36cd1	Bob Sinclar	61
+user_000005	bbdab3ba-1bcc-4dbb-be89-481490f63cee	Bucci Bag	2fa27deb-ae3c-44b8-a8c8-d55cf7b4e254	Andrea Doria	61
+user_000005	628d77c0-ac51-47f4-af66-0405b0adc4f5	Flower	8970d868-0723-483b-a75b-51088913d3d4	Moby	60
+user_000005	56c5f699-ecfa-453a-beff-2c0915a789b3	The Rub (I Never Rock)	1577f48a-dc2d-45f1-b7ac-64c25b44bca8	Kurd Maverick	60
+user_000005	a444721c-28c2-4ca0-9acb-1ca8ada33afd	Love Sensation	96505120-3796-413b-8181-afa9bbd9aacb	E. Thoenick & K. Maverick	59
+user_000005	8e2ee080-5256-4a2e-82ee-9d3f9dbad68e	Sunday	8970d868-0723-483b-a75b-51088913d3d4	Moby	59
+user_000005	d8649017-0204-4eaa-836d-5e7fbfde20f3	Another Chance	1c513fb9-e6b7-4915-b4d3-026681c83065	Roger Sanchez	58
+user_000005	ba4bcf45-fcdf-4ff7-a19e-be3fdffae337	Violet Hill	cc197bad-dc9c-440d-a5b5-d52ba2e14234	Coldplay	58
+user_000005	8b189d0c-8a13-4813-8882-3e648938ef2d	Army Of Me	87c5dedd-371d-4a53-9f7f-80522fb7f3cb	Björk	56
+user_000005	a126738f-4f48-47b3-bb9f-24f9cee8be36	Zenophile	a066b730-3809-4b39-a091-2297d40b51db	Mylo	56
+user_000005	441cb09a-2b13-478f-91c2-cd5d77962858	Dust In The Wind	7fedce48-0f20-442d-80fe-324c61339fc3	Gabriel & Dresden	56
+user_000005	c2f0a6d8-0f62-4ba9-af6c-5ec1b86bb615	All Good Things	13655113-cd16-4b43-9dca-cadbbf26ee05	Nelly Furtado	55
+user_000005	7bcf8f24-38bb-4e27-87a8-8e036854f8cc	Breathe	265f242e-cf4e-4fbe-a3fe-43112387172f	Télépopmusik	52
+user_000005	3c2347fd-98f7-4dec-9484-059e727db480	Maneater	13655113-cd16-4b43-9dca-cadbbf26ee05	Nelly Furtado	51
+user_000005	6d32aca1-6450-4773-bebd-e99942e26222	Yeah Yeah (D Ramirez Remix)	fcf7a3e7-135c-4c7a-b0b9-1a7867761263	Bodyrox	51
+user_000005	82ff44b9-b830-4d9b-8f8f-fc145a6d2b5c	Kinda New (Tiefschwarz Dub)	1d6d0877-4e30-45cf-937a-ebc19167dc07	Spektrum	50
+user_000005	7063cb4f-71c5-488f-b3f4-a181a0706ee5	Lost	1c513fb9-e6b7-4915-b4d3-026681c83065	Roger Sanchez	50
+user_000005	60fa767a-d85d-4991-82bc-4294e0b11ae7	One More Time	056e4f3e-d505-4dad-8ec1-d04f521cbb56	Daft Punk	49
+user_000005	88da8104-f09c-466d-9e08-5fdeb54a646c	Alive	7fedce48-0f20-442d-80fe-324c61339fc3	Gabriel & Dresden	49
+user_000005	8a6e0050-1777-4bbd-a1b1-6a2ebc5a7f27	In This World (Push Vocal Club Mix)	8970d868-0723-483b-a75b-51088913d3d4	Moby	48
+user_000005	f4739dc9-fce6-46db-b735-3cdf352f9d91	People Come People Go	302bd7b9-d012-4360-897a-93b00c855680	David Guetta	48
+user_000005	62b5e26e-0d1d-436d-bfd0-f2c6307392b0	Tomorow Can Wait (Radio Edit)	302bd7b9-d012-4360-897a-93b00c855680	David Guetta	48
+user_000005	f0910eb4-a6be-45b6-938d-5ea71876e489	Teasing Mister Charlie	4069600e-55c1-46dd-814f-4166d5b5dbba	Steve Angello	48
+user_000005	b3136ae0-d4f0-4fde-8d41-edc6f408b28f	Put Your Hands Up For Detroit	ffa93e03-f6c5-4d78-b0d5-07d0d6de46aa	Fedde Le Grand	47
+user_000005	dcb35b98-29de-471f-8ec8-31baa2fde997	Arcadia	7fedce48-0f20-442d-80fe-324c61339fc3	Gabriel & Dresden	47
+user_000005	9c0fbf29-8af5-4959-a67b-29f7d1133db7	Same Man	6340f9c2-3687-44c0-9b90-61485e4a0230	Till West	46
+user_000005	2b78c59e-cfb8-4623-b9d4-a828fd495947	Baby When The Light (Feat. Cozi)	302bd7b9-d012-4360-897a-93b00c855680	David Guetta	46
+user_000005	fd3d4196-efb4-4b37-96cf-1b155635e279	I'M So Crazy	10a9571a-ee6e-4878-b5e0-1eca15e18fcd	Par-T-One Vs. Inxs	46
+user_000005	c302e3f0-9bd6-4111-bbf7-31974ec4a792	Valley Of The Dolls	a066b730-3809-4b39-a091-2297d40b51db	Mylo	46
+user_000005	68e5b13f-3825-47a5-9845-0b3fe28f5293	Just For One Day (Heroes) (Extended Version)	e6620dc4-37c9-44d9-a834-93d02ee95e87	David Guetta Vs. David Bowie	46
+user_000005	1f0cd299-f6d5-4e94-a98d-cd9d1736b511	Natural Blues	8970d868-0723-483b-a75b-51088913d3d4	Moby	45
+user_000005	a5d44af8-c480-4a57-b661-ca0e6d573153	Need You Tonite	a066b730-3809-4b39-a091-2297d40b51db	Mylo	45
+user_000005	09f87537-cb7c-45cf-b62a-9c73405628cf	Sunworshipper	a066b730-3809-4b39-a091-2297d40b51db	Mylo	45
+user_000005	41926cf7-39a1-4a13-a982-78b831b0a01f	Le Souk	94ec4e28-3b03-4cbc-ba98-2b83bac65a3b	Funkagenda	44
+user_000005	d45d917e-d4a1-4cc2-9fea-66be069b1eba	Bleeep! (Original Mix)	2d44d331-e622-4242-9e5e-0146dbfc328e	Martijn Ten Velden & Lucien Foort	44
+user_000005	f6b03131-b1da-4c53-809c-ee69d35a77ce	Das Mach Isch	0da1e91b-3621-48ce-900f-b6aecd1eb741	Beatz Cool	44
+user_000005	1ea67095-274c-4ab1-951a-d6cdd3921c00	Guilty Of Love	a066b730-3809-4b39-a091-2297d40b51db	Mylo	44
+user_000005	e4ff1b26-d444-4fa9-8839-31378df4a333	Boys	1c70a3fc-fa3c-4be1-8b55-c3192db8a884	Röyksopp	43
+user_000005	b512daab-1951-4011-9865-fd05b47fc072	Fucking Swedish	b2f45ca6-2c92-438c-b037-ad4d8b92e90e	Logic	43
+user_000005	38725b05-a411-4273-9696-99608dff3be6	Just For One Day (Heroes)	302bd7b9-d012-4360-897a-93b00c855680	David Guetta	42
+user_000005	685b8ded-b390-4d4d-9001-d9d926db4da4	The Test	1946a82a-f927-40c2-8235-38d64f50d043	The Chemical Brothers	41
+user_000005	80434a1d-8f34-4816-9c15-ba1a3a9e4c0f	Everytime We Touch (Feat. Chris Willis, Steve Angello & Sebastian Ingrosso) (Original)	302bd7b9-d012-4360-897a-93b00c855680	David Guetta	41
+user_000005	61b28d70-c4b2-4ccf-b0bf-af1afd70e1a1	Love Is Gone (Radio Mix)	302bd7b9-d012-4360-897a-93b00c855680	David Guetta	40
+user_000005	223c8761-b6a7-4a28-83bb-7bdad0cabffa	Rikki	a066b730-3809-4b39-a091-2297d40b51db	Mylo	40
+user_000005	6d5be776-27e9-4d13-b6c0-fd7af46fdba9	Destroy Rock & Roll	a066b730-3809-4b39-a091-2297d40b51db	Mylo	39
+user_000005	98452629-481b-4667-94e7-3a320d199b30	Sinnerman (Felix Da Housecat'S Heavenly House Mix)	2944824d-4c26-476f-a981-be849081942f	Nina Simone	39
+user_000005	29f68bb6-f980-4223-86f2-6031225407f1	Delirious (Feat. Tara Mcdonald)	302bd7b9-d012-4360-897a-93b00c855680	David Guetta	39
+user_000005	e0fe5cfc-e915-4459-8f96-f8799ee25342	Oh Yeah 'Oh Six (Booka Shade Remix)	c616aef1-e21f-46f8-864f-b7bad96f41b2	Yello	39
+user_000005	24cc8311-98fd-423a-bed1-97728f5eabc5	Seven Nation Army	11ae9fbb-f3d7-4a47-936f-4c0a04d3b3b5	The White Stripes	39
+user_000005	f7be33e4-ac3e-449a-9fef-7a6d85b42c3f	Winner Of The Game (Feat. Jd Davis)	302bd7b9-d012-4360-897a-93b00c855680	David Guetta	38
+user_000005	089d0043-1a40-4ce3-b91e-7d07c2ed3cf3	Go (Trentemøller Remix)	8970d868-0723-483b-a75b-51088913d3d4	Moby	38
+user_000005	8a48e451-614f-4d3d-a817-f9b19adeed5a	5 In The Morning (Original Mix)	40a90c5b-1c6c-4be4-a779-fcd1fd610846	Richard F	38
+user_000005	be7c3f04-c4c6-4858-a7b4-c9e6a64cdcb5	The Beat Is Rockin' (Gregor Salto Remix)	99638876-3b94-4645-901c-8dd5ad21ea77	Ericke	37
+user_000005	0ccbb6fc-9822-4e39-ad1e-3a4385236550	You'Re Not Alone (Feat. Tara Mcdonald)	302bd7b9-d012-4360-897a-93b00c855680	David Guetta	36
+user_000005	f900f8e2-7d49-4cca-a9a9-ee67dda88e6e	Alone In Kyoto	cb67438a-7f50-4f2b-a6f1-2bb2729fd538	Air	36
+user_000005	eb612418-2d98-49af-9fdf-64362326632b	Scar Tissue	8bfac288-ccc5-448d-9573-c33ea2aa5c30	Red Hot Chili Peppers	35
+user_000005	725f9d6c-6715-400b-b86c-056b423dcb61	Relax, Take It Easy	6f09060a-f1fc-4079-90b0-2b601fdb17f4	Mika	35
+user_000005	2ffb604e-9c3e-4e97-a0b5-b3839b1354e1	Sex 'N' Money	7bf1f441-ccf1-4258-9797-07c8d16eb44c	Paul Oakenfold	35
+user_000005	ff513b3b-bd12-4cf7-bca0-27acdbfa27a9	Satisfaction (Isak Original Edit)	9606eb8c-53f6-48c4-baaf-9586391af769	Benny Benassi Presents The Biz	35
+user_000005	bba7b59b-774d-496c-b6d5-5cdf69d8f0bd	Always (Feat. Jd Davis)	302bd7b9-d012-4360-897a-93b00c855680	David Guetta	35
+user_000005	d786318c-e148-4662-8171-aba955d4674b	This Is Not A Love Song (Feat. Jd Davis)	302bd7b9-d012-4360-897a-93b00c855680	David Guetta	34
+user_000005	2fcfc279-c9fc-45c8-bec7-53fca0fb6759	Joan Of Arc (Feat. Thailand)	302bd7b9-d012-4360-897a-93b00c855680	David Guetta	34
+user_000005	29c14426-d74b-45b0-a069-771097716774	Disco Lies	8970d868-0723-483b-a75b-51088913d3d4	Moby	34
+user_000005	9591f5cc-2cb3-4337-b094-5aae9e20106d	A Bit Patchy	7aac1462-bd76-4a95-b63b-60182f69d361	Switch	33
+user_000005	65e278c3-1bcf-4d56-8900-1e4aaa0d2a31	Fairytale Gone Bad	fa57d5dc-bcfa-40ea-9638-3d3cd89d1258	Sunrise Avenue	33
+user_000005	2777386a-7b4d-48b9-b34a-eec0958b6576	Where'S Your Head At (Radio Edit)	28cbf94d-0700-4095-a188-37e373b069a7	Basement Jaxx	33
+user_000005	225953fe-86b5-49d8-ab16-5bc223dea89e	Drop The Pressure	a066b730-3809-4b39-a091-2297d40b51db	Mylo	32
+user_000005	176ce892-5deb-457b-b3a2-d947c45ac712	Where The Streets Have No Name	a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432	U2	31
+user_000005	2befc604-d07a-4bd8-99ca-327b26ab6c27	Satellites	f97b55a8-7d03-4ebe-a277-a9cadc2a9f86	September	31
+user_000005	60d2d681-18c5-4639-8f6a-69a2ba4c5ed1	Beautiful Day	a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432	U2	31
+user_000005	9e11ab75-ee7d-48b0-8d4e-2d7f449eeb67	Love Is Gone (Fred Riester & Joachim Garraud Radio Edit Remix)	302bd7b9-d012-4360-897a-93b00c855680	David Guetta	31
+user_000005	a2bba78e-2b58-4720-acf5-82d8036f52cb	To Be Alone With You	01d3c51b-9b98-418a-8d8e-37f6fab59d8c	Sufjan Stevens	31
+user_000005	5d6dc64b-ddc3-4134-a3e8-bdf6f31cf57a	Do It Again (Feat. Ali Love)	1946a82a-f927-40c2-8235-38d64f50d043	The Chemical Brothers	30
+user_000005	203a0c11-878c-4a81-8617-2d2d5b8f8483	New Year'S Day	a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432	U2	30
+user_000005	69443781-a8e6-4ee8-8b76-baa50e5e246b	God Put A Smile Upon Your Face	cc197bad-dc9c-440d-a5b5-d52ba2e14234	Coldplay	30
+user_000005	3c2ad3e1-4b8f-4004-9b6e-c79329fd1bef	Love Is Gone (Fred Rister & Jo	302bd7b9-d012-4360-897a-93b00c855680	David Guetta	30
+user_000005	0773c7bb-3198-480d-9c4d-d6598afcdc76	Evening Rain	8970d868-0723-483b-a75b-51088913d3d4	Moby	30
+user_000005	e5d7fa5c-03bf-4ff9-b710-7e3198458353	Forever Young	13b6c63a-7db5-4b71-b8ad-922c4b30ee68	Youth Group	30
+user_000005	a8421807-702a-4981-9cd3-3655e304324b	You Won'T See Me Cry 2005	62558a6c-cbb1-4bee-a843-d07d187ddf55	Markus Schulz	29
+user_000005	d0dce459-9aa9-41fa-b182-bfc2573f1a2b	She'S Madonna (Chris Lake Remix)	db4624cf-0e44-481e-a9dc-2142b833ec2f	Robbie Williams	29
+user_000005	b89b25fd-3f9e-4f0e-aa5e-022724838c69	Love Don'T Let Me Go (Walking Away) (Feat. The Egg)	302bd7b9-d012-4360-897a-93b00c855680	David Guetta	29
+user_000005	3e963c34-06d2-4a32-93d8-bd03e98d5e81	Clocks	cc197bad-dc9c-440d-a5b5-d52ba2e14234	Coldplay	29
+user_000005	13104836-1dfd-4763-be17-7dd662b53f94	Extreme Ways	32a92586-6f9f-4882-b168-97fd60a99b6d	Moby	29
+user_000005	70ddb226-f65a-4cd8-8361-540a6a57b068	I Will Follow	a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432	U2	28
+user_000005	f26bc585-e2d2-4b3b-81ba-e73e1851f98c	Jupiter	59ef054f-9671-4c0a-88ed-ea1f29cef88d	Kris Menace	28
+user_000005	b1457a92-aee6-4009-be1d-44342700921b	City Of Blinding Lights	a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432	U2	28
+user_000005	d8989ed7-c2a5-4f70-b648-46b5503d5766	Pride (In The Name Of Love)	a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432	U2	28
+user_000005	c8544444-29a5-4aba-86cc-ab9aac975d47	All I Want Is You	a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432	U2	27
+user_000005	392d9ac6-b5ff-4a41-bac8-b2b022713f29	Raining Again (Steve Angello'S Vocal Mix)	8970d868-0723-483b-a75b-51088913d3d4	Moby	27
+user_000005	719b3ec2-9722-4aa3-96f8-5c3748584363	It'S All True	6dbd7f8b-20ac-4287-8dd3-b4cae5c5f82f	Tracey Thorn	27
+user_000005	729cf505-94eb-4fbe-bc76-cbae44cff091	Yellow	cc197bad-dc9c-440d-a5b5-d52ba2e14234	Coldplay	27
+user_000005	a9fb5fe9-28ab-4a5e-800f-7cec7e0fafd7	Say It Right	13655113-cd16-4b43-9dca-cadbbf26ee05	Nelly Furtado	27
+user_000005	6b9a509f-6907-4a6e-9345-2f12da09ba4b	With Or Without You	a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432	U2	27
+user_000005	797c91cc-224a-4174-bb73-502e830629a8	I Still Haven'T Found What I'M Looking For	a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432	U2	27
+user_000005	762f8f29-ec6b-43c0-a3e5-42f1e562ea32	What'S A Woman? (Feat. Aaron Neville)	3f31e084-41f5-4a74-93e6-19bdafcf237d	Vaya Con Dios	26
+user_000005	34b72990-905b-4b51-bb40-fb41992130bd	Discopolis (Chris Lake Mix)	aa4e0b7d-b61e-4042-a7ba-1b98d9b90a70	Lifelike & Kris Menace	26
+user_000005	f0730476-6069-427f-a93e-3ceb10abb854	Exceeder	2ce8e725-08a9-4d65-b12d-ebb8929f119a	Mason	26
+user_000005	d187a734-aea2-48ee-87b8-6f3aa56dbb44	Patt (Party All The Time)	d57a4eae-8f74-4bd8-9702-0e77a1548c60	Sharam	26
+user_000005	f6b0d094-f2c3-476c-b4cc-f354cb377929	In My Place	cc197bad-dc9c-440d-a5b5-d52ba2e14234	Coldplay	26
+user_000005	054a3b4d-3ee4-4e63-bf58-399a7a3b0ae5	Sweetest Thing	a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432	U2	26
+user_000005	e9265ecf-1174-42b5-a519-e8b03f704d22	Perfect (Exceeder) (Radio Edit)	190c5aa5-0ae9-4ebc-83a9-642ec9226932	Mason Vs. Princess Superstar	26
+user_000005	01f084e1-88dd-44b5-97fc-44d32944c7a6	No More Conversations (Mylo Remix)	c0bbc0ad-9fee-42fe-9419-89a72881afde	Freeform Five	25
+user_000005	cad18114-e3ae-4a19-a05b-0afc801adcf8	Camels (Trick & Kubic Remix)	c54057d0-9e6b-461c-9dbc-b7f72d8f33a9	Santos	25
+user_000005	9da530c1-705e-40e6-9916-86076b76c8f8	Speed Of Sound	cc197bad-dc9c-440d-a5b5-d52ba2e14234	Coldplay	25
+user_000005	8e861b38-b282-4caa-8a97-55dfe5b67ba1	Relax Take It Easy (Moran & Rigg Club Mix)	8a9ac1cb-faae-434e-8d60-b139a3707dfc	Mika	25
+user_000005	44135d7f-f5d6-4ef9-8518-ed11f5b705e7	One	a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432	U2	25
+user_000005	c5c75266-347a-4f4f-a609-99731f8a9d22	Come On Baby (Crystal Method Mix)	8970d868-0723-483b-a75b-51088913d3d4	Moby	25
+user_000005	7813d6e5-fe21-4cd0-8f8b-82b7c15662ae	Around The World	056e4f3e-d505-4dad-8ec1-d04f521cbb56	Daft Punk	24
+user_000005	a478f801-521b-40e7-8bb4-5faeffb1f3e4	The Scientist	cc197bad-dc9c-440d-a5b5-d52ba2e14234	Coldplay	24
+user_000005	3d0fdfc3-81b6-4705-afab-3b5ba31c423a	Vertigo	a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432	U2	24
+user_000005	58286b74-fca1-4a63-b056-961664a4f73e	Stuck In A Moment You Can'T Get Out Of	a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432	U2	23
+user_000005	5f1c33b7-de18-4845-b9a1-6385bfec68e8	Trouble	cc197bad-dc9c-440d-a5b5-d52ba2e14234	Coldplay	23
+user_000005	86401caf-4e81-4a3c-9d97-52023f33c686	Walk On	a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432	U2	23
+user_000005	0764c8cf-c858-400c-94e4-1000b228f798	My Egyptian Lover	92f29d03-1d89-42a6-9ea7-ed17bc5d6dc1	Space Cowboy	23
+user_000005	4512b4af-e2c7-4c38-bdc1-1395936c9c4c	Beautiful Day Without You (Rex The Dog Remix)	1c70a3fc-fa3c-4be1-8b55-c3192db8a884	Röyksopp	23
+user_000005	b54e1e14-b7a2-4f9b-b359-ea9d5b4cdac0	Calabria	4062025b-e1a7-4413-adc4-0236d6155dc0	Enur	23
+user_000005	3dccd236-96c8-4bc0-a9bf-88bdc7212fa6	All Because Of You	a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432	U2	22
+user_000005	af5297b4-f971-487f-b65e-dc77c43aedff	Beggin	2da9b8e3-e2de-4599-aa30-bf47e35e3fc0	Madcon	22
+user_000005	310d0ef3-a550-410e-9f84-fbd3857cb41c	Road Trippin	8bfac288-ccc5-448d-9573-c33ea2aa5c30	Red Hot Chili Peppers	22
+user_000005	d642e7dc-a918-4240-8491-3acdbb223246	Flaunt It	b9dd44b4-982e-4bea-9e4f-9eb49705bc15	Tv Rock (Feat. Seany B)	21
+user_000005	c0c19e4f-0b72-41dd-a7db-e99fdf0a30e9	Say It Right (Reggae Main Mix)	13655113-cd16-4b43-9dca-cadbbf26ee05	Nelly Furtado	21
+user_000005	90985530-f5a4-499a-a313-610506be8ed1	In The Army Now	1884ed9c-6fe1-468d-a7f8-8d19c9c4e441	Status Quo	21
+user_000005	7f527f79-3303-4f30-add1-3b58b65181d9	All Is Full Of Love	87c5dedd-371d-4a53-9f7f-80522fb7f3cb	Björk	21
+user_000005	32b67396-d335-496d-852c-2e84b499fd19	Mysterious Ways	a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432	U2	21
+user_000005	e6414162-7adf-4c52-b325-5361dc84a059	By The Way	8bfac288-ccc5-448d-9573-c33ea2aa5c30	Red Hot Chili Peppers	21
+user_000005	5e1a6571-4737-4b58-87b9-7a3a7e5893ca	Elevation	a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432	U2	21
+user_000005	04c2d9a6-badf-43ea-b39d-8eb0b7891d84	The Creeps (Fedde Le Grand Remix)	fa590fc3-54e5-4ffd-9e47-aec0f395bc16	Camille Jones	21
+user_000005	d7136753-65d4-4d4d-971a-6d8ad0cb95e0	It'S Too Late	1badfec6-a942-49f0-a161-4c79cea62722	Everymore Vs. Dirty South	20
+user_000005	ce563e49-5af9-4ffe-adaf-05417a7f25e7	Sometimes You Can'T Make It On Your Own	a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432	U2	20
+user_000005	3bcafdb1-b53e-4f79-ad61-7a38019fda90	The Look (Original Mix)	4069600e-55c1-46dd-814f-4166d5b5dbba	Steve Angello	20
+user_000005	a2f56347-57f1-4e4f-9bb0-49fc77809ce2	Remind	ddbab4b9-1758-4087-a116-13cc6d997a03	Pascal & Dario D	20
+user_000005	8ebb47f5-d7d5-4c72-ba7d-cd09eb10ef94	Dani California	8bfac288-ccc5-448d-9573-c33ea2aa5c30	Red Hot Chili Peppers	20
+user_000005	7a3e8796-a0b3-4999-b268-4e2d47912e3c	Otherside	8bfac288-ccc5-448d-9573-c33ea2aa5c30	Red Hot Chili Peppers	19
+user_000005	d0a81440-76cc-4595-bae2-e7d7fa8cc9eb	Thrill Me (Such A Thrill) (Eric Morillo Vocal Mix)	e96ab876-83bc-4f5d-98da-91dc8589acbc	Junior Jack	19
+user_000005	1ddba7e6-0e4c-432f-a82c-25bb92a0ce9a	Desire	a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432	U2	19
+user_000005	3b190847-7a1d-41fc-bfe5-876e3091418e	The Salmon Dance	1946a82a-f927-40c2-8235-38d64f50d043	The Chemical Brothers	18
+user_000005	3a745b6d-3a34-4951-a74a-22ba182524d3	First Stroke (Original Mix)	5f07e529-1146-4aec-8b6d-21c36e79f4f5	Swen Weber	18
+user_000005	084a24a9-b289-4584-9fb5-1ca0f7500eb3	Californication	8bfac288-ccc5-448d-9573-c33ea2aa5c30	Red Hot Chili Peppers	18
+user_000005	b650a378-8896-4a06-bc8f-3672424a56ec	Boogie 2Nite	1b8c245a-32d5-4b3e-99fe-048a4234fd7f	Booty Luv	18
+user_000005	ee2dab1b-efaf-4b43-87ff-c0d4da5e32be	The Rub	1577f48a-dc2d-45f1-b7ac-64c25b44bca8	Kurd Maverick	17
+user_000005	f305efbc-625b-4024-993b-95683c29e00e	Do It Again	1946a82a-f927-40c2-8235-38d64f50d043	The Chemical Brothers	17
+user_000005	0eb88548-ca10-4dbb-813d-989aef66e059	Voodoo Child	7536267d-77be-4984-b7b6-59f24afe82dd	Rogue Traders	17
+user_000005	48d9340a-0c6a-469a-b043-eeaec9f577c6	Technologic	056e4f3e-d505-4dad-8ec1-d04f521cbb56	Daft Punk	16
+user_000005	e66a26f3-b4f1-41db-95d3-39fede297ae0	Destination Calabria	836d43ae-5086-4f45-9e23-b02edca37653	Alex Gaudino	16
+user_000005	b2777865-414f-4871-ab96-e4644eb64d4a	Burst Generator	1946a82a-f927-40c2-8235-38d64f50d043	The Chemical Brothers	16
+user_000005	a920a42a-d217-4be0-9a10-c2b36af38949	Xpand	0d8303d1-6653-43f1-a0ef-2fcd3835529f	Deux	16
+user_000005	0ecd9c44-f358-4e34-8844-3b368c014721	Das Spiegel	1946a82a-f927-40c2-8235-38d64f50d043	The Chemical Brothers	16
+user_000005	9559e30a-efed-476d-9b86-1fa6dd52d940	Saturate	1946a82a-f927-40c2-8235-38d64f50d043	The Chemical Brothers	16
+user_000005	5184419c-583b-42d4-afb4-94519a0ed606	All Rights Reversed	1946a82a-f927-40c2-8235-38d64f50d043	The Chemical Brothers	16
+user_000005	2e45de2e-cb29-49d8-bd33-69c15fde80ab	Is It 'Cos I'M Cool? (So Phat! Radio Edit)	d4c6ae95-497b-42f7-bdec-41cf76d1a39c	Mousse T.	16
+user_000005	3fb5670c-19ce-4e49-82f7-cbe7d601e1b0	Mooger Fooger	8d1941fb-5e6a-4b42-95df-2aa7e046bef5	Bermuda Triangle	16
+user_000005	f1ec935d-f64f-4df4-a4d8-f0de29def7f4	Shiva'S R&R Dub	86ecb3d5-2585-4ac6-b353-5c8342ea0852	Arling & Cameron	16
+user_000005	81888088-bbbc-4c38-9b84-89651caa86cb	Remind Me	1c70a3fc-fa3c-4be1-8b55-c3192db8a884	Röyksopp	16
+user_000005	0c88f678-79a2-451f-a01d-eed6e1c18970	Your Loving Arms (Club Mix)	d1cc1796-d1b9-4161-87f3-c20af1a245a1	Karen Overton	15
+user_000005	6d0f865b-7db9-428b-947d-2a0a886fd481	We Are The Night	1946a82a-f927-40c2-8235-38d64f50d043	The Chemical Brothers	15
+user_000005	e40c3617-601d-400d-9eec-04328090dca7	Gypsy Woman 2006	705e9515-844d-4aff-a416-f4a270eb39d7	Sami Dee & Freddy Jones Vs. Crystal Waters	15
+user_000005	56276a83-e4c5-418c-9f56-c6980421ebbe	Feel Good Inc.	e21857d5-3256-4547-afb3-4b6ded592596	Gorillaz	15
+user_000005	85a8d1a3-1475-43c3-b4c5-e4499bd9751f	Ce Matin-Là	cb67438a-7f50-4f2b-a6f1-2bb2729fd538	Air	15
+user_000005	10d1062a-7275-458f-ad0d-906eeaa22c57	Under The Bridge	8bfac288-ccc5-448d-9573-c33ea2aa5c30	Red Hot Chili Peppers	15
+user_000005	cfbdfcde-8c57-4cdb-9278-2913272088c8	Something About Us	056e4f3e-d505-4dad-8ec1-d04f521cbb56	Daft Punk	15
+user_000005	f1a6a40f-78f5-4918-968d-f64363bae94c	Harder, Better, Faster, Stronger	056e4f3e-d505-4dad-8ec1-d04f521cbb56	Daft Punk	15
+user_000005	c17980a9-e765-45f7-ae9e-ac2221dcc1bc	Do I Look Like A Slut? (Peter'S Dirty Ho Mix)	744dd5fc-555e-4530-88f0-54d57dd8ebbf	Avenue D	14
+user_000005	5a8e5bc8-79ea-4715-a30a-9f12ec948803	Love Foolosophy	f4857fb9-e255-4dc6-bd01-e4ca7cc68544	Jamiroquai	14
+user_000005	de83f5ef-363e-4fdf-9cdd-53f19d0fc51b	Doctor Pressure	3b17dcd9-05d2-4485-bd05-3838845bd556	Mylo Vs. Miami Sound Machine	14
+user_000005	0005ebe2-6971-4de6-a8eb-5dff41f3b811	In White Rooms (Neo Mix)	9940c604-2456-4193-a403-ab18420bc1e9	Booka Shade	14
+user_000005	a08473a1-e622-49cc-bb97-65f813429025	Alive	056e4f3e-d505-4dad-8ec1-d04f521cbb56	Daft Punk	14
+user_000005	162d8cc7-6e1c-41ba-b993-d5fb5bb974ae	Da Funk	056e4f3e-d505-4dad-8ec1-d04f521cbb56	Daft Punk	14
+user_000005	8962f83b-7576-4fdf-a20e-e92cd93eeef7	One Evening	a670e05a-cea8-4b37-bce9-d82daf1a0fa4	Feist	14
+user_000005	3fa927bb-1ebb-4a7b-90da-5d863a1322c4	Fucking On The Dance Floor	3bdc7b3d-0dbf-4ce6-9ece-b71b1ed42abd	Dirty Sanchez	13
+user_000005	dbe48570-e001-40ae-9502-ae5505b6ebc1	Stop Don'T Panic	f4857fb9-e255-4dc6-bd01-e4ca7cc68544	Jamiroquai	13
+user_000005	79380501-d51e-45cc-8985-68163638b836	Marrakesh Night Market (V-Sag Remix)	c1e5344e-1bff-4727-9417-a4f55e41b5ff	Loreena Mckennitt	13
+user_000005	5872d301-81ff-4275-b7e6-9e5100d5c746	Slow (Soundhog Remix)	2fddb92d-24b2-46a5-bf28-3aed46f4684c	Kylie Minogue	13
+user_000005	1981c7d2-6c89-4c53-935a-890d937159b9	Man On The Moon	ea4dfa26-f633-4da6-a52a-f49ea4897b58	R.E.M.	13
+user_000005	515c4e85-5dfb-4767-aa1f-b893f761109c	Same Man	e8cbebb8-be7b-4e9c-b161-f72d63a6f0c5	Till West & Dj Delicious	13
+user_000005	87c9771d-78c1-41d2-9c1c-d970fbdc6ab2	Ordinary World	8759b564-5495-48fa-b0bd-2ebfbf97973d	4M4F	13
+user_000005	10805ace-454c-4a04-a141-4087e9f3709e	Battle Scars	1946a82a-f927-40c2-8235-38d64f50d043	The Chemical Brothers	13
+user_000005	2383352f-ce7c-4381-9c24-11f483f71807	Stay (Feat. Chris Willis)	302bd7b9-d012-4360-897a-93b00c855680	David Guetta	13
+user_000005	ce4fdffd-3f22-4229-b151-c82e3a2d21ff	Escape (Driving To Heaven) (Omid'S Dark Dub)	6fed7c9f-c433-4420-9026-af55698fdb5f	16B	13
+user_000005	f165d9de-9126-498b-b13c-c0be80cfdeed	Hear My Name (Original Club Mix)	b09b5127-c62e-4bb2-b790-1e4aa18749ed	Armand Van Helden	13
+user_000005	062f1c9f-564c-4eb7-9baf-b8944cd17ad3	New Star In The Sky (Chanson Pour Solal)	cb67438a-7f50-4f2b-a6f1-2bb2729fd538	Air	13
+user_000005	47934a8b-6c49-4ec1-8187-e960c706f3a0	Say Hello (Main Mix)	f1b1cf71-bd35-4e99-8624-24a6e15f133a	Deep Dish	13
+user_000005	9d39e349-ff64-4e77-a502-2a85d4159fec	You Give Me Something	f4857fb9-e255-4dc6-bd01-e4ca7cc68544	Jamiroquai	13
+user_000005	47628818-d956-49d9-a95a-a608b466f9ac	Nothing	8538e728-ca0b-4321-b7e5-cff6565dd4c0	Depeche Mode	12
+user_000005	210d33fc-df6a-4681-a361-787249bff531	The Creeps (You'Re Giving Me)	2dddd631-e07c-43b6-888f-73b9cd93250e	Freaks	12
+user_000005	a30dc638-3586-4189-afdb-c15d183696a5	Earth Song	f27ec8db-af05-4f36-916e-3d57f91ecf5e	Michael Jackson	12
+user_000005	b9109195-0449-4900-9399-339882b38c29	Everybody Hurts	ea4dfa26-f633-4da6-a52a-f49ea4897b58	R.E.M.	12
+user_000005	04c3c148-9d7b-43f1-ac25-b48ac677f127	No Path To Follow	1946a82a-f927-40c2-8235-38d64f50d043	The Chemical Brothers	12
+user_000005	548f642b-b441-424f-ad35-efb88efd2df4	Shout	7c7f9c94-dee8-4903-892b-6cf44652e2de	Tears For Fears	12
+user_000005	c1b2cea4-b493-4768-acf5-6948a4fe522b	Dare	e21857d5-3256-4547-afb3-4b6ded592596	Gorillaz	12
+user_000005	0355a306-391d-4883-ba8d-83078fbcc13a	Feels Just Like It Should (Album Version)	f4857fb9-e255-4dc6-bd01-e4ca7cc68544	Jamiroquai	12
+user_000005	f883f554-30f0-49bd-8c67-35f99f203a9f	Rollin' & Scratchin'	056e4f3e-d505-4dad-8ec1-d04f521cbb56	Daft Punk	12
+user_000005	434e137b-05f1-47da-b06b-04a68ce067a6	To The Moon And Back	a871fd87-50f7-4032-b06d-da56779edcce	Savage Garden	11
+user_000005	7e815e61-8d8c-4cb7-9ee2-600174cf4cb7	Come Get My Lovin (Dj:Mtv Vocal Mix)	8f2d360d-49dd-4aba-8cdc-6cad06ab3135	Fierce & Jez Vs. Dj:Mtv	11
+user_000005	83864133-3118-42d5-a06d-58be240c2842	What	97e22c69-536b-4365-9934-13426a5da923	Antoine Clamaran	11
+user_000005	01e8f999-305e-4975-8a86-57e5cab28407	Hear My Name (Serge Santiágo Remix)	b09b5127-c62e-4bb2-b790-1e4aa18749ed	Armand Van Helden	11
+user_000005	3bcdbc3b-4fd4-42d9-8f8c-6bad5f4eb219	Freelove (Deep Dish Club Dub)	8538e728-ca0b-4321-b7e5-cff6565dd4c0	Depeche Mode	11
+user_000005	506b4ba0-0cef-4072-a6f2-4fe77b0bf107	Tell Me Why	2682f5c0-4c0f-4fc0-b59d-eb4ed3f61505	Supermode	11
+user_000005	3bd56d03-7d60-4dc4-9b0d-ca2bc2a00214	Kiss From A Rose	f053ae01-dae6-4aae-9883-e8c279fdbef4	Seal	11
+user_000005	506a1964-33d1-4386-a3ac-97dc8daca0fa	People Are People	8538e728-ca0b-4321-b7e5-cff6565dd4c0	Depeche Mode	11
+user_000005	9a3db130-9d46-48ef-9aaa-8bfdc28e5805	Tell Me Baby	8bfac288-ccc5-448d-9573-c33ea2aa5c30	Red Hot Chili Peppers	11
+user_000005	f7efb7ec-b804-4f08-93dc-30a459bffb22	Little L	f4857fb9-e255-4dc6-bd01-e4ca7cc68544	Jamiroquai	11
+user_000005	5d1ad260-4db7-41a9-865a-69c11776ad08	My Vision	f053ae01-dae6-4aae-9883-e8c279fdbef4	Seal	11
+user_000005	8dca789a-0c99-4957-9d54-2a90d65decf9	We Vie	2a3b4e72-e259-4490-a775-65671388b9f6	Stakka Bo	11
+user_000005	0e05ff50-abc7-4886-97a4-1862e3698851	Discopolis	aa4e0b7d-b61e-4042-a7ba-1b98d9b90a70	Lifelike & Kris Menace	11
+user_000005	0f42587d-5fb6-4afc-a509-f2aa2393d7b0	Crazy	f053ae01-dae6-4aae-9883-e8c279fdbef4	Seal	11
+user_000005	aee983a1-7e15-4d4e-8d84-6d73bb3c3515	Thrill Me (Such A Thrill)	e96ab876-83bc-4f5d-98da-91dc8589acbc	Junior Jack	11
+user_000005	67c74e9a-c6bc-4dce-af03-a523582a934a	Time To Say Goodbye	896f0194-8ab2-4278-81e0-c56a0444b569	Sarah Brightman	11
+user_000005	e731a2a1-8e3a-42f6-8dbe-af356714f836	Le Voyage De Pénélope	cb67438a-7f50-4f2b-a6f1-2bb2729fd538	Air	11
+user_000005	1f7b6b76-ea87-428b-b731-52ea62a708d2	Human After All	056e4f3e-d505-4dad-8ec1-d04f521cbb56	Daft Punk	11
+user_000005	695d0c34-e5da-4f0a-b27c-67ae9ae0e8f4	Personal Jesus	8538e728-ca0b-4321-b7e5-cff6565dd4c0	Depeche Mode	10
+user_000005	183246a8-77ad-4b55-a47b-aa079f16388d	Freak Like Me	dfa715ac-b536-44df-af43-570d3ea3edec	Sugababes	10
+user_000005	c181fb92-5699-43ee-9f6e-c7ddc338aea3	Linger	c98d40fd-f6cf-4b26-883e-eaa515ee2851	The Cranberries	10
+user_000005	279e501c-fc98-4047-b53e-a8b12da8c79b	It'S No Good	8538e728-ca0b-4321-b7e5-cff6565dd4c0	Depeche Mode	10
+user_000005	34ff98ac-8571-4af4-b19d-f1ec46e7026f	Twisted Transistor (Radio Edit)	ac865b2e-bba8-4f5a-8756-dd40d5e39f46	Korn	10
+user_000005	251816a2-ca9d-4940-b64c-bba167b2b2d6	Harpoons	1946a82a-f927-40c2-8235-38d64f50d043	The Chemical Brothers	10
+user_000005	f92e924f-e795-433b-95ce-b256098abfd6	Robot Rock	056e4f3e-d505-4dad-8ec1-d04f521cbb56	Daft Punk	10
+user_000005	e16ed270-f5f1-4ee2-9c08-0d70a605f52e	A Question Of Time	8538e728-ca0b-4321-b7e5-cff6565dd4c0	Depeche Mode	10
+user_000005	c7b6bfb6-a3b9-41f6-8ca9-ad2b7270f37d	Live Is Life	cbf6b61a-0c5f-45a9-9a4f-4445c533e3a7	Opus	10
+user_000005	0b755d0f-32ca-4615-9a8c-cb2f1c6e482f	Lemon Tree	80c38d4f-7419-4ae9-8d4c-cf899df0d5cc	Fool'S Garden	10
+user_000005	4c2d89ba-b7e7-4996-9e8b-89463b7c0c6b	Slow Cheetah	8bfac288-ccc5-448d-9573-c33ea2aa5c30	Red Hot Chili Peppers	10
+user_000005	e1e4aca4-cdce-45ac-a5fc-d2e4fc58b51d	Shivers	477b8c0c-c5fc-4ad2-b5b2-191f0bf2a9df	Armin Van Buuren	10
+user_000005	77baf3cc-4d50-4b40-a769-ebe2d3bc53c6	Feels Just Like It Should (Mark Ronson Remix)	f4857fb9-e255-4dc6-bd01-e4ca7cc68544	Jamiroquai	10
+user_000005	0a6e234d-0c9d-41e0-bce7-5c0ca09befbd	Revolution 909	056e4f3e-d505-4dad-8ec1-d04f521cbb56	Daft Punk	10
+user_000005	9540cbfd-ee14-44ba-91e9-3366601d24b8	At Night 2003 (Jazz 'N' Groove Prime Time Remix)	0b03f91a-2991-4a49-b9b9-93b084872952	Shakedown	10
+user_000005	1d87a088-b464-4d84-874c-e647d0804a93	I Wish You Would	5fd0fb7f-542c-4c4b-bbd9-d1fa74a9a083	Martijn Ten Velden	10
+user_000005	620f2792-467f-456c-aa93-ec7b2ea9cf84	So Many Times	d1fc7e04-1817-4559-bff4-691750401632	Gadjo	10
+user_000005	abdb41ac-02b8-4da6-9091-2b525fc97d8a	You Sexy Thing	a749130e-c2d8-4a7c-b740-908ea4574961	Hot Chocolate	10
+user_000005	fb751a1b-4fde-4cf3-bf4c-6cf7f8bcd599	Technologic (Vitalic Remix)	056e4f3e-d505-4dad-8ec1-d04f521cbb56	Daft Punk	10
+user_000005	b3052512-63ee-49c5-9cf9-deae999107ab	Make A Move On Me	cea6cb45-d685-4917-90bf-482b656f4cf8	Joey Negro	10
+user_000005	e44c79e6-3ce0-422e-b002-0981ea41b5ea	Justify My Love	79239441-bfd5-4981-a70c-55c3f15c1287	Madonna	10
+user_000005	0159b2db-5171-4de5-b512-1a96fa7caae0	Electronic Performers	cb67438a-7f50-4f2b-a6f1-2bb2729fd538	Air	10
+user_000005	ff95f2ce-f3e4-47d2-8fda-df86078da407	Steel	14008378-5900-4370-831e-3d17f9749caf	Sven Väth	10
+user_000005	ba6a1684-df3d-4a77-a903-87ccee841470	Ecstasy (A&T Remix)	22a096ef-c70d-4d70-ae19-4fc2412d4986	Atb	10
+user_000005	8d62222c-ebbd-4b5a-a8b2-495a7259a5ea	Anthem	8970d868-0723-483b-a75b-51088913d3d4	Moby	9
+user_000005	39e03b93-7b3c-4f35-95f9-e6a151a447a3	You Keep Me Hanging	4b462375-c508-432a-8c88-ceeec38b16ae	Kim Wilde	9
+user_000005	26e6f0c2-33b2-4024-a233-9e0dead277c0	Killing Me Softly	ea321799-9b1d-4e74-a074-a5facf597d82	Fugees	9
+user_000005	0edcb625-f042-4e69-a50c-e2b03882e87d	Deeper Underground	f4857fb9-e255-4dc6-bd01-e4ca7cc68544	Jamiroquai	9
+user_000005	5d55b00f-0626-4f72-958e-7bbd042ae395	Rock With You	44e38089-4f9a-4fec-911c-9cf99e5bb698	Basto!	9
+user_000005	e8b8f2e1-ecb1-4ac3-ba1e-664f74bdd246	J'Ai Dormi Sous L'Eau	cb67438a-7f50-4f2b-a6f1-2bb2729fd538	Air	9
+user_000005	bc58a734-0ee8-4327-9266-f8155e7d618e	I Feel Loved	8538e728-ca0b-4321-b7e5-cff6565dd4c0	Depeche Mode	9
+user_000005	6d294fcd-d214-42b0-8640-6ab202a937d7	Kids With Guns	e21857d5-3256-4547-afb3-4b6ded592596	Gorillaz	9
+user_000005	f9125f2d-e4d7-44f6-9d67-8c5aad3561ef	Feels Just Like It Should (Timo Mass Remix)	f4857fb9-e255-4dc6-bd01-e4ca7cc68544	Jamiroquai	9
+user_000005	712edd8d-b413-4e4e-aca4-9b91fce2e65c	Nightvision	056e4f3e-d505-4dad-8ec1-d04f521cbb56	Daft Punk	9
+user_000005	a710f6fc-24be-4f3c-8f6c-ca5b311e77c8	Oh My Goth! (Re-Mastered Original Cut)	6b6c0379-2204-4964-b918-0a3bc565682f	Razed In Black	9
+user_000005	e90d76d0-5f53-410f-b2fb-7184d06f2439	Virtual Insanity	f4857fb9-e255-4dc6-bd01-e4ca7cc68544	Jamiroquai	9
+user_000005	6610752f-ff5a-4171-b5fa-0c8800a1ccef	Arranca	71ee4b6b-d578-4ee0-817b-7fbbb5d8bd82	Manzanita	9
+user_000005	08e81a60-6788-4682-be49-52b8e2a55e1b	Aerodynamic (Daft Punk Remix)	056e4f3e-d505-4dad-8ec1-d04f521cbb56	Daft Punk	9
+user_000005	e8d6dbea-6383-457f-9043-4709dece1801	Drug Addict	e57b1e9a-5c54-4d8a-b9f3-63734f1543e4	Motel 21	9
+user_000005	464dd116-69ef-43db-954a-f7398317f45b	Don'T Be Light	cb67438a-7f50-4f2b-a6f1-2bb2729fd538	Air	9
+user_000005	fee2c850-0f89-4b26-9d54-dbe8cbced7f8	Electromagnetic (Tiefschwarz Dub)	c0bbc0ad-9fee-42fe-9419-89a72881afde	Freeform Five	9
+user_000005	2968a8da-222f-4c06-82bd-ad576b7c1b4e	Another Brick In The Wall	83d91898-7763-47d7-b03b-b92132375c47	Pink Floyd	9
+user_000005	cc0f0d15-bfe2-46d8-b360-d29cf36fe57f	Y'All Want A Single	ac865b2e-bba8-4f5a-8756-dd40d5e39f46	Korn	9
+user_000005	2a8f852e-21b2-45e5-9b41-07b9562d68b6	I'Ll Stand By You	e9c832b0-384b-4ee6-aec0-111372784aac	The Pretenders	9
+user_000005	5d9eac2a-5999-4ddd-8aaf-44170909fced	Les Professionnels	cb67438a-7f50-4f2b-a6f1-2bb2729fd538	Air	9
+user_000005	9e111260-f541-46ea-811d-748d31bae557	Let Me Roll	f053ae01-dae6-4aae-9883-e8c279fdbef4	Seal	9
+user_000005	7c47da83-b277-41cd-943c-fa5cfb0e5fe5	Billie Jean	f27ec8db-af05-4f36-916e-3d57f91ecf5e	Michael Jackson	9
+user_000005	6058976e-2120-47bb-92df-2fd2fd1b542f	Enjoy The Silence	8538e728-ca0b-4321-b7e5-cff6565dd4c0	Depeche Mode	9
+user_000005	5866822b-49a6-4dd7-b45a-2bfc5dc56130	Need To Feel Loved	3c60235d-d58f-47aa-97f9-7a1b3ed25671	Reflekt	9
+user_000005	c664b31f-df7b-4d3e-9111-d6940f1445b4	Everything Counts	8538e728-ca0b-4321-b7e5-cff6565dd4c0	Depeche Mode	9
+user_000005	31e5ce2d-bc19-4e2c-a0c5-d56b9895a265	Charlie	8bfac288-ccc5-448d-9573-c33ea2aa5c30	Red Hot Chili Peppers	9
+user_000005	c6fea1ba-ad06-4f2a-89a1-afb6884a5be7	It Ain'T Easy	f1a95860-cd59-4ed7-8a9e-eacb8845ccf3	Supermax	9
+user_000005	00060357-c42b-4165-8214-05ebb8db2ef0	They Say Vision (Dj Encore Remix)	485f406b-900e-4528-8436-0013dfd107f7	Res	9
+user_000005	41820271-182f-4d0b-8f5e-f06b42c7dd38	Master And Servant	8538e728-ca0b-4321-b7e5-cff6565dd4c0	Depeche Mode	9
+user_000005	04233db6-f991-4fb2-bef9-813f95a0bf30	Losing My Religion	ea4dfa26-f633-4da6-a52a-f49ea4897b58	R.E.M.	9
+user_000005	52b671cb-696a-4e36-8ef6-018e44d7dc8c	Keep Pushin	82cbed2d-f9cc-40c9-8a8b-957db0123459	Inaya Day	9
+user_000005	2f95f796-1dcb-459a-8aab-a0f5f2bca374	Child In Time	79491354-3d83-40e3-9d8e-7592d58d790a	Deep Purple	9
+user_000005	1555f27a-6b44-4978-b53e-e8cfec7f936d	Give Me One Reason	1129817c-488a-4096-80c1-77fc1b107c93	Tracy Chapman	9
+user_000005	ace5cb41-edfb-4337-b444-54901c200228	Ibiza Mi Amor	7e172fd6-372d-4d52-8cc6-552867869e97	Philippe B.	9
+user_000005	c8a9feb5-0c16-4f6e-bb48-e66989876924	Nice And Slow	cd029398-100d-4864-8ebd-6b83073b8f3d	Jesse Green	9
+user_000005	3707ab0d-ff31-46a2-9056-d094bae44c3e	Teachers	056e4f3e-d505-4dad-8ec1-d04f521cbb56	Daft Punk	9
+user_000005	eab36835-9fa7-4598-a50a-8bb114c9c5fb	Funk Ad	056e4f3e-d505-4dad-8ec1-d04f521cbb56	Daft Punk	9
+user_000005	6115ac6f-d29a-4ae2-ac58-6fac6eb71f68	Modular Mix	cb67438a-7f50-4f2b-a6f1-2bb2729fd538	Air	9
+user_000005	36b04339-1eed-40b4-8383-b8d46efc4ae8	Sapphire (Implant Mix)	d7762352-8894-4fb2-9165-5fa7a2fbac42	Ayria	9
+user_000005	66418c38-33d2-4bf0-8478-74a65704fe5e	Overkill	4f4bda3c-d636-4135-b65a-6cc26bc75788	Kosheen	8
+user_000005	4552d909-5326-473c-a3f0-da4b7fc6e4ca	2 Da Groove	809788cd-eb20-41df-a3b3-73f9b7cde723	Matthew Dekay & Roob V	8
+user_000005	d63ad586-1124-4df1-9a2b-c014d7b7cb02	Crescendolls	056e4f3e-d505-4dad-8ec1-d04f521cbb56	Daft Punk	8
+user_000005	a33a3681-0720-4cc3-9898-ab78e86b296c	Life	250504d4-eca1-4b23-bea6-db1dc7d2eaf9	Des'Ree	8
+user_000005	be9abfeb-f311-4831-8631-108582f451a0	Policy Of Truth	8538e728-ca0b-4321-b7e5-cff6565dd4c0	Depeche Mode	8
+user_000005	a42b76a0-3bd1-4c3a-8e83-751f48d818ec	Rock'N Roll	056e4f3e-d505-4dad-8ec1-d04f521cbb56	Daft Punk	8
+user_000005	45e88ff2-410d-452c-9483-31081a7fb579	Bad Boys	0a5c92c7-4aa7-4324-82ab-8e8e733507cb	Inner Circle	8
+user_000005	6bc1e848-b32b-4d7c-a961-184d806b8ce9	Killer / Papa Was A Rollin' Stone	ccb8f30e-4d71-40c4-8b1d-846dafe73e2c	George Michael	8
+user_000005	96bf6278-f246-46dd-b35f-585d8e2dbf76	Starlight	0df6d50f-7e43-4c6a-8220-61932b67c9c5	The Supermen Lovers	8
+user_000005	b5efd8db-893c-4bc6-9b7f-62dc93736ac0	The Pills Won'T Help You Now	1946a82a-f927-40c2-8235-38d64f50d043	The Chemical Brothers	8
+user_000005	95ab771e-62b4-4324-befd-024356c190c6	High Fidelity	056e4f3e-d505-4dad-8ec1-d04f521cbb56	Daft Punk	8
+user_000005	959fc0c0-ef93-4f50-b2b8-a7846672b971	Real Love	b73f3dc9-f906-4284-a738-7f5f67653bb2	Pierre De La Touche	8
+user_000005	7c0e11a3-1c7a-4e6d-a14d-6e86d86dbaad	Aerodynamic	056e4f3e-d505-4dad-8ec1-d04f521cbb56	Daft Punk	8
+user_000005	b7111a38-dcaf-45f9-afcc-c3e1aa776211	Another Day	cb67438a-7f50-4f2b-a6f1-2bb2729fd538	Air	8
+user_000005	7e6461a0-65d0-4f37-bd35-95a66b060245	Wonder Milky Bitch	cb67438a-7f50-4f2b-a6f1-2bb2729fd538	Air	8
+user_000005	81e5cda0-5ceb-4b40-bce1-e1473b5108a2	Black Celebration	8538e728-ca0b-4321-b7e5-cff6565dd4c0	Depeche Mode	8
+user_000005	53776b3e-97fc-45be-872d-9712d4d0bda0	Wonderful Tonight	618b6900-0618-4f1e-b835-bccb17f84294	Eric Clapton	8
+user_000005	74a5412b-c554-4d57-a64d-c2b4c41ba4e3	Fu-Gee-La	ea321799-9b1d-4e74-a074-a5facf597d82	Fugees	8
+user_000005	50e82785-e8e1-4e5d-b7f2-5c85103dba10	Mothership Reconnection (Daft Punk Remix)	ea3311b3-a0f3-43ab-88ac-43a4e32692d5	Scott Grooves	8
+user_000005	6974b6b9-c30c-4e73-8df7-4a30ed39f4ac	The Creeps (You'Re Giving Me) (Vandalism Remix)	2dddd631-e07c-43b6-888f-73b9cd93250e	Freaks	8
+user_000005	856cc74e-ea77-48a5-9ad3-3d9c1952cf6a	Chord Memory (Daft Punk Remix)	2c68a581-5b3a-45b8-a0b1-39c40873277a	Ian Pooley	8
+user_000005	88e968f0-2a7c-4c83-89a5-3438abc54589	Touch Me (All Night Long) (Rico Bass Vs. Jens Larsen Electric Mix)	ab7911b4-c91f-4fa8-ba24-54de47ad194f	Nighshifterz Vs. Mike Melange	8
+user_000005	71a8e994-5042-4dc6-8ea0-3ae7349da46d	Technologic (Peaches No Logic Remix)	056e4f3e-d505-4dad-8ec1-d04f521cbb56	Daft Punk	8
+user_000005	4effe444-d73c-4a3f-be11-f457967f70bb	Say Hello	f1b1cf71-bd35-4e99-8624-24a6e15f133a	Deep Dish	8
+user_000005	4e6b187a-b6b6-4afd-a310-07fa9fdfd807	Stairway To Heaven	74e2c381-7a79-4c21-8738-20da383e14d2	Dread Zeppelin	8
+user_000005	8e726d36-2dd3-4702-9605-c9c08d72868e	Chances	4f4bda3c-d636-4135-b65a-6cc26bc75788	Kosheen	8
+user_000005	903fb2f5-d3c5-443e-94b9-a4e1f18faf66	Once Upon A Time	cb67438a-7f50-4f2b-a6f1-2bb2729fd538	Air	8
+user_000005	6f412eb8-0ce0-46f8-9706-146beee5134f	Sexual Healing	afdb7919-059d-43c1-b668-ba1d265e7e42	Marvin Gaye	8
+user_000005	65907282-8e64-4eef-ac9e-10fcd8e9dead	Daddy Cool	5403bf6e-bc1d-4e62-b31f-926a2bf66a14	Boney M.	8
+user_000005	934b5caa-ce8b-4741-8cb3-eadc439d2a8c	Copacabana	449c7223-7ab1-4b33-aba5-6da9dac3497c	Salomé De Bahia	8
+user_000005	953e2f24-7f30-42d4-b282-c94ad9a44ac1	Lucky And Unhappy	cb67438a-7f50-4f2b-a6f1-2bb2729fd538	Air	8
+user_000005	ce1e2eab-7a6c-4fb0-9b0d-e890e2e9511c	Forget About The World (Daft Punk Remix)	d55fe7ec-3c7f-44e7-b9cc-b025c4351f70	Gabrielle	8
+user_000005	4c228af0-7081-4ef7-b1c5-09aab7ac4eac	Radio #1	cb67438a-7f50-4f2b-a6f1-2bb2729fd538	Air	8
+user_000005	ea42a36a-ced7-4326-a7d3-c91456b49d0b	Snow ((Hey Oh))	8bfac288-ccc5-448d-9573-c33ea2aa5c30	Red Hot Chili Peppers	8
+user_000005	e1db7a41-8c33-4e77-aecf-ce6337fb8412	Shape	dfa715ac-b536-44df-af43-570d3ea3edec	Sugababes	8
+user_000005	083b2267-9147-4c85-87e7-063f9f719281	Drums Of Love	c8cc07ae-34b6-402f-94ba-c80499392b34	Drummers Of Love	8
+user_000005	0825f9a7-19c0-4072-aa9f-3932402f238b	Thief In The Night (Slackers Mix)	687c51c1-69a7-4ee2-9a79-afa2943a9ee7	African Twins	8
+user_000005	15f16efc-8762-4151-95ab-c12d06268640	Digital Love	056e4f3e-d505-4dad-8ec1-d04f521cbb56	Daft Punk	8
+user_000005	31a0fcfe-b088-4f5f-8c85-ac3f95f7f7d8	Time Is Ours (A-Groove Edit)	fc9a0755-bddc-462a-af16-f005030f0f05	Sunset Crew	8
+user_000005	3d58cd12-0d24-43b0-b04d-723f3db3743f	How Does It Make You Feel?	cb67438a-7f50-4f2b-a6f1-2bb2729fd538	Air	8
+user_000005	ef57b379-e9b9-48ad-8368-2aaa77cdd5e4	People In The City	cb67438a-7f50-4f2b-a6f1-2bb2729fd538	Air	8
+user_000005	11758fba-8bfd-4cc9-8727-7e42e9a738a9	Casanova 70	cb67438a-7f50-4f2b-a6f1-2bb2729fd538	Air	8
+user_000005	3aa51f18-8ec5-4fdd-bab4-108cddaae98a	Caramel Prisoner	cb67438a-7f50-4f2b-a6f1-2bb2729fd538	Air	8
+user_000005	2de796e5-c8f5-4d8f-8cd1-6be19f2029f1	I Want It All	0383dadf-2a4e-4d10-a46a-e9e041da8eb3	Queen	8
+user_000005	34e5808d-4fc9-4359-8fa6-beaa6e45a9f1	Captured (Original Mix)	54a9a878-51d9-4aa9-8053-777ff1658f1d	Flash Brothers	8
+user_000005	1c81e0cf-f7e2-45e2-9172-4d43d1d2ec65	High Again (High On Emotion) (Ian Carey Remix)	c2e97440-860c-47a9-8122-e1be34cc4dfd	Thomas Falke	8
+user_000005	2b778256-8b85-41d8-a4c2-471adbaefcd2	At Night (Mousse T'S Feel Much Better Mix)	0b03f91a-2991-4a49-b9b9-93b084872952	Shakedown	8
+user_000005	3149d0e9-ebdb-4dd8-b7dc-5d43c37acf46	Rip Groove	d7de1988-b43b-4f53-87c9-4e96fedab3f5	Double 99	8
+user_000005	fa88ad90-2b0c-4f04-bd71-f37207256296	I Can'T Get Enough	bd1784fd-2536-45af-aa6c-ca157444c16f	Fireflies & Alexandra Prince	8
+user_000005	00fc5808-079a-4793-96e6-da0c23a8c89b	Drumatic (Dbn'S Dub-O-Phonic)	827cecc1-d797-4a5c-a55b-a34e267d426a	Bionik Phunk	8
+user_000005	00f86791-490e-4fd6-a5aa-b8e2ebc5a5bc	Sacred	8538e728-ca0b-4321-b7e5-cff6565dd4c0	Depeche Mode	8
+user_000005	0c13427f-da3a-45e8-94e1-025144c5ca94	All Around The World	efa3a709-1f7c-4c28-92ad-7fa8444e49c6	Sunloverz	7
+user_000005	fa3accb6-4c75-4ee4-a6c3-ee3ec29e5dd4	Your Body (Original Mix)	a143d507-b546-409b-be09-7f77c804b1b3	Tom Novy	7
+user_000005	85f994de-9eec-407c-9e39-ee2d06c72df2	"Vogue (12"")"	79239441-bfd5-4981-a70c-55c3f15c1287	Madonna	7
+user_000005	491ad94a-0dec-4006-80ba-42eff99837eb	At Night (Kid Crème Remix)	0b03f91a-2991-4a49-b9b9-93b084872952	Shakedown	7
+user_000005	1feff94f-36cc-4a38-95f6-8da45ae8955a	The Vagabond	cb67438a-7f50-4f2b-a6f1-2bb2729fd538	Air	7
+user_000005	71c5e195-b4e1-4670-8ad4-d6d50bc5fb1e	Tekken	86a2afc7-853b-48bd-bcc6-78f060639b7b	Danny Freakazoid	7
+user_000005	ee8374f6-b173-42ef-acdc-1bd84d82fa9b	Bang, Bang	c2e36518-9c3b-4dcb-82ad-a3fc7fe99c67	Nancy Sinatra	7
+user_000005	339ee663-f5e1-4465-b54c-d320e23ac632	Party Children	fb4099a9-ec53-4efe-9242-13b37cff7743	Tad Robinson	7
+user_000005	c216b0c3-63fb-4295-9f61-1d67c3a4c437	Out Of Space	4a4ee089-93b1-4470-af9a-6ff575d32704	The Prodigy	7
+user_000005	1e775694-823e-46bd-a100-8d857c015f37	I Don'T Want To Get Hurt	d3b2711f-2baa-441a-be95-14945ca7e6ea	Roxette	7
+user_000005	3c555b51-abdf-4f93-8e47-3d32fae5caff	Sorry	79239441-bfd5-4981-a70c-55c3f15c1287	Madonna	7
+user_000005	8a98614f-0533-44ef-890a-639cab407a2d	Superheroes	056e4f3e-d505-4dad-8ec1-d04f521cbb56	Daft Punk	7
+user_000005	f7e204d8-f7bb-41e8-af5e-2358a9bee7eb	Sex Born Poison	cb67438a-7f50-4f2b-a6f1-2bb2729fd538	Air	7
+user_000005	b6a0f8a8-b4c1-4f9e-b3ca-364a41e78ab3	Love, In Itself	8538e728-ca0b-4321-b7e5-cff6565dd4c0	Depeche Mode	7
+user_000005	89ae9c78-7e38-40ec-bf9f-79d1f2678890	Oh Yeah	056e4f3e-d505-4dad-8ec1-d04f521cbb56	Daft Punk	7
+user_000005	b51c7a3b-8d40-4af0-a0ad-fa1d9f9028ad	Eternal Flame	f31ec2ac-9071-4306-acd1-d2c8321033b5	Bangles	7
+user_000005	f5de31d0-325a-47ea-aa11-ee4f5e0ae561	Pleasure, Little Treasure	8538e728-ca0b-4321-b7e5-cff6565dd4c0	Depeche Mode	7
+user_000005	1285a717-b387-4353-91d4-3ea357dfc9c5	Indo Silver Club	056e4f3e-d505-4dad-8ec1-d04f521cbb56	Daft Punk	7
+user_000005	30e08ad0-bbd0-47f0-b5a1-03e124918fe9	A Tear In The Open	aabb1d9f-be12-45b3-a84d-a1fc3e8181fd	Tiësto	7
+user_000005	cd3060ec-2011-409f-8b77-6e538ef11f4f	Universal Love	4c86d347-724e-4f41-81be-7146bedbe863	Francesco Farfa	7
+user_000005	4e6f61a2-c856-4f5f-b43b-c16d2f17242b	Floating Free (Rpo Remix)	b822008d-f2eb-46fe-8ec4-3ad7499a6062	Vibrasphere	7
+user_000005	5e053768-5c99-4ee2-9b12-5a645b130ef6	Where'S Your Head At	28cbf94d-0700-4095-a188-37e373b069a7	Basement Jaxx	7
+user_000005	70615ded-2b34-410f-adab-8db6bcba8974	Californie	cb67438a-7f50-4f2b-a6f1-2bb2729fd538	Air	7
+user_000005	efc0acab-b20f-4893-b0fe-e33073b183be	Weekender	bd41ab20-c748-4a53-877d-415b35715187	Matthew Dekay & Mick Boskamp	7
+user_000005	3438643d-8c29-4b16-aea3-836dd6878ad9	What'S A Woman	3f31e084-41f5-4a74-93e6-19bdafcf237d	Vaya Con Dios	7
+user_000005	bf410e32-5097-441f-a2af-7b56f6e6ea9b	Realize (Jan Driver Remix)	486535b8-4e5f-4a2c-bf57-01804a2f8714	Oral Tunerz	7
+user_000005	c05d7e26-d425-45ac-be0e-76975387ec8a	Brakes On Mix	cb67438a-7f50-4f2b-a6f1-2bb2729fd538	Air	7
+user_000005	17517fe7-f0e3-429e-b10a-bcdce1214b80	Dime La Verdad	6781af9a-175c-4b27-917d-da89060aa15d	Marta Sánchez	7
+user_000005	06ea166d-6ef5-42c5-ae9e-578273389acf	Poison (Live)	4a4ee089-93b1-4470-af9a-6ff575d32704	The Prodigy	7
+user_000005	a42c068d-5bfe-4d08-b2f4-fc65b189952b	Long Way Home	22a096ef-c70d-4d70-ae19-4fc2412d4986	Atb	7
+user_000005	f3a7af21-458c-4467-9361-0968290042fd	Safe From Harm	6bfb6a72-5458-420f-9dd9-55b57eb0b617	Narcotic Thrust	7
+user_000005	56b017fc-5b13-47c4-a9a5-c6b638f69d38	To Be With You	bd1180c4-4252-461f-94dc-543906c02522	Mr. Big	7
+user_000005	a61f4269-0f67-4450-8ce8-47bf30936258	Purple Rain	070d193a-845c-479f-980e-bef15710653e	Prince	7
+user_000005	b03b3490-d3fc-47db-a622-36c4150c7ce6	Just Can'T Get Enough	8538e728-ca0b-4321-b7e5-cff6565dd4c0	Depeche Mode	7
+user_000005	d4221b3e-1618-4819-94f2-5088cc77af12	One Of These Mornings	8970d868-0723-483b-a75b-51088913d3d4	Moby	7
+user_000005	e180be3d-78b2-447d-9ae3-c1c79b543639	Atomic Atmosphere (Thomas Penton Remix)	85ea3bad-d5e3-4ee5-baa8-17af94047a19	Fitalic	7
+user_000005	fbd813a6-9aa1-41e7-80fc-3aeef820ebcc	To The Bone (Original Mix)	ecef802a-5acb-4349-ac7b-b6de2c2106bf	Steve Lawler	7
+user_000005	fbaf792a-9efe-42be-88a2-113db3c5a4d6	Ecstasy	22a096ef-c70d-4d70-ae19-4fc2412d4986	Atb	7
+user_000005	6269b119-1b0f-464a-ac2d-c76ffe93de61	Strangelove	8538e728-ca0b-4321-b7e5-cff6565dd4c0	Depeche Mode	7
+user_000005	2a4090df-cd3d-458e-884f-400e84004602	Universal Traveler	cb67438a-7f50-4f2b-a6f1-2bb2729fd538	Air	7
+user_000005	d6f54893-937e-4c6f-9c41-86e83a93429a	Le Soleil Est Près De Moi	cb67438a-7f50-4f2b-a6f1-2bb2729fd538	Air	7
+user_000005	266ebb32-61f3-47a6-86de-0977db104dd5	Never Let Me Down Again	8538e728-ca0b-4321-b7e5-cff6565dd4c0	Depeche Mode	7
+user_000005	93411521-d7b4-4c87-9bce-a4ba5e6b95fa	Star Guitar	1946a82a-f927-40c2-8235-38d64f50d043	The Chemical Brothers	7
+user_000005	b53b074e-bb96-47a0-87ca-b448971c2e77	Delicate	91f603ca-b126-42a2-9c29-820ca687347c	Terence Trent D'Arby	7
+user_000005	2667cfc5-6ebf-4b82-8a97-515d736260f7	D.A.N.C.E (Radio Edit)	860b2707-6153-4e3a-aa57-74d2b42c55b5	Justice	7
+user_000005	a252705e-7c52-439a-8750-5bafdf6996cd	Clint Eastwood	e21857d5-3256-4547-afb3-4b6ded592596	Gorillaz	7
+user_000005	7cb90029-bf7e-4cf5-92b3-7677f1ed7a61	The Brainwasher (Erol Alkan'S Horrorhouse Dub)	056e4f3e-d505-4dad-8ec1-d04f521cbb56	Daft Punk	6
+user_000005	18027ae5-23ad-4e61-8474-36cb1c314741	Wind It Up	4a4ee089-93b1-4470-af9a-6ff575d32704	The Prodigy	6
+user_000005	f0cf7175-f13b-4ef8-8cde-a830a6c5c023	Same Ground Again	4f4bda3c-d636-4135-b65a-6cc26bc75788	Kosheen	6
+user_000005	59038571-03ea-4ca4-965c-a57eae2aa138	Face To Face	056e4f3e-d505-4dad-8ec1-d04f521cbb56	Daft Punk	6
+user_000005	1a915a2d-e2f4-4300-a230-96fc9c8a7b60	Too Long	056e4f3e-d505-4dad-8ec1-d04f521cbb56	Daft Punk	6
+user_000005	e1fe1d12-dac2-4325-ae1b-25e0ef06b998	Voyager	056e4f3e-d505-4dad-8ec1-d04f521cbb56	Daft Punk	6
+user_000005	3f60ae01-43cc-4db9-86ec-97b79f83764f	Short Circuit	056e4f3e-d505-4dad-8ec1-d04f521cbb56	Daft Punk	6
+user_000005	c56dbfa4-0a36-44f3-82fb-aef26a52af4f	Like A Book	4f4bda3c-d636-4135-b65a-6cc26bc75788	Kosheen	6
+user_000005	7a6094ca-50e5-4973-bfb0-2c114d574577	Jump	79239441-bfd5-4981-a70c-55c3f15c1287	Madonna	6
+user_000005	c00382c2-5c52-4c14-85d2-d7438a4b1fa2	Narayan	4a4ee089-93b1-4470-af9a-6ff575d32704	The Prodigy	6
+user_000005	2a220770-1150-4190-b0e0-57d89a0a7469	Veridis Quo	056e4f3e-d505-4dad-8ec1-d04f521cbb56	Daft Punk	6
+user_000005	c04e503a-4373-4da6-b17b-2e1b57e57696	Musique	056e4f3e-d505-4dad-8ec1-d04f521cbb56	Daft Punk	6
+user_000005	2c3a3a79-4a9b-49e2-9f3f-cd1aff2b6f82	Everybody In The Place	4a4ee089-93b1-4470-af9a-6ff575d32704	The Prodigy	6
+user_000005	65f61259-cf3e-4a73-9bf5-34a73ee9d1e9	Night Sight	cb67438a-7f50-4f2b-a6f1-2bb2729fd538	Air	6
+user_000005	65d06e97-5432-4721-9f66-78715378d568	Your Life	4f4bda3c-d636-4135-b65a-6cc26bc75788	Kosheen	6
+user_000005	6b429cec-fe14-41af-a38e-07bf609123d7	Yes!	52ee72de-e3d1-4429-9e39-d6bfedfe7295	Amber	6
+user_000005	e73f4ce1-c18c-4ee1-8814-679eda76773e	Disco Lies (Diskokaine Fried Chicken Remix)	8970d868-0723-483b-a75b-51088913d3d4	Moby	6
+user_000005	2d41627f-440d-4af8-b6ef-05a76cca50ae	Ms Jackson	73fdb566-a9b1-494c-9f32-51768ec9fd27	Outkast	6
+user_000005	6c22ab4b-2e97-4060-a975-422e951d4725	American Life (Radio Edit)	79239441-bfd5-4981-a70c-55c3f15c1287	Madonna	6
+user_000005	bd3b1c68-e489-448c-8e0f-4ca2874e253a	Future Lovers	79239441-bfd5-4981-a70c-55c3f15c1287	Madonna	6
+user_000005	bd30436a-69a5-482a-8895-ce69d275d085	Alright (Den Hetrix & Raffa Mix)	f9d74311-5baa-4ae8-a616-20968afce54f	Red Carpet	6
+user_000005	bcde755b-0d7d-4d6e-a20e-1364b2800ebd	Frozen	79239441-bfd5-4981-a70c-55c3f15c1287	Madonna	6
+user_000005	25d2a6b3-74b0-40ee-ad7f-6be50721d4c0	130 (Beanfield Remix)	465df2e4-a5fa-4906-a3d8-ed957ba1e69c	Joe & Jessey	6
+user_000005	226f21e9-f8a0-4c81-811a-fa5b24a6cf2d	Run Baby Run (Antix Remix)	8b7836a5-7022-4914-ae47-763d8fa45278	Flowjob	6
+user_000005	607f0209-b05a-4c30-bed4-770972cd7486	Your Love (Remix)	4a4ee089-93b1-4470-af9a-6ff575d32704	The Prodigy	6
+user_000005	eb3fabd4-be4c-4c1a-8486-c98d363ec613	Hung Up (Radio Version)	79239441-bfd5-4981-a70c-55c3f15c1287	Madonna	6
+user_000005	76c67da1-fa97-4b37-b7cb-f6340ebadeb6	Cosmic Girl	f4857fb9-e255-4dc6-bd01-e4ca7cc68544	Jamiroquai	6
+user_000005	ef5ee206-5989-4d16-8483-ebdb2754b83d	We'Re All Made Of Stars (Dj Tiësto Remix)	8970d868-0723-483b-a75b-51088913d3d4	Moby	6
+user_000005	81a1804d-38ce-42eb-a305-6097832478b6	U Can'T Touch This	cba94150-9113-4017-acc2-a8cc0313a084	Mc Hammer	6
+user_000005	af8c7a88-dd3f-4130-b147-6cf9dd816147	Biological	cb67438a-7f50-4f2b-a6f1-2bb2729fd538	Air	6
+user_000005	3b35596d-0a87-4863-a87a-e24fbbb6055a	In This World	8970d868-0723-483b-a75b-51088913d3d4	Moby	6
+user_000005	3728204e-3a7d-4850-be14-d71317a0b71c	E Samba (Radio Edit)	e96ab876-83bc-4f5d-98da-91dc8589acbc	Junior Jack	6
+user_000005	4c6f13c6-7ae5-4b99-8056-3d08c696280d	Destination Calabria (Nari & Milani Club Mix)	836d43ae-5086-4f45-9e23-b02edca37653	Alex Gaudino	6
+user_000005	d761d2d1-737b-4d60-ba17-ebd93655628b	Damage	4f4bda3c-d636-4135-b65a-6cc26bc75788	Kosheen	6
+user_000005	395e17eb-cfc3-4d68-b48f-f320ba6e8c42	Exploration Of Space	c276bc3e-1a07-49dd-9c46-b060ab07320e	Comic Gate	6
+user_000005	07b720fc-0d6f-4342-a6df-876d1749de0b	High Life	056e4f3e-d505-4dad-8ec1-d04f521cbb56	Daft Punk	6
+user_000005	8bd6cf31-cfdb-4702-af47-c64ccbf449a2	Hold You	22a096ef-c70d-4d70-ae19-4fc2412d4986	Atb	6
+user_000005	87087186-a610-461d-a835-2d9757d30d75	Seven Seconds	10ae58ec-1c8d-4f46-b599-9cafd32858a2	Youssou N'Dour & Neneh Cherry	6
+user_000005	0ea57bf1-f461-433a-b222-c46062c1658c	It'S All True (Martin Buttrich Remix)	6dbd7f8b-20ac-4287-8dd3-b4cae5c5f82f	Tracey Thorn	6
+user_000005	9c0e224d-5f0e-43ab-8e08-945e9edb9e1b	The Child	ee1a6d4a-b1ff-46a8-acf2-af575424bda5	Alex Gopher	6
+user_000005	dfa74397-b1ff-4f57-bba6-db2986d5b9ff	Tutti Frutti	95c2339b-8277-49a6-9aaf-08d8eeeaa0be	Little Richard	6
+user_000005	d2461a8e-12cb-4ca0-9c21-37f0ec7d892e	Clouds Up	cb67438a-7f50-4f2b-a6f1-2bb2729fd538	Air	6
+user_000005	3db792fd-2e6a-4268-b6bc-cd87eb512c4e	Save Tonight	4a5777b3-f55b-437c-8b23-d9ee7791c7fc	Eagle-Eye Cherry	6
+user_000005	15a85271-3bef-4f06-a8ac-f1ce5d8af6b0	Radian	cb67438a-7f50-4f2b-a6f1-2bb2729fd538	Air	6
+user_000005	15a30807-73e2-45ad-ad81-6e978686ab9c	Face To Face (Cosmo Vitelli Remix)	056e4f3e-d505-4dad-8ec1-d04f521cbb56	Daft Punk	6
+user_000005	41f3dfe9-cb72-48db-9ba5-a16f76e669cf	Back To The Streets	a143d507-b546-409b-be09-7f77c804b1b3	Tom Novy	6
+user_000005	d1e4cc31-4069-4502-9a26-06190da9120c	Sanctuary	be18c364-728a-4a3c-bca6-fcc7043220df	Origene	6
+user_000005	511f05a3-8d6a-49cb-bb24-efc4d9556f50	Ouverture	056e4f3e-d505-4dad-8ec1-d04f521cbb56	Daft Punk	6
+user_000005	f45a72f4-3132-4deb-9b01-371be3bce769	California Dreamin' (Clubhouse Single)	26846e1b-6bc2-4eec-932f-23e525b1591f	Royal Gigolos	6
+user_000005	165d4874-f8fe-4c29-b726-beb4ae2e98ce	Auto Rock	d700b3f5-45af-4d02-95ed-57d301bda93e	Mogwai	6
+user_000005	ffc480b5-5b26-402f-9b97-f670f831ad6e	Dirty Trip	cb67438a-7f50-4f2b-a6f1-2bb2729fd538	Air	6
+user_000005	9322568e-d26c-47fd-bbd7-7461ef273659	Mind Games	e09ffb9b-ff8c-47f6-9147-ff470bec0ee6	Abyss	6
+user_000005	cf1925dd-09e4-47ee-b60f-9ec1270ce760	Human After All (Sebastian Remix)	056e4f3e-d505-4dad-8ec1-d04f521cbb56	Daft Punk	6
+user_000005	83fe377d-2b58-4a02-a779-02fbb7b35644	Fuel My Fire	4a4ee089-93b1-4470-af9a-6ff575d32704	The Prodigy	6
+user_000005	0d2d8f4c-e323-47db-a4e4-e39148a396ce	Heavenly (Original Mix)	2e29b733-ac2b-4948-9b5d-efff3eb23e9b	Didier Sinclair & Chris Pi	6
+user_000005	8549a232-0430-4e5a-ba46-34e4fc5bb1b8	06:15 Am	b2e9df97-3deb-4e4e-8193-ab1af10cfd83	Liquid Soul	6
+user_000005	fae040d3-9fa8-4a97-98d1-27379cb044df	Now Or Never (Club Mix)	a143d507-b546-409b-be09-7f77c804b1b3	Tom Novy	5
+user_000005	704d6e9e-b04c-4dbe-b633-4b74fde4e6a2	It'S Over	a143d507-b546-409b-be09-7f77c804b1b3	Tom Novy	5
+user_000005	93b0f3e3-dc7f-436b-93a7-285a0dfae829	Jericho	4a4ee089-93b1-4470-af9a-6ff575d32704	The Prodigy	5
+user_000005	0927422f-648e-4db7-b8d9-4acebc4cb3f5	Hooked On You	9ec90f51-2c4a-495b-b478-2dfc9c07f8bc	Cerrone	5
+user_000005	25dfbb96-84ce-4ccd-bc5b-8114e82e2f6c	Empty House	cb67438a-7f50-4f2b-a6f1-2bb2729fd538	Air	5
+user_000005	7109813b-b1bb-462c-b831-33841f3dee43	Over My Shoulder	a04e09c8-733c-4430-9e22-99ef9dd5e2d7	Mike + The Mechanics	5
+user_000005	936214ed-cb79-46cf-87e9-dc97bcc8b200	My Destiny Dancing	ed9c52a6-a995-4194-ad64-bd74d65e9b72	Missifu	5
+user_000005	f4467064-33eb-41f5-ab22-cdd18f326ba5	Weather Experience	4a4ee089-93b1-4470-af9a-6ff575d32704	The Prodigy	5
+user_000005	27b481a7-0d7d-45ee-a8ff-d03a778e40ea	Phoenix	056e4f3e-d505-4dad-8ec1-d04f521cbb56	Daft Punk	5
+user_000005	29855e39-e9f9-43e5-9e1d-72cea94337f4	Robot Rock (Daft Punk Maximum Overdrive Mix)	056e4f3e-d505-4dad-8ec1-d04f521cbb56	Daft Punk	5

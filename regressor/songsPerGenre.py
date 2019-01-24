@@ -1,3 +1,7 @@
+import matplotlib
+matplotlib.use('Agg')
+import sys
+import os
 from collections import OrderedDict, Counter
 from operator import itemgetter
 from functions import importMappedData, mbzMeta
@@ -6,11 +10,21 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import re
 
+def printUsage():
+	print("Usage: python songsPerGenre.py {user_id}")
+	
+	
+try:
+	user = sys.argv[1]
+except IndexError as err:
+	printUsage()
+	sys.exit(1)
+	
+user_folder = './'+user
 
 # Set up data
-allData = importMappedData()
-# Get metadata for every song
-data = mbzMeta(allData)
+allData = importMappedData(user_folder+'/mapped_data.tsv')
+data = mbzMeta(user_folder+'/meta.tsv',allData)
 
 # Clean-up genres column
 data['genres'] = data['genres'].apply(lambda x: x.replace("[","").replace("]","").replace("'","") )
@@ -66,21 +80,10 @@ fig,ax = plt.subplots()
 y_pos = np.arange(len(labels))
 ax.barh(y_pos, frequency,align='center',color='purple')
 ax.set_yticks(y_pos)
-ax.set_yticklabels(labels)
+ax.set_yticklabels(labels,fontsize=8)
 ax.invert_yaxis()
 ax.set_xlabel('Number of Songs')
 ax.set_ylabel('Genre')
 ax.set_title("Songs Per Genre")
 plt.gcf().subplots_adjust(left=0.25)
-plt.show()	
-
-'''
-# Configure plot settings
-plt.xlabel("Genre")
-plt.ylabel("Number of Songs")
-plt.bar(y_pos,frequency)
-plt.xticks(y_pos,labels)
-plt.xticks(rotation=70)
-plt.gcf().subplots_adjust(bottom=0.25)
-plt.show()
-'''
+plt.savefig(user+'/songsPerGenre.png')

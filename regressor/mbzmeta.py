@@ -1,11 +1,21 @@
-from functions import importData, trackIds
 from datetime import datetime
 import sys
 import pandas as pd
 import musicbrainzngs 
 from musicbrainzngs import WebServiceError
 
-datafile = sys.argv[1]
+def printUsage():
+	print("Usage: python mbzmeta.py {user_id}")
+
+
+try:
+	user = sys.argv[1]
+except IndexError as err:
+	printUsage()
+	sys.exit(1)
+	
+	
+datafile = './'+user+'/'+user+'_data.tsv'
 
 # Tell musicbrainz what your app is, and how to contact you
 # (this step is required, as per the webservice access rules
@@ -16,11 +26,11 @@ musicbrainzngs.set_useragent("Mood Music Library", "0.1", "cw374@student.le.ac.u
 musicbrainzngs.auth("smidge","abracadabra")
 
 # Import data from data.tsv
-data = importData(datafile)
+data=pd.read_csv(datafile,sep='\t',header=0,usecols=["user_id","track_id","track_name","artist_id","artist_name","playcount"])
 
 # Get all the unique track IDs in the dataset
-unique_tracks = trackIds(data)
-#unique_tracks = unique_tracks[:5]
+unique_tracks = data["track_id"].unique()		
+
 l = []
 
 for track_id in unique_tracks:
@@ -142,5 +152,4 @@ cols = ['track_id','title','artist_id','artist_name','country','album','year','g
 
 df = pd.DataFrame(l,columns=cols)
 df.set_index('track_id')
-#print(df.head())
-df.to_csv("meta.tsv",sep='\t',index=False, encoding='utf-8')
+df.to_csv('./'+user+"/meta.tsv",sep='\t',index=False, encoding='utf-8')

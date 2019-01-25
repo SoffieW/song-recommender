@@ -10,6 +10,7 @@ def importMappedData(filename):
 
 
 def mbzMeta(filename,data):
+	print("FNAME:"+filename)
 	ids = data["track_id"].unique().tolist()	
 	l = []
 	with open (filename) as f:

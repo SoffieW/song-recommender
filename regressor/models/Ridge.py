@@ -1,4 +1,5 @@
 import sys
+sys.path.append("..")
 import os
 import numpy as np
 import pandas as pd
@@ -8,10 +9,10 @@ from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
 from sklearn.preprocessing import LabelEncoder, MultiLabelBinarizer
 from sklearn.linear_model import RidgeCV
 import matplotlib.pyplot as plt
-from model_data import importMappedData, mbzMeta
+from functions import importMappedData, mbzMeta
 
 def printUsage():
-	print("Usage: python Ridge.py {user_id}")
+	print("Usage: python DTR.py {user_id}")
 	
 	
 try:
@@ -34,6 +35,7 @@ if(found == False):
 	print("No data folder found for this user.")
 	sys.exit(1)
 	
+	
 
 def mean_absolute_percentage_error(y_true, y_pred): 
     y_true, y_pred = np.array(y_true), np.array(y_pred)
@@ -41,8 +43,13 @@ def mean_absolute_percentage_error(y_true, y_pred):
 
 # SET UP DATA
 
+user_folder = '../'+user
+
+# Set up data
+allData = importMappedData(user_folder+'/mapped_data.tsv')
+
 # Include the metadata for every song
-data = mbzMeta(user,importMappedData(user_folder+'/mapped_data.tsv'))
+data = mbzMeta(user_folder+'/meta.tsv',allData)
 
 # Rename country column to 'cntry' - because 'country' is a genre!
 data = data.rename(columns={ 'country':'cntry' })
